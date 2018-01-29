@@ -1,0 +1,121 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2//EN">
+<HTML>
+ 
+<!-- Mirrored from mail.python.org/pipermail/centraloh/2008-March/000080.html by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 29 Jan 2018 22:16:04 GMT -->
+<HEAD>
+   <TITLE> [CentralOH] cxFreeze
+   </TITLE>
+   <LINK REL="Index" HREF="index.html" >
+   <LINK REL="made" HREF="mailto:centraloh%40python.org?Subject=%5BCentralOH%5D%20cxFreeze&In-Reply-To=1205087480.23433.12.camel%40P1900">
+   <META NAME="robots" CONTENT="index,nofollow">
+   <META http-equiv="Content-Type" content="text/html; charset=us-ascii">
+   <LINK REL="Previous"  HREF="000077.html">
+   <LINK REL="Next"  HREF="000078.html">
+ </HEAD>
+ <BODY BGCOLOR="#ffffff">
+   <H1>[CentralOH] cxFreeze</H1>
+    <B>William McVey</B> 
+    <A HREF="mailto:centraloh%40python.org?Subject=%5BCentralOH%5D%20cxFreeze&In-Reply-To=1205087480.23433.12.camel%40P1900"
+       TITLE="[CentralOH] cxFreeze">wam at cisco.com
+       </A><BR>
+    <I>Tue Mar 11 16:51:47 CET 2008</I>
+    <P><UL>
+        <LI>Previous message: <A HREF="000077.html">[CentralOH] cxFreeze
+</A></li>
+        <LI>Next message: <A HREF="000078.html">[CentralOH] Idle / Gnome
+</A></li>
+         <LI> <B>Messages sorted by:</B> 
+              <a href="date.html#80">[ date ]</a>
+              <a href="thread.html#80">[ thread ]</a>
+              <a href="subject.html#80">[ subject ]</a>
+              <a href="author.html#80">[ author ]</a>
+         </LI>
+       </UL>
+    <HR>  
+<!--beginarticle-->
+<PRE>On Sun, 2008-03-09 at 14:31 -0400, Mark Erbaugh wrote:
+&gt;<i> I'm using cxFreeze 3.0.3 to create frozen executables of a Python
+</I>&gt;<i> application I am developing.  I've created frozen executables for both
+</I>&gt;<i> Linux and Windows. I have questions about both:
+</I>&gt;<i> 
+</I>&gt;<i> Windows:  Is there a way to use a custom icon rather than the generic
+</I>&gt;<i> Windows program icon?
+</I>
+Personally, whenever I've needed to have a compiled executable under
+Windows, I've used either py2exe (<A HREF="http://www.py2exe.org/">http://www.py2exe.org/</A>) or PyInstaller
+(<A HREF="http://pyinstaller.python-hosting.com/">http://pyinstaller.python-hosting.com/</A>), both work great and support
+customizable icons being configured in the settings.py file or on the
+commandline. I'm slightly more partial to py2exe myself, but if you need
+Linux support, you should look into PyInstaller. cxFreeze certainly
+isn't a *bad* option, it's just lacking in features. For example, with
+your case, it doesn't appear as if cx_Freeze has the selectable icon
+feature though. There are plenty of resource editors available under
+windows that would allow you to modify the content of your
+resulting .exe to replace the icon (google for 'change windows exe
+icon') after the fact though.
+
+&gt;<i> Linux:  It looks like cxFreeze is missing a couple of libraries,
+</I>&gt;<i> specifically:
+</I>&gt;<i> 
+</I>&gt;<i> libpython2.4.so.1.0 and libpq.so.4 (psycopg2 / PostgreSQL)
+</I>
+Adding  --shared-lib-name /usr/lib/libpython2.4.so.1.0
+to your FreezePython invocation should help take care of the first
+problem. Handling the second issue is harder. cxFreeze doesn't try to
+resolve all system dependencies in it's bundle. You'll notice that it
+doesn't stick in any of the other shared libraries your executables
+depend upon either (e.g. libpthread.so). My best advice would be to
+manually copy over the libpq.so.4 shared library, and in your main
+routine modify your process'es LD_LIBRARY_PATH environment to include
+your install directory *prior to importing psycopg2*. I've not tested
+this, but it *might* work. 
+
+&gt;<i> I developed and froze the Linux version of the application on a
+</I>&gt;<i> workstation running Ubuntu Dapper and Python2.4, but I tried to run on
+</I>&gt;<i> machine with Gutsy and Python2.5. I deliberately did not install
+</I>&gt;<i> Python2.4 because I would like my application to run on any Linux box.
+</I>
+Well, cxFreeze is generally pretty good about resolving python
+dependencies. Other system dependencies like a postgress runtime are
+kind of hit or miss.
+
+&gt;<i> To get it working on the Gutsty workstation, I copied the missing files
+</I>&gt;<i> from my Dapper workstation (/usr/lib) into the same directory as the
+</I>&gt;<i> frozen executable.  I then had to run ldconfig and add that directory to
+</I>&gt;<i> the cache.  Is there another way to have those files recognized. I'd
+</I>&gt;<i> really like to be able to just copy and unzip an archive file to a new
+</I>&gt;<i> Linux box - which is what I can do with the Windows version.
+</I>
+You shouldn't have to run ldconfig on your install host. Unless you're
+running your executable setuid, you should be able to manipulate your
+environment variables to define LD_LIBRARY_PATH to be a colon seperated
+list of directories to look for (in addition to the system directories)
+shared libraries. For a full list of environment variables honored by
+the shared library machinery, read the manpage for 'ld.so'
+
+  -- William
+
+</PRE>
+
+<!--endarticle-->
+    <HR>
+    <P><UL>
+        <!--threads-->
+	<LI>Previous message: <A HREF="000077.html">[CentralOH] cxFreeze
+</A></li>
+	<LI>Next message: <A HREF="000078.html">[CentralOH] Idle / Gnome
+</A></li>
+         <LI> <B>Messages sorted by:</B> 
+              <a href="date.html#80">[ date ]</a>
+              <a href="thread.html#80">[ thread ]</a>
+              <a href="subject.html#80">[ subject ]</a>
+              <a href="author.html#80">[ author ]</a>
+         </LI>
+       </UL>
+
+<hr>
+<a href="http://mail.python.org/mailman/listinfo/centraloh">More information about the CentralOH
+mailing list</a><br>
+</body>
+<!-- Mirrored from mail.python.org/pipermail/centraloh/2008-March/000080.html by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 29 Jan 2018 22:16:04 GMT -->
+</html>

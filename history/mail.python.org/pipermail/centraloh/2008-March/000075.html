@@ -1,0 +1,85 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2//EN">
+<HTML>
+ 
+<!-- Mirrored from mail.python.org/pipermail/centraloh/2008-March/000075.html by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 29 Jan 2018 22:15:59 GMT -->
+<HEAD>
+   <TITLE> [CentralOH] Python 2.5.1 / Ubuntu 7.10 problem with .zip file
+   </TITLE>
+   <LINK REL="Index" HREF="index.html" >
+   <LINK REL="made" HREF="mailto:centraloh%40python.org?Subject=%5BCentralOH%5D%20Python%202.5.1%20/%20Ubuntu%207.10%20problem%20with%20.zip%20file&In-Reply-To=1204827758.29003.0.camel%40P1900">
+   <META NAME="robots" CONTENT="index,nofollow">
+   <META http-equiv="Content-Type" content="text/html; charset=us-ascii">
+   <LINK REL="Previous"  HREF="000074.html">
+   <LINK REL="Next"  HREF="000079.html">
+ </HEAD>
+ <BODY BGCOLOR="#ffffff">
+   <H1>[CentralOH] Python 2.5.1 / Ubuntu 7.10 problem with .zip file</H1>
+    <B>William McVey</B> 
+    <A HREF="mailto:centraloh%40python.org?Subject=%5BCentralOH%5D%20Python%202.5.1%20/%20Ubuntu%207.10%20problem%20with%20.zip%20file&In-Reply-To=1204827758.29003.0.camel%40P1900"
+       TITLE="[CentralOH] Python 2.5.1 / Ubuntu 7.10 problem with .zip file">wam at cisco.com
+       </A><BR>
+    <I>Thu Mar  6 22:07:55 CET 2008</I>
+    <P><UL>
+        <LI>Previous message: <A HREF="000074.html">[CentralOH] Python 2.5.1 / Ubuntu 7.10 problem with .zip file
+</A></li>
+        <LI>Next message: <A HREF="000079.html">[CentralOH] Python 2.5.1 / Ubuntu 7.10 problem with .zip file
+</A></li>
+         <LI> <B>Messages sorted by:</B> 
+              <a href="date.html#75">[ date ]</a>
+              <a href="thread.html#75">[ thread ]</a>
+              <a href="subject.html#75">[ subject ]</a>
+              <a href="author.html#75">[ author ]</a>
+         </LI>
+       </UL>
+    <HR>  
+<!--beginarticle-->
+<PRE>On Thu, 2008-03-06 at 13:22 -0500, Mark Erbaugh wrote:
+&gt;<i> I am working on an application that uses .zip files as part of an
+</I>&gt;<i> automatic update process. Since Python 2.3, Python has been able
+</I>&gt;<i> to read files from a .zip file.  I've done most of the development with
+</I>&gt;<i> Python 2.4.3 under Ubuntu 6.06.  Today, I tried running the application
+</I>&gt;<i> under Python 2.5.1 with Ubuntu 7.10. It is unable to read either of
+</I>&gt;<i> the .zip files that the program uses for updates. 
+</I>
+Can you test your .zip file with:
+	python -m zipfile -t YOUR_FILENAME.zip
+and list it with:
+	python -m zipfile -l YOUR_FILENAME.zip
+
+If so, the problem is likely to not be in python's zipfile library or in
+your zip file but in your application code. If either of the zipfile
+invocations above fails, then you're likely to be dealing with a zip
+file that is possibly corrupt or utilizes a slightly
+different/incompatible version of the zip file specification. In which
+case, does winzip or the unix unzip command successfully extract the
+file? Are you able to create the zip with contents that can be shared to
+allow other people to debug it or the std lib?
+
+  -- William
+
+</PRE>
+
+
+
+<!--endarticle-->
+    <HR>
+    <P><UL>
+        <!--threads-->
+	<LI>Previous message: <A HREF="000074.html">[CentralOH] Python 2.5.1 / Ubuntu 7.10 problem with .zip file
+</A></li>
+	<LI>Next message: <A HREF="000079.html">[CentralOH] Python 2.5.1 / Ubuntu 7.10 problem with .zip file
+</A></li>
+         <LI> <B>Messages sorted by:</B> 
+              <a href="date.html#75">[ date ]</a>
+              <a href="thread.html#75">[ thread ]</a>
+              <a href="subject.html#75">[ subject ]</a>
+              <a href="author.html#75">[ author ]</a>
+         </LI>
+       </UL>
+
+<hr>
+<a href="http://mail.python.org/mailman/listinfo/centraloh">More information about the CentralOH
+mailing list</a><br>
+</body>
+<!-- Mirrored from mail.python.org/pipermail/centraloh/2008-March/000075.html by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 29 Jan 2018 22:15:59 GMT -->
+</html>

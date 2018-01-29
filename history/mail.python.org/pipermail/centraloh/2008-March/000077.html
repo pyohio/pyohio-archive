@@ -1,0 +1,89 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2//EN">
+<HTML>
+ 
+<!-- Mirrored from mail.python.org/pipermail/centraloh/2008-March/000077.html by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 29 Jan 2018 22:16:04 GMT -->
+<HEAD>
+   <TITLE> [CentralOH] cxFreeze
+   </TITLE>
+   <LINK REL="Index" HREF="index.html" >
+   <LINK REL="made" HREF="mailto:centraloh%40python.org?Subject=%5BCentralOH%5D%20cxFreeze&In-Reply-To=">
+   <META NAME="robots" CONTENT="index,nofollow">
+   <META http-equiv="Content-Type" content="text/html; charset=us-ascii">
+   <LINK REL="Previous"  HREF="000076.html">
+   <LINK REL="Next"  HREF="000080.html">
+ </HEAD>
+ <BODY BGCOLOR="#ffffff">
+   <H1>[CentralOH] cxFreeze</H1>
+    <B>Mark Erbaugh</B> 
+    <A HREF="mailto:centraloh%40python.org?Subject=%5BCentralOH%5D%20cxFreeze&In-Reply-To="
+       TITLE="[CentralOH] cxFreeze">mark at microenh.com
+       </A><BR>
+    <I>Sun Mar  9 19:31:20 CET 2008</I>
+    <P><UL>
+        <LI>Previous message: <A HREF="000076.html">[CentralOH] Python 2.5.1 / Ubuntu 7.10 problem with .zip file
+</A></li>
+        <LI>Next message: <A HREF="000080.html">[CentralOH] cxFreeze
+</A></li>
+         <LI> <B>Messages sorted by:</B> 
+              <a href="date.html#77">[ date ]</a>
+              <a href="thread.html#77">[ thread ]</a>
+              <a href="subject.html#77">[ subject ]</a>
+              <a href="author.html#77">[ author ]</a>
+         </LI>
+       </UL>
+    <HR>  
+<!--beginarticle-->
+<PRE>I'm using cxFreeze 3.0.3 to create frozen executables of a Python
+application I am developing.  I've created frozen executables for both
+Linux and Windows. I have questions about both:
+
+Windows:  Is there a way to use a custom icon rather than the generic
+Windows program icon?
+
+Linux:  It looks like cxFreeze is missing a couple of libraries,
+specifically:
+
+libpython2.4.so.1.0 and libpq.so.4 (psycopg2 / PostgreSQL)
+
+I developed and froze the Linux version of the application on a
+workstation running Ubuntu Dapper and Python2.4, but I tried to run on
+machine with Gutsy and Python2.5. I deliberately did not install
+Python2.4 because I would like my application to run on any Linux box.
+
+To get it working on the Gutsty workstation, I copied the missing files
+from my Dapper workstation (/usr/lib) into the same directory as the
+frozen executable.  I then had to run ldconfig and add that directory to
+the cache.  Is there another way to have those files recognized. I'd
+really like to be able to just copy and unzip an archive file to a new
+Linux box - which is what I can do with the Windows version.
+
+Thanks,
+Mark
+
+</PRE>
+
+
+
+
+<!--endarticle-->
+    <HR>
+    <P><UL>
+        <!--threads-->
+	<LI>Previous message: <A HREF="000076.html">[CentralOH] Python 2.5.1 / Ubuntu 7.10 problem with .zip file
+</A></li>
+	<LI>Next message: <A HREF="000080.html">[CentralOH] cxFreeze
+</A></li>
+         <LI> <B>Messages sorted by:</B> 
+              <a href="date.html#77">[ date ]</a>
+              <a href="thread.html#77">[ thread ]</a>
+              <a href="subject.html#77">[ subject ]</a>
+              <a href="author.html#77">[ author ]</a>
+         </LI>
+       </UL>
+
+<hr>
+<a href="http://mail.python.org/mailman/listinfo/centraloh">More information about the CentralOH
+mailing list</a><br>
+</body>
+<!-- Mirrored from mail.python.org/pipermail/centraloh/2008-March/000077.html by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 29 Jan 2018 22:16:04 GMT -->
+</html>

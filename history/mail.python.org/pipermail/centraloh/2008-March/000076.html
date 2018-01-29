@@ -1,0 +1,96 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2//EN">
+<HTML>
+ 
+<!-- Mirrored from mail.python.org/pipermail/centraloh/2008-March/000076.html by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 29 Jan 2018 22:16:02 GMT -->
+<HEAD>
+   <TITLE> [CentralOH] Python 2.5.1 / Ubuntu 7.10 problem with .zip file
+   </TITLE>
+   <LINK REL="Index" HREF="index.html" >
+   <LINK REL="made" HREF="mailto:centraloh%40python.org?Subject=%5BCentralOH%5D%20Python%202.5.1%20/%20Ubuntu%207.10%20problem%20with%20.zip%20file&In-Reply-To=">
+   <META NAME="robots" CONTENT="index,nofollow">
+   <META http-equiv="Content-Type" content="text/html; charset=us-ascii">
+   <LINK REL="Previous"  HREF="000079.html">
+   <LINK REL="Next"  HREF="000077.html">
+ </HEAD>
+ <BODY BGCOLOR="#ffffff">
+   <H1>[CentralOH] Python 2.5.1 / Ubuntu 7.10 problem with .zip file</H1>
+    <B>Dean Stautberg</B> 
+    <A HREF="mailto:centraloh%40python.org?Subject=%5BCentralOH%5D%20Python%202.5.1%20/%20Ubuntu%207.10%20problem%20with%20.zip%20file&In-Reply-To="
+       TITLE="[CentralOH] Python 2.5.1 / Ubuntu 7.10 problem with .zip file">dstautberg at gmail.com
+       </A><BR>
+    <I>Fri Mar  7 14:59:31 CET 2008</I>
+    <P><UL>
+        <LI>Previous message: <A HREF="000079.html">[CentralOH] Python 2.5.1 / Ubuntu 7.10 problem with .zip file
+</A></li>
+        <LI>Next message: <A HREF="000077.html">[CentralOH] cxFreeze
+</A></li>
+         <LI> <B>Messages sorted by:</B> 
+              <a href="date.html#76">[ date ]</a>
+              <a href="thread.html#76">[ thread ]</a>
+              <a href="subject.html#76">[ subject ]</a>
+              <a href="author.html#76">[ author ]</a>
+         </LI>
+       </UL>
+    <HR>  
+<!--beginarticle-->
+<PRE>&gt;<i>
+</I>&gt;<i> On Thu, 2008-03-06 at 13:22 -0500, Mark Erbaugh wrote:
+</I>&gt;<i> &gt; I am working on an application that uses .zip files as part of an
+</I>&gt;<i> &gt; automatic update process. Since Python 2.3, Python has been able
+</I>&gt;<i> &gt; to read files from a .zip file.  I've done most of the development with
+</I>&gt;<i> &gt; Python 2.4.3 under Ubuntu 6.06.  Today, I tried running the application
+</I>&gt;<i> &gt; under Python 2.5.1 with Ubuntu 7.10. It is unable to read either of
+</I>&gt;<i> &gt; the .zip files that the program uses for updates.
+</I>&gt;<i>
+</I>&gt;<i> Can you test your .zip file with:
+</I>&gt;<i>         python -m zipfile -t YOUR_FILENAME.zip
+</I>&gt;<i> and list it with:
+</I>&gt;<i>         python -m zipfile -l YOUR_FILENAME.zip
+</I>&gt;<i>
+</I>&gt;<i> If so, the problem is likely to not be in python's zipfile library or in
+</I>&gt;<i> your zip file but in your application code. If either of the zipfile
+</I>&gt;<i> invocations above fails, then you're likely to be dealing with a zip
+</I>&gt;<i> file that is possibly corrupt or utilizes a slightly
+</I>&gt;<i> different/incompatible version of the zip file specification. In which
+</I>&gt;<i> case, does winzip or the unix unzip command successfully extract the
+</I>&gt;<i> file? Are you able to create the zip with contents that can be shared to
+</I>&gt;<i> allow other people to debug it or the std lib?
+</I>&gt;<i>
+</I>&gt;<i>   -- William
+</I>&gt;<i>
+</I>
+I throw in a suggestion since this has bitten me before: if perchance you
+are using python code to copy the zip file, make sure you use the binary
+option.  Reading or writing a zip file as text can cause it to get
+corrupted.
+
+-Dean
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <A HREF="http://mail.python.org/mailman/private/centraloh/attachments/20080307/444a2db9/attachment.htm">http://mail.python.org/mailman/private/centraloh/attachments/20080307/444a2db9/attachment.htm</A> 
+</PRE>
+
+
+
+<!--endarticle-->
+    <HR>
+    <P><UL>
+        <!--threads-->
+	<LI>Previous message: <A HREF="000079.html">[CentralOH] Python 2.5.1 / Ubuntu 7.10 problem with .zip file
+</A></li>
+	<LI>Next message: <A HREF="000077.html">[CentralOH] cxFreeze
+</A></li>
+         <LI> <B>Messages sorted by:</B> 
+              <a href="date.html#76">[ date ]</a>
+              <a href="thread.html#76">[ thread ]</a>
+              <a href="subject.html#76">[ subject ]</a>
+              <a href="author.html#76">[ author ]</a>
+         </LI>
+       </UL>
+
+<hr>
+<a href="http://mail.python.org/mailman/listinfo/centraloh">More information about the CentralOH
+mailing list</a><br>
+</body>
+<!-- Mirrored from mail.python.org/pipermail/centraloh/2008-March/000076.html by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 29 Jan 2018 22:16:02 GMT -->
+</html>
