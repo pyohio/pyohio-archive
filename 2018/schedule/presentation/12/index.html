@@ -1,0 +1,695 @@
+
+<!DOCTYPE html>
+<html lang="en-us">
+    
+<!-- Mirrored from www.pyohio.org/2018/schedule/presentation/12/ by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 29 Jan 2019 05:27:31 GMT -->
+<!-- Added by HTTrack --><meta http-equiv="content-type" content="text/html;charset=utf-8" /><!-- /Added by HTTrack -->
+<head>
+        <meta charset="utf-8" />
+        <title>PyOhio | Presentation: Python in Serverless Architectures</title>
+        
+            <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        
+
+        
+    
+
+
+<link rel="icon" type="image/png" href="https://static.pyohio.org/images/py-small-logo.png">
+<link href="https://fonts.googleapis.com/css?family=Nunito:300,600,700|Roboto+Mono|Roboto+Slab" rel="stylesheet">
+<link rel="stylesheet" type="text/css" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+<link rel="stylesheet" href="https://static.pyohio.org/CACHE/css/cc45127a897d.css" type="text/css" />
+
+
+
+        
+            <!-- HTML5 shim, for IE6-8 support of HTML elements -->
+            <!--[if lt IE 9]>
+                <script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.2/html5shiv.min.js"></script>
+            <![endif]-->
+        
+
+        
+    
+      <meta property="twitter:card" content="summary">
+      <meta property="og:type" content="website">
+      <meta property="og:title" content="Presentation: Python in Serverless Architectures | PyOhio">
+      <meta property="twitter:title" content="PyOhio">
+      <meta property="og:site_name" content="PyOhio">
+      <meta property="og:image" content="https://static.pyohio.org/images/pyohio-2018-logo-square.png">
+      <meta property="og:image:width" content="500">
+      <meta property="og:image:height" content="500">
+      <meta property="og:url" content="https://www.pyohio.org/2018/schedule/presentation/12/">
+      <meta property="og:description" content="PyOhio: The FREE Python conference in Columbus, OH July 28-29, 2018">
+      <meta property="twitter:description" content="PyOhio: The FREE Python conference in Columbus, OH July 28-29, 2018">
+      <meta name="description" content="PyOhio: The FREE Python conference in Columbus, OH July 28-29, 2018">
+    
+
+    </head>
+    <body class="" id="" >
+        <div class="">
+
+            
+  <header>
+    <div class="navbar navbar-default navbar-fixed-top">
+      <div class="container">
+        
+          <div class="navbar-header">
+            <button class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+              <span class="fa fa-bars">
+                <span class="hidden-accessible">Pages Menu</span>
+              </span>
+            </button>
+            <a class="navbar-brand" href="/2018/"><img width="32" src="https://static.pyohio.org/images/pyohio-white-sq-transparent-small.png" alt=""/> PyOhio</a>
+          </div>
+          <div class="collapse navbar-collapse navbar-responsive-collapse">
+            
+    
+<ul class="nav navbar-nav">
+    
+        <li class=" ">
+            <a href="/2018/schedule/" >
+                Schedule
+                
+            </a>
+            
+        </li>
+    
+        <li class="dropdown ">
+            <a href="#" class="dropdown-toggle" data-toggle="dropdown">
+                About
+                <b class="caret"></b>
+            </a>
+            
+                
+<ul class="dropdown-menu" role="menu">
+    
+        <li role="presentation" >
+            <a role="menuitem" href="/2018/code-of-conduct" >Code of Conduct</a>
+        </li>
+    
+        <li role="presentation" >
+            <a role="menuitem" href="/2018/about/team" >Our Team</a>
+        </li>
+    
+        <li role="presentation" >
+            <a role="menuitem" href="/2018/about/keep-in-touch" >Keep In Touch</a>
+        </li>
+    
+</ul>
+            
+        </li>
+    
+        <li class="dropdown ">
+            <a href="#" class="dropdown-toggle" data-toggle="dropdown">
+                Attend
+                <b class="caret"></b>
+            </a>
+            
+                
+<ul class="dropdown-menu" role="menu">
+    
+        <li role="presentation" >
+            <a role="menuitem" href="/2018/attend/register" >Register</a>
+        </li>
+    
+        <li role="presentation" >
+            <a role="menuitem" href="/2018/attend/travel" >Travel to PyOhio</a>
+        </li>
+    
+        <li role="presentation" >
+            <a role="menuitem" href="/2018/attend/hotels" >Hotels</a>
+        </li>
+    
+        <li role="presentation" >
+            <a role="menuitem" href="/2018/attend/volunteer" >Volunteer</a>
+        </li>
+    
+</ul>
+            
+        </li>
+    
+        <li class="dropdown ">
+            <a href="#" class="dropdown-toggle" data-toggle="dropdown">
+                Program
+                <b class="caret"></b>
+            </a>
+            
+                
+<ul class="dropdown-menu" role="menu">
+    
+        <li role="presentation" >
+            <a role="menuitem" href="/2018/schedule/" >Schedule</a>
+        </li>
+    
+        <li role="presentation" >
+            <a role="menuitem" href="/2018/program/events" >Events</a>
+        </li>
+    
+        <li role="presentation" >
+            <a role="menuitem" href="/2018/schedule/talks/list/" >Talks List</a>
+        </li>
+    
+        <li role="presentation" >
+            <a role="menuitem" href="/2018/schedule/tutorials/list/" >Tutorials List</a>
+        </li>
+    
+        <li role="presentation" >
+            <a role="menuitem" href="/2018/program/selection-process" >Selection Process</a>
+        </li>
+    
+        <li role="presentation" >
+            <a role="menuitem" href="/2018/program/young-coders" >Young Coders</a>
+        </li>
+    
+        <li role="presentation" >
+            <a role="menuitem" href="/2018/program/sprints" >Sprints &amp; Receptions</a>
+        </li>
+    
+</ul>
+            
+        </li>
+    
+        <li class="dropdown ">
+            <a href="#" class="dropdown-toggle" data-toggle="dropdown">
+                Sponsors
+                <b class="caret"></b>
+            </a>
+            
+                
+<ul class="dropdown-menu" role="menu">
+    
+        <li role="presentation" >
+            <a role="menuitem" href="/2018/sponsors" >Our Sponsors</a>
+        </li>
+    
+        <li role="presentation" >
+            <a role="menuitem" href="/2018/sponsors/prospectus" >Prospectus</a>
+        </li>
+    
+        <li role="presentation" >
+            <a role="menuitem" href="/2018/sponsors/become-a-sponsor" >Become a Sponsor</a>
+        </li>
+    
+        <li role="presentation" >
+            <a role="menuitem" href="/2018/sponsors/individual" >Individual Sponsorship</a>
+        </li>
+    
+</ul>
+            
+        </li>
+    
+</ul>
+
+            
+          </div>
+        
+      </div>
+    </div>
+  </header>
+
+
+            
+
+  <div class="homepage-block-bg website-background"></div>
+
+  <div id="background-filter">
+    <section id="content_body">
+        <div class="container">
+            
+
+
+            <div class="row">
+                <div class="col-md-9">
+                    
+<div class="tight-headings">
+  
+    <h1>
+  Python in Serverless Architectures
+  <br>
+  <small>
+    By
+    
+      Daniel Lindeman
+    
+  </small>
+</h1>
+  
+
+  
+    <p class="lead">
+  
+    
+      Serverless architectures are all the rage right now, but why? The cost savings? The developer story? Because it&#39;s shiny and new?
+
+In this talk I will start with a basic Flask App and show the process of migrating to a serverless architecture on AWS using the Serverless framework. Along the way, we&#39;ll also highlight some of the tradeoffs developers make when choosing a serverless architecture.
+    
+  
+</p>
+  
+</div>
+
+  
+  
+    <h4>
+      Sunday
+      1:30 p.m.&ndash;2 p.m.
+      in
+      Cartoon 2
+     </h4>
+  
+
+  
+
+  
+    
+      <div class="abstract">
+        
+          <p>You're familiar with backend web development in the Python ecosystem, Flask, Django, Pyramid, all of it. Things are going smoothly in the world of backend. Great! </p>
+<p>One day you're cruising through HackerNews and all of a sudden see the words "Serverless Architectures" pop up. Oh dear. "Servers? That's where backend code lives!", you protest, "what is the racket all about?" </p>
+<p>Lucky for us, we know Python. A first-class citizen in the world of serverless architectures. </p>
+<p>Serverless architectures are on the rise, so lets take a look at all the moving pieces that go into making one. We begin our journey in the familiar land of Flask with a small, but useful, backend application. We will demystify serverless architectures using a very-confusingly-named utility called...ahem...Serverless. Piece by piece we will come to understand ways of doing user authentication, database interaction, deployment, and testing for our new fangled serverless application. We'll explore the pros and the cons of our choices as we make them.</p>
+<p>By the end of our time together serverless architectures will transform from meaningless buzzword to a valid architecture decision you have all the tools to evaluate.</p>
+        
+      </div>
+    
+  
+
+  
+    
+      
+  <h2>Daniel Lindeman</h2>
+
+  <div class="row">
+    <div class="col-sm-4 col-xs-6">
+      <div class="circle" style="border: 0;">
+        
+          <div class="fill" style="background-image: url('https://static.pyohio.org/images/website-background.svg');"></div>
+        
+      </div>
+    </div>
+    <div class="col-sm-8">
+      <div class="bio">
+        <p>Dan is a Software Engineer from Grand Rapids, MI, where he lives with his wife Kayla and his dog Bowie. When not learning a new language, framework, or piece of tech, Dan enjoys playing Nintendo games and spending time with friends.</p>
+<p>An educator-turned-developer, Dan got his start in the software industry testing embedded automotive infotainment systems. He is currently a part-time Masters student at Grand Valley State University focusing on Web Architectures. A self-described conference junkie, Dan can be found organizing community events and software meetup groups all over West Michigan.</p>
+      </div>
+
+      
+        <a class="btn btn-primary" href="https://twitter.com/lindemda">Twitter</a>
+      
+    </div>
+  </div>
+
+    
+  
+
+
+
+
+                    
+                    
+                </div>
+                <div class="col-md-3">
+                    
+                        
+
+
+
+
+
+<div class="h2">Sponsors</div>
+
+<div class="sponsor-list">
+    
+        
+
+          <div class="h3">Premier</div>
+
+          
+              <div>
+                  
+                      <a href="http://www.cardinalhealth.com/en/about-us/who-we-are/fuse-by-cardinal-health.html">
+                          <img src="https://static.pyohio.org/sponsor_files/Fuse_Logo.png.600x360_q85.png" alt="Fuse by Cardinal Health">
+                      </a>
+                  
+              </div>
+
+          
+
+        
+
+    
+        
+
+          <div class="h3">Young Coders</div>
+
+          
+              <div>
+                  
+                      <a href="http://www.intellovations.com">
+                          <img src="https://static.pyohio.org/sponsor_files/Intellovations-vertical-color.png.600x360_q85.png" alt="Intellovations LLC">
+                      </a>
+                  
+              </div>
+
+          
+
+        
+
+    
+        
+
+          <div class="h3">T-Shirt</div>
+
+          
+              <div>
+                  
+                      <a href="https://www.onshift.com/">
+                          <img src="https://static.pyohio.org/sponsor_files/On_Shift_logo_color.png.600x360_q85.png" alt="OnShift">
+                      </a>
+                  
+              </div>
+
+          
+
+        
+
+    
+        
+
+    
+        
+
+          <div class="h3">Platinum</div>
+
+          
+              <div>
+                  
+                      <a href="http://developer.cisco.com">
+                          <img src="https://static.pyohio.org/sponsor_files/core_black_url_with_cisco.png.600x360_q85.png" alt="Cisco DevNet">
+                      </a>
+                  
+              </div>
+
+          
+              <div>
+                  
+                      <a href="http://truthful.technology">
+                          <img src="https://static.pyohio.org/sponsor_files/TTSwoopVText.png.600x360_q85.png" alt="Truthful Technology LLC">
+                      </a>
+                  
+              </div>
+
+          
+              <div>
+                  
+                      <a href="https://www.jpmorganchase.com/">
+                          <img src="https://static.pyohio.org/sponsor_files/JPMC_Logo.jpg.600x360_q85.jpg" alt="JPMorgan Chase &amp; Co.">
+                      </a>
+                  
+              </div>
+
+          
+              <div>
+                  
+                      <a href="https://www.girldevelopit.com/chapters/columbus">
+                          <img src="https://static.pyohio.org/sponsor_files/circle-gdi-logo.png.600x360_q85.png" alt="Girl Develop It">
+                      </a>
+                  
+              </div>
+
+          
+
+        
+
+    
+        
+
+          <div class="h3">Gold</div>
+
+          
+              <div>
+                  
+                      <a href="https://www.americangreetings.com/">
+                          <img src="https://static.pyohio.org/sponsor_files/ag_logo_360x120.png.600x360_q85.png" alt="American Greetings">
+                      </a>
+                  
+              </div>
+
+          
+              <div>
+                  
+                      <a href="https://wingware.com/">
+                          <img src="https://static.pyohio.org/sponsor_files/wingware-button-2018.png.600x360_q85.png" alt="Wingware">
+                      </a>
+                  
+              </div>
+
+          
+              <div>
+                  
+                      <a href="http://www.datarobot.com">
+                          <img src="https://static.pyohio.org/sponsor_files/Vector_logo_options-01.eps.600x360_q85.jpg" alt="DataRobot">
+                      </a>
+                  
+              </div>
+
+          
+
+        
+
+    
+        
+
+          <div class="h3">Silver</div>
+
+          
+              <div>
+                  
+                      <a href="http://216software.com">
+                          <img src="https://static.pyohio.org/sponsor_files/216-software-logo.png.600x360_q85.png" alt="216 Software, LLC">
+                      </a>
+                  
+              </div>
+
+          
+
+        
+
+    
+        
+
+          <div class="h3">Conference Grant</div>
+
+          
+              <div>
+                  
+                      <a href="https://www.python.org/psf/">
+                          <img src="https://static.pyohio.org/sponsor_files/psf-logo-narrow-256x84-alpha.png.600x360_q85.png" alt="The Python Software Foundation">
+                      </a>
+                  
+              </div>
+
+          
+
+        
+
+    
+        
+
+          <div class="h3">Tutorial Hardware</div>
+
+          
+              <div>
+                  
+                      <a href="https://www.adafruit.com">
+                          <img src="https://static.pyohio.org/sponsor_files/AdafruitWebLogo.png.600x360_q85.png" alt="Adafruit">
+                      </a>
+                  
+              </div>
+
+          
+
+        
+
+    
+        
+
+          <div class="h3">Non-Profit</div>
+
+          
+              <div>
+                  
+                      <a href="https://opensource.osu.edu">
+                          <img src="https://static.pyohio.org/sponsor_files/open-source-club.png.600x360_q85.png" alt="OSU Open Source Club">
+                      </a>
+                  
+              </div>
+
+          
+              <div>
+                  
+                      <a href="http://mug.org">
+                          <img src="https://static.pyohio.org/sponsor_files/mug.png.600x360_q85.png" alt="Michigan!/usr/group">
+                      </a>
+                  
+              </div>
+
+          
+              <div>
+                  
+                      <a href="https://djangogirls.org/cleveland/">
+                          <img src="https://static.pyohio.org/sponsor_files/dgc_logo.png.600x360_q85.png" alt="DjangoGirlsCLE">
+                      </a>
+                  
+              </div>
+
+          
+
+        
+
+    
+        
+
+          <div class="h3">Conference Friends</div>
+
+          
+              <div>
+                  
+                      <a href="https://2018.pygotham.org/">
+                          <img src="https://static.pyohio.org/sponsor_files/PyGotham.png.600x360_q85.jpg" alt="PyGotham">
+                      </a>
+                  
+              </div>
+
+          
+              <div>
+                  
+                      <a href="https://scipy2018.scipy.org/ehome/index.php?eventid=299527&amp;">
+                          <img src="https://static.pyohio.org/sponsor_files/SciPy2018-Logo-250x67_1.jpg.600x360_q85.jpg" alt="SciPy Conference">
+                      </a>
+                  
+              </div>
+
+          
+              <div>
+                  
+                      <a href="https://northbaypython.org">
+                          <img src="https://static.pyohio.org/sponsor_files/wordmark.png.600x360_q85.png" alt="North Bay Python">
+                      </a>
+                  
+              </div>
+
+          
+              <div>
+                  
+                      <a href="https://www.pytennessee.org/">
+                          <img src="https://static.pyohio.org/sponsor_files/2019-logo.png.600x360_q85.png" alt="PyTennessee">
+                      </a>
+                  
+              </div>
+
+          
+              <div>
+                  
+                      <a href="https://www.meetup.com/indypy/">
+                          <img src="https://static.pyohio.org/sponsor_files/IndyPy-logo-large.jpg.600x360_q85.jpg" alt="IndyPy">
+                      </a>
+                  
+              </div>
+
+          
+
+        
+
+    
+        
+
+    
+</div>
+
+                    
+                </div>
+            </div>
+        </div>
+    </section>
+
+
+            
+  <div class="container">
+    <footer>
+      
+          
+
+
+<div class="row">
+
+  <div class="footer-copy">
+      <p>&copy; 2018 PyOhio &mdash;
+        PyOhio is made possible by
+        
+        
+          
+            Premier sponsor
+            <a href="http://www.cardinalhealth.com/en/about-us/who-we-are/fuse-by-cardinal-health.html" title="Fuse by Cardinal Health"><img style="margin: 10px;" src="https://static.pyohio.org/sponsor_files/Fuse_Logo.png.75x50_q85.png" alt="Fuse by Cardinal Health" /></a>
+            and our other
+          
+        
+        <a href="/2018/sponsors/">sponsors</a>.
+      </p>
+    <p>
+      <a href="https://facebook.com/pyohio">Facebook</a>
+      | <a href="https://twitter.com/pyohio">Twitter</a>
+      | <a href="https://www.youtube.com/channel/UCYqdrfvhGxNW3vXebypqXoQ">YouTube</a>
+   <!--   | <a href="/2018/accessibility">Accessibility</a>
+      | <a href="/2018/about/colophon">Colophon</a>
+      | <a href="/2018/terms">Terms and Conditions</a> -->
+      | <a href="/2018/code-of-conduct">Code of Conduct</a>
+    </p>
+
+    <p>This site is <a href="https://github.com/pyohio/pyohio-website">free and open source software</a>, powered by <a href="https://github.com/chrisjrn/symposion/">Symposion</a> and <a href="https://github.com/chrisjrn/registrasion/">Registrasion</a></p>
+  </div>
+</div>
+
+      
+    </footer>
+  </div>
+
+        </div>
+
+        
+    
+
+
+<script src="//cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.js"></script>
+
+<script type="text/javascript" src="https://static.pyohio.org/CACHE/js/6d3da362a94f.js"></script>
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-112992906-1', 'auto');
+  ga('send', 'pageview');
+</script>
+
+
+    
+    
+
+
+
+        
+            <script src="https://static.pyohio.org/pinax/js/theme.js"></script>
+        
+
+        
+    
+    
+
+    </body>
+
+<!-- Mirrored from www.pyohio.org/2018/schedule/presentation/12/ by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 29 Jan 2019 05:27:31 GMT -->
+</html>
