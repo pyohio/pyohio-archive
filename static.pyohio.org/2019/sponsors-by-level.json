@@ -1,0 +1,320 @@
+[
+  {
+    "name": "Premier",
+    "sponsors": [
+      {
+        "url": "https://cloud.google.com/",
+        "description": "Google Cloud is widely recognized as a global leader in delivering a secure, open, intelligent, and transformative enterprise cloud platform. Our technology is built on Google\u2019s private network and is the product of nearly 20 years of innovation in security, network architecture, collaboration, artificial intelligence, and open source software. We offer a simply engineered set of tools and unparalleled technology across Google Cloud Platform and G Suite that help bring people, insights, and ideas together. Customers across more than 150 countries trust Google Cloud to modernize their computing environment for today\u2019s digital world.",
+        "activation_date": null,
+        "web_logo": {
+          "description": "Google Cloud Logo",
+          "url": "https://static-cfp.pyohio.org/sponsor_files/lockup_cloud_main.png"
+        },
+        "name": "Google Cloud",
+        "twitter": "googlecloud"
+      }
+    ],
+    "cost": 5000,
+    "order": 0
+  },
+  { "name": "Young Coders", "sponsors": [], "cost": 3000, "order": 1 },
+  {
+    "name": "Conference Grant",
+    "sponsors": [
+      {
+        "url": "https://www.python.org/psf/",
+        "description": "The mission of the Python Software Foundation is to promote, protect, and advance the Python programming language, and to support and facilitate the growth of a diverse and international community of Python programmers. The majority of the PSF's work is focused on empowering and supporting people within the Python community. The PSF has active grant programs that support sprints, conferences, meet ups, user groups, and Python development efforts all over the world. In addition, the PSF underwrites and runs PyCon US, the primary Python community conference. Being part of the PSF means being part of the Python community. Recently we changed the PSF to an open membership organization, so that everyone who uses and supports Python can join. To learn more, visit https://www.python.org/psf/membership.",
+        "activation_date": null,
+        "web_logo": {
+          "description": "The Python Software Foundation Logo",
+          "url": "https://static-cfp.pyohio.org/sponsor_files/PSF-Logo-Narrow-Shapes-512x192.png"
+        },
+        "name": "The Python Software Foundation",
+        "twitter": "ThePSF"
+      }
+    ],
+    "cost": 5000,
+    "order": 2
+  },
+  {
+    "name": "Swag Bag",
+    "sponsors": [
+      {
+        "url": "https://www.level12.io/",
+        "description": "Level 12 is development firm that specializes in building custom software for our customers. We manage the entire process including planning, managing, and building software exactly as the customer needs it. We serve customers in diverse industries including: railroad, automotive, manufacturing, and retail payments. We set ourselves apart by digging into the customer's problem until we can own it and then delivering highly functional software that brings significant value to the customer's organization. That may not sound unique, but the longer we do this, the more we encounter people who have been burned by bad development experiences with other firms. We look for long-term relationships with our customers and have some that go back over 12 years. We may not be changing the world, but we are impacting the lives of our customers and their employees.",
+        "activation_date": null,
+        "web_logo": {
+          "description": "Level 12 Logo",
+          "url": "https://static-cfp.pyohio.org/sponsor_files/Level12_BlackAndOrange_rgb.png"
+        },
+        "name": "Level 12",
+        "twitter": ""
+      }
+    ],
+    "cost": 3000,
+    "order": 3
+  },
+  { "name": "Lanyards", "sponsors": [], "cost": 3000, "order": 3 },
+  {
+    "name": "Platinum",
+    "sponsors": [
+      {
+        "url": "http://careers.jpmorganchase.com/",
+        "description": "At J.P. Morgan, technology innovation is driven by a shared commitment to stay ahead of our customers\u2019 needs globally. In our worldwide tech centers, our team of 50,000 technology professionals collaborate to design, build, and deploy solutions that include strategic technology initiatives, big data, mobile solutions, electronic payments, machine learning, cyber security and cloud development.",
+        "activation_date": null,
+        "web_logo": {
+          "description": "JPMorgan Chase &  Co. Logo",
+          "url": "https://static-cfp.pyohio.org/sponsor_files/JPMC_Logo.jpg"
+        },
+        "name": "JPMorgan Chase &  Co.",
+        "twitter": "jpmorgan"
+      },
+      {
+        "url": "https://www.thisismetis.com",
+        "description": "Metis accelerates data science learning for individuals, companies, and institutions through corporate training and accredited, immersive bootcamps.",
+        "activation_date": null,
+        "web_logo": {
+          "description": "Metis Logo",
+          "url": "https://static-cfp.pyohio.org/sponsor_files/metis_logo_black_horiz.png"
+        },
+        "name": "Metis",
+        "twitter": "thisismetis"
+      },
+      {
+        "url": "http://www.intellovations.com",
+        "description": "Intellovations uses Python and Django to help businesses understand weather and weather forecasts better. ForecastWatch, a service of Intellovations, LLC, is the world\u2019s premier weather forecast monitoring and assessment company. ForecastWatch compiles weather forecasts and observations from more than 1,200 locations around the world, including the United States, Canada, Europe, South America, Central America, Africa and the Asian Pacific. ForecastWatch maintains a historical database of more than 800 million weather forecasts from a number of providers and provides unbiased reporting.",
+        "activation_date": null,
+        "web_logo": {
+          "description": "Intellovations LLC Logo",
+          "url": "https://static-cfp.pyohio.org/sponsor_files/Intellovations-vertical-color.png"
+        },
+        "name": "Intellovations LLC",
+        "twitter": "intellovations"
+      }
+    ],
+    "cost": 2000,
+    "order": 4
+  },
+  {
+    "name": "Gold",
+    "sponsors": [
+      {
+        "url": "https://wingware.com/",
+        "description": "Wingware makes a family of cross-platform Python IDEs with powerful integrated editing, debugging, unit testing, and project management features. Wing runs on Windows, Linux, and OS X, and can be used to develop any kind of Python code for web, desktop, embedded scripting, and other applications.",
+        "activation_date": null,
+        "web_logo": {
+          "description": "Wingware Logo",
+          "url": "https://static-cfp.pyohio.org/sponsor_files/wingware-button-2018.png"
+        },
+        "name": "Wingware",
+        "twitter": "pythonide"
+      },
+      {
+        "url": "https://www.braintreepayments.com/",
+        "description": "Braintree provides the easiest way to pay and get paid across any device. With one integration, merchants can start accepting credit and debit cards, PayPal, Apple Pay, Android Pay, Venmo, and whatever comes next. Thousands of online and mobile companies including Uber, Airbnb, and GithHub use Braintree in more than 45 countries. To learn more, visit braintreepayments.com or @braintree.",
+        "activation_date": null,
+        "web_logo": {
+          "description": "Braintree Logo",
+          "url": "https://static-cfp.pyohio.org/sponsor_files/braintree.jpg"
+        },
+        "name": "Braintree",
+        "twitter": "braintree"
+      },
+      {
+        "url": "https://nimbisservices.com/",
+        "description": "Nimbis Services, Inc., privately held, corporate office location in Oro Valley, Arizona, and branches in IL, MD, NC, OH, OR, VA, and WV.  Nimbis offers e-commerce cloud product marketplace to connect buyers of technical computing services with compute providers, engineering applications, and support services.  Our unique products and services are ever evolving and provide secure and collaborative multi-organization and -site cloud-based communities of interest.  Initial collaborative cloud platforms are now available for DoD microelectronics and CESMII Smart Manufacturing supply chain communities.  As a neutral and agnostic cloud services broker, we are rapidly expanding to offer a family of collaborative cloud communities of interest; creating distinctive opportunities for software, APPs, workflow IoT, and process workflow providers to innovate in a protected and reliable environment with end-users uninhibited by IT silos or IT cloud expertise.\r\nOur open and collaborative environment is team oriented, creative and fun, focused on high integrity and customer satisfaction. Our goal is to outperform competition in areas of employment, service, security and safety.  We strive to provide high quality products and services to our customers.  We consider our employees as our most valuable resource.  The work and attitude of our employees is important to the success of Nimbis.",
+        "activation_date": null,
+        "web_logo": {
+          "description": "Nimbis Services Logo",
+          "url": "https://static-cfp.pyohio.org/sponsor_files/NIMBIS_LOGO_-_ORIGINAL_STYLE_-_1X_002.png"
+        },
+        "name": "Nimbis Services",
+        "twitter": "NimbisSvcs"
+      },
+      {
+        "url": "https://www.numeratorengineering.com/",
+        "description": "Numerator is the consumer marketing analytics company of the future. We help brands understand what people buy and why.   Numerator combined Market Track and InfoScout to bring together the advertising, promotions, pricing and digital shelf data that influences why consumers buy \u2014 along with comprehensive data on purchasing behavior.",
+        "activation_date": null,
+        "web_logo": {
+          "description": "Numerator Logo",
+          "url": "https://static-cfp.pyohio.org/sponsor_files/Numerator_WithTagline_Vertical.png"
+        },
+        "name": "Numerator",
+        "twitter": "https://twitter.com/numeratorone"
+      },
+      {
+        "url": "https://www.digitalocean.com/",
+        "description": "DigitalOcean is the Developer Cloud for Modern Apps. We simplify modern app creation for next generation developers working independently, at tech startups, and within SMBs. Our infrastructure- and platform-as-a-service solutions are the first and best at combining the power of simplicity, love for the developer community, an obsession for customer service, and the advantages of open source. Our mission is to bring software development within reach of anyone around the world.",
+        "activation_date": null,
+        "web_logo": {
+          "description": "DigitalOcean Logo",
+          "url": "https://static-cfp.pyohio.org/sponsor_files/DO_Logo_Vertical_Blue.png"
+        },
+        "name": "DigitalOcean",
+        "twitter": "digitalocean"
+      },
+      {
+        "url": "https://complion.com/",
+        "description": "Complion\u2019s mission is to revolutionize how clinical research sites manage regulatory work. Through our cloud platform, we want to eliminate human error and redundant work, achieve efficiency, and ensure compliance that frees clinicians to focus on their passion: bringing advancements that improve patient outcomes.",
+        "activation_date": null,
+        "web_logo": {
+          "description": "Complion Logo",
+          "url": "https://static-cfp.pyohio.org/sponsor_files/Complion-Logo-Main_1.png"
+        },
+        "name": "Complion",
+        "twitter": "ComplionInc"
+      },
+      {
+        "url": "https://www.americangreetings.com/",
+        "description": "American Greetings is a leading creator and manufacturer of innovative social expression products that assist consumers in enhancing their relationships to create happiness, laughter, and love. We offer one of the largest collections of greetings on the web, including print-on-demand cards available at www.cardstore.com and ecards at www.americangreetings.com.",
+        "activation_date": null,
+        "web_logo": {
+          "description": "American Greetings Logo",
+          "url": "https://static-cfp.pyohio.org/sponsor_files/ag_logo_360x120.png"
+        },
+        "name": "American Greetings",
+        "twitter": "amgreetings"
+      },
+      {
+        "url": "https://www.onshift.com/",
+        "description": "",
+        "activation_date": null,
+        "web_logo": {
+          "description": "OnShift Logo",
+          "url": "https://static-cfp.pyohio.org/sponsor_files/On_Shift_logo_color.png"
+        },
+        "name": "OnShift",
+        "twitter": ""
+      }
+    ],
+    "cost": 1000,
+    "order": 5
+  },
+  {
+    "name": "Silver",
+    "sponsors": [
+      {
+        "url": "https://www.dabeaz.com/courses.html",
+        "description": "Dabeaz offers computer science and programming courses that will expand your skills and thinking. Taught by David Beazley in Chicago.",
+        "activation_date": null,
+        "web_logo": {
+          "description": "Dabeaz Logo",
+          "url": "https://static-cfp.pyohio.org/sponsor_files/logo.png"
+        },
+        "name": "Dabeaz",
+        "twitter": "Dabeaz"
+      },
+      {
+        "url": "http://www.oclc.org",
+        "description": "Technology with a mission.  OCLC supports thousands of libraries in making information more accessible and more useful to people around the world. We provide shared technology services, original research and community programs that help libraries meet the ever-evolving needs of their users, institutions and communities.",
+        "activation_date": null,
+        "web_logo": {
+          "description": "OCLC Logo",
+          "url": "https://static-cfp.pyohio.org/sponsor_files/OCLC_Logo_V_Color_NoTag.png"
+        },
+        "name": "OCLC",
+        "twitter": null
+      }
+    ],
+    "cost": 500,
+    "order": 6
+  },
+  {
+    "name": "Sprints & Reception Host",
+    "sponsors": [],
+    "cost": 0,
+    "order": 50
+  },
+  {
+    "name": "Non-Profit",
+    "sponsors": [
+      {
+        "url": "https://www.pyohio.org/osu-open-source",
+        "description": "The Open Source Club is on the forefront of technology and code, pushing the boundaries of tech that respect the users\u2019 individual freedoms.",
+        "activation_date": null,
+        "web_logo": {
+          "description": "OSU Open Source Club Logo",
+          "url": "https://static-cfp.pyohio.org/sponsor_files/open-source-club.png"
+        },
+        "name": "OSU Open Source Club",
+        "twitter": null
+      },
+      {
+        "url": "https://www.tealsk12.org/",
+        "description": "TEALS\u00a0(Technology Education and Literacy in Schools) is a program funded by Microsoft Philanthropies that helps high schools implement computer science courses by pairing industry professionals with classroom teachers. The goal of the program is to provide teaching and content support to classroom teachers until they feel comfortable leading computer science classes on their own. \r\n\r\nTEALS classes are always first period and volunteers are asked to come in two mornings per week.",
+        "activation_date": null,
+        "web_logo": {
+          "description": "TEALS Logo",
+          "url": "https://static-cfp.pyohio.org/sponsor_files/TEALS_Image_V2.PNG"
+        },
+        "name": "TEALS",
+        "twitter": null
+      },
+      {
+        "url": "http://mug.org",
+        "description": "Michigan's oldest UNIX / Linux user's group. We meet every month on the second Tuesday of the month. Out topics range from systems administration to programming and everything in between. Learn more at http://mug.org.",
+        "activation_date": null,
+        "web_logo": {
+          "description": "Michigan!/usr/group Logo",
+          "url": "https://static-cfp.pyohio.org/sponsor_files/muglogo_backreverse.jpg"
+        },
+        "name": "Michigan!/usr/group",
+        "twitter": null
+      },
+      {
+        "url": "https://www.chipy.org/",
+        "description": "With almost 5000 members, the Chicago Python Users Group (ChiPy) is one of the largest technology-focused communities in the Midwest.\r\n\r\nChiPy partners with organizations in the Chicagoland area to put on 4-7 events every month. We have a World Famous Mentorship Program which pairs 20-30 community mentors for a 13-week, 1-on-1, project-based mentorship.",
+        "activation_date": null,
+        "web_logo": {
+          "description": "Chicago Python Users Group Logo",
+          "url": "https://static-cfp.pyohio.org/sponsor_files/chipmunk.png"
+        },
+        "name": "Chicago Python Users Group",
+        "twitter": "ChicagoPython"
+      },
+      {
+        "url": "https://www.meetup.com/Chicago-PyLadies/",
+        "description": "We are a mentorship group for marginalized genders focusing on helping our members become active participants and leaders in the Python open-source community. Our mission is to promote, educate and advance a diverse Python community through outreach, education, conferences, events and social gatherings.",
+        "activation_date": null,
+        "web_logo": {
+          "description": "PyLadies Chicago Logo",
+          "url": "https://static-cfp.pyohio.org/sponsor_files/PyladiesChicagoLogo.png"
+        },
+        "name": "PyLadies Chicago",
+        "twitter": "pyladieschicago"
+      }
+    ],
+    "cost": 0,
+    "order": 80
+  },
+  {
+    "name": "Conference Friends",
+    "sponsors": [
+      {
+        "url": "https://2019.pygotham.org/",
+        "description": "PyGotham is a New York City based, eclectic, Py-centric conference covering many topics. There\u2019s a diverse speaker list, and some things which will be quite different. Find out more and join us at https://2019.pygotham.org.",
+        "activation_date": null,
+        "web_logo": {
+          "description": "PyGotham Logo",
+          "url": "https://static-cfp.pyohio.org/sponsor_files/Logo_Circle.png"
+        },
+        "name": "PyGotham",
+        "twitter": "PyGotham"
+      },
+      {
+        "url": "https://northbaypython.org",
+        "description": "North Bay Python is a 2-day community conference that brings together professionals, enthusiasts, and students interested in the Python programming language. North Bay Python 2019 will be held on November 2 & 3 at the Mystic Theatre in Historic Downtown Petaluma, California. For more information visit northbaypython.org.",
+        "activation_date": null,
+        "web_logo": {
+          "description": "North Bay Python Logo",
+          "url": "https://static-cfp.pyohio.org/sponsor_files/north-bay-python-wordmark.png"
+        },
+        "name": "North Bay Python",
+        "twitter": "northbaypython"
+      }
+    ],
+    "cost": 0,
+    "order": 90
+  },
+  { "name": "Individual", "sponsors": [], "cost": 50, "order": 100 }
+]

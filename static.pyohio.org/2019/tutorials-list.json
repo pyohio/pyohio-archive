@@ -1,0 +1,134 @@
+[
+  {
+    "prerequisite_setup_html": "<p>None.</p>",
+    "youtube_url": "http://youtu.be/jOvajURGPRU",
+    "schedule": {
+      "room": "Suzanne Scharer",
+      "end": "2019-07-27T12:30:00",
+      "start": "2019-07-27T10:30:00"
+    },
+    "abstract": "You came to a conference for a programming language you don't know.\r\nGood for you!  Your courage and curiosity will pay off.  Let's teach\r\nyou enough Python to get you started, and enough Python concepts to\r\nhelp you understand the PyOhio goodness you're about to witness.\r\n\r\nWe'll devote about an hour to hands-on learning of the basics of\r\nwriting Python programs, and an hour to understanding more advanced\r\nideas and terminology in general terms.  Prepare for creative analogies\r\nand physical demonstrations that may or may not involve interpretive\r\ndance.\r\n\r\nSuitable for non-programmers as well as programmers who don't know\r\nPython.  We'll tune the pace on the fly to the needs of those who\r\nactually attend, but if there's a mix, the least experienced will\r\nget highest priority.\r\n\r\nBring a laptop!",
+    "presentation_id": 114,
+    "feedback_url": "https://pyohio.typeform.com/to/nsC7uo",
+    "speakers": [
+      {
+        "photo": {
+          "description": "Catherine Devlin",
+          "url": "https://static-cfp.pyohio.org/speaker_photo/474/voted-head.jpg"
+        },
+        "website": "",
+        "biography_html": "<p>From washed-up chemical engineering grad student, to secretarial pool typist, to database administrator, Catherine found Python in 2004 and lived happily ever after.  She was creator of ipython_sql, first chair of PyOhio, and keynoter at PyCon US 2018.  She works remotely as a data engineer at Miro Health.  She lives in the woods near Dayton and probably has sticks in her hair.</p>",
+        "name": "Catherine Devlin",
+        "mastodon": "",
+        "biography": "From washed-up chemical engineering grad student, to secretarial pool typist, to database administrator, Catherine found Python in 2004 and lived happily ever after.  She was creator of ipython_sql, first chair of PyOhio, and keynoter at PyCon US 2018.  She works remotely as a data engineer at Miro Health.  She lives in the woods near Dayton and probably has sticks in her hair.",
+        "speaker_id": 213,
+        "twitter": "catherinedevlin"
+      }
+    ],
+    "abstract_html": "<p>You came to a conference for a programming language you don't know.\nGood for you!  Your courage and curiosity will pay off.  Let's teach\nyou enough Python to get you started, and enough Python concepts to\nhelp you understand the PyOhio goodness you're about to witness.</p>\n<p>We'll devote about an hour to hands-on learning of the basics of\nwriting Python programs, and an hour to understanding more advanced\nideas and terminology in general terms.  Prepare for creative analogies\nand physical demonstrations that may or may not involve interpretive\ndance.</p>\n<p>Suitable for non-programmers as well as programmers who don't know\nPython.  We'll tune the pace on the fly to the needs of those who\nactually attend, but if there's a mix, the least experienced will\nget highest priority.</p>\n<p>Bring a laptop!</p>",
+    "title": "Enough Python to Fake It",
+    "description": "A hands-on introduction to the basics of Python programming, plus a high-level,\r\nconceptual, hand-wavey introduction to the intermediate and advanced Python\r\ntopics you'll be hearing about all weekend.  You won't become a full-fledged\r\nPython programmer, but you'll learn enough to get through PyOhio productively,\r\nand you'll know how to continue your own Python education afterward.",
+    "description_html": "<p>A hands-on introduction to the basics of Python programming, plus a high-level,\nconceptual, hand-wavey introduction to the intermediate and advanced Python\ntopics you'll be hearing about all weekend.  You won't become a full-fledged\nPython programmer, but you'll learn enough to get through PyOhio productively,\nand you'll know how to continue your own Python education afterward.</p>",
+    "kind": "120-minute Tutorial",
+    "start_time": "2019-07-27T10:30:00"
+  },
+  {
+    "prerequisite_setup_html": "<p>All prerequisites and setup instructions can be found in the README of the tutorial project:\nhttps://github.com/AndyLPK247/pyohio-2019-web-ui-testing</p>\n<p>Please follow these instructions and then clone the repository onto your machine. Please then bring your machine to the tutorial session -- we will be hands-on with code!</p>",
+    "youtube_url": "http://youtu.be/5wLteaahyWw",
+    "schedule": {
+      "room": "Suzanne Scharer",
+      "end": "2019-07-27T17:00:00",
+      "start": "2019-07-27T15:00:00"
+    },
+    "abstract": "Unit tests are a great way to start Web app testing and automation, but the buck doesn\u2019t stop there. Black-box feature tests that interact with the app like a user are just as important. They catch things unit tests cannot. The challenge is that Web UI tests are complicated and notoriously unreliable. So, how can we write tests well?\r\n\r\nIn this tutorial, we\u2019ll cover:\r\n\r\n* Using Python 3, pytest, and Selenium WebDriver to write tests like a pro\r\n* Modeling Web UI interactions with page objects\r\n* Deciding what should and should not be tested with automation\r\n* Improving the solution to scale higher\r\n\r\nThe tutorial will include lecture segments intertwined with hands-on coding exercises. We will write tests together for the DuckDuckGo website.\r\n\r\nAfter this tutorial, you\u2019ll be able to write battle-hardened Web UI tests for any Web app, including Django and Flask apps. You will also have a test automation project that can be the starting point for any Web UI tests.",
+    "presentation_id": 133,
+    "feedback_url": "https://pyohio.typeform.com/to/DqJi8Q",
+    "speakers": [
+      {
+        "photo": {
+          "description": "Andrew Knight",
+          "url": "https://static-cfp.pyohio.org/speaker_photo/198/PyCon_Andy_2_sq.jpg"
+        },
+        "website": "https://www.automationpanda.com/",
+        "biography_html": "<p>\u201cPandy\u201d is an engineer, consultant, and international speaker who loves all things software. He specializes in building robust test automation solutions from the ground up. He currently works at PrecisionLender in Cary, NC. Read his tech blog at AutomationPanda.com, and follow him on Twitter at @AutomationPanda.</p>",
+        "name": "Andrew Knight",
+        "mastodon": "",
+        "biography": "\u201cPandy\u201d is an engineer, consultant, and international speaker who loves all things software. He specializes in building robust test automation solutions from the ground up. He currently works at PrecisionLender in Cary, NC. Read his tech blog at AutomationPanda.com, and follow him on Twitter at @AutomationPanda.",
+        "speaker_id": 106,
+        "twitter": "AutomationPanda"
+      }
+    ],
+    "abstract_html": "<p>Unit tests are a great way to start Web app testing and automation, but the buck doesn\u2019t stop there. Black-box feature tests that interact with the app like a user are just as important. They catch things unit tests cannot. The challenge is that Web UI tests are complicated and notoriously unreliable. So, how can we write tests well?</p>\n<p>In this tutorial, we\u2019ll cover:</p>\n<ul>\n<li>Using Python 3, pytest, and Selenium WebDriver to write tests like a pro</li>\n<li>Modeling Web UI interactions with page objects</li>\n<li>Deciding what should and should not be tested with automation</li>\n<li>Improving the solution to scale higher</li>\n</ul>\n<p>The tutorial will include lecture segments intertwined with hands-on coding exercises. We will write tests together for the DuckDuckGo website.</p>\n<p>After this tutorial, you\u2019ll be able to write battle-hardened Web UI tests for any Web app, including Django and Flask apps. You will also have a test automation project that can be the starting point for any Web UI tests.</p>",
+    "title": "Hands-On Web UI Testing",
+    "description": "Unit tests are great, but they don\u2019t catch all bugs because they don\u2019t test features like a user. Never fear! Let\u2019s learn how to write robust, scalable Web UI tests using Python, pytest, and Selenium WebDriver that cover the full stack for any Web app.",
+    "description_html": "<p>Unit tests are great, but they don\u2019t catch all bugs because they don\u2019t test features like a user. Never fear! Let\u2019s learn how to write robust, scalable Web UI tests using Python, pytest, and Selenium WebDriver that cover the full stack for any Web app.</p>",
+    "kind": "120-minute Tutorial",
+    "start_time": "2019-07-27T15:00:00"
+  },
+  {
+    "prerequisite_setup_html": "<p>Critical:</p>\n<ol>\n<li>Have a virtual environment set up with Python 3.6 or 3.7</li>\n<li>ppb installed in that virtual environment.</li>\n</ol>\n<p>Optional:</p>\n<ol>\n<li>I'll show a tool for creating your own sprites, but if you'd prefer to prepare them in advance, bring square pixel art sprite pngs for best results.</li>\n</ol>",
+    "youtube_url": "http://youtu.be/ImlIcJhfgnw",
+    "schedule": {
+      "room": "Suzanne Scharer",
+      "end": "2019-07-28T17:15:00",
+      "start": "2019-07-28T15:15:00"
+    },
+    "abstract": "Come in knowing nothing about games, and we'll get you out the door with one or two small games under your belt! You will need to know some basic python. You should be comfortable writing a class and instantiating classes. You should know how to write and call your own functions. We'll cover all the complex bits of games and get you going quickly.\r\n\r\n1. Introduction\r\n    1. Piper Thunstrom\r\n    2. PPB\r\n    3. Get installed\r\n2. Game 1 - A simple \"shooter\"\r\n    1. Make a window\r\n    2. Adding your Player\r\n    3. Hooking up controls\r\n    4. Making projectiles\r\n    5. Adding targets\r\n3. Game 2 - Virtual Pet\r\n    1. Create your pet\r\n    2. Add hunger\r\n    3. Add boredom and playing.\r\n    4. Add a filth level and washing your pet.",
+    "presentation_id": 117,
+    "feedback_url": "https://pyohio.typeform.com/to/NohisJ",
+    "speakers": [
+      {
+        "photo": {
+          "description": "Piper Thunstrom",
+          "url": "https://static-cfp.pyohio.org/speaker_photos/profile.jpg"
+        },
+        "website": "",
+        "biography_html": "<p>A transgender Pythonista with a passion for games. Professionally a web platform engineer, in her free time she builds game libraries and encourages people to pick up a little Python.</p>",
+        "name": "Piper Thunstrom",
+        "mastodon": "",
+        "biography": "A transgender Pythonista with a passion for games. Professionally a web platform engineer, in her free time she builds game libraries and encourages people to pick up a little Python.",
+        "speaker_id": 100,
+        "twitter": "pathunstrom"
+      }
+    ],
+    "abstract_html": "<p>Come in knowing nothing about games, and we'll get you out the door with one or two small games under your belt! You will need to know some basic python. You should be comfortable writing a class and instantiating classes. You should know how to write and call your own functions. We'll cover all the complex bits of games and get you going quickly.</p>\n<ol>\n<li>Introduction<ol>\n<li>Piper Thunstrom</li>\n<li>PPB</li>\n<li>Get installed</li>\n</ol>\n</li>\n<li>Game 1 - A simple \"shooter\"<ol>\n<li>Make a window</li>\n<li>Adding your Player</li>\n<li>Hooking up controls</li>\n<li>Making projectiles</li>\n<li>Adding targets</li>\n</ol>\n</li>\n<li>Game 2 - Virtual Pet<ol>\n<li>Create your pet</li>\n<li>Add hunger</li>\n<li>Add boredom and playing.</li>\n<li>Add a filth level and washing your pet.</li>\n</ol>\n</li>\n</ol>",
+    "title": "Making Games with ppb",
+    "description": "Learn to make games with Python. ppb aims to make building games simple and fun! We'll cover the basic features of ppb to make a basic game, then dive into the powerful extensibility features it offers to make even more complex games.",
+    "description_html": "<p>Learn to make games with Python. ppb aims to make building games simple and fun! We'll cover the basic features of ppb to make a basic game, then dive into the powerful extensibility features it offers to make even more complex games.</p>",
+    "kind": "120-minute Tutorial",
+    "start_time": "2019-07-28T15:15:00"
+  },
+  {
+    "prerequisite_setup_html": "<p>Participants should have Jupyter notebooks set up with an environment that has PyMC3 installed. They can run it in a base environment, but having a dedicated PyMC3 environment is preferred as that package tends not to play nicely with others. I would be running an interactive session so participants should be able to run the notebook along with the tutorial.</p>",
+    "youtube_url": "http://youtu.be/RrND0VQhDXY",
+    "schedule": {
+      "room": "Suzanne Scharer",
+      "end": "2019-07-28T15:15:00",
+      "start": "2019-07-28T13:15:00"
+    },
+    "abstract": "Let's build up our knowledge of probabilistic programming and Bayesian inference! All you need to start is basic knowledge of linear regression; familiarity with running a model of any type in Python is helpful. \r\n\r\nBy the end of this presentation, you'll know the following: \r\n- What probabilistic programming is and why it's necessary for Bayesian inference\r\n- What Bayesian inference is, how it's different from classical frequentist inference, and why it's becoming so relevant for applied data science in the real world \r\n- How to write your own Bayesian models in the Python library PyMC3, including metrics for judging how well the model is performing \r\n- How to go about learning more about the topic of Bayesian inference and how to bring it to your current data science job \r\n\r\nWe'll meet our objectives by answering three questions: \r\n\r\n1. What is probabilistic programming?\r\n    * PP is the idea that we can use computer code to build probability distributions \r\n    * Theory of the primitives in probabilistic programming and how we can build models out of distributions \r\n\r\n2. What is Bayesian inference and why should I add it to my toolbox on top of classical ML models?\r\n    * Classically, we had simulations, but they run in only one direction: get data input and move it according to assumptions of parameters and get a prediction\r\n    * Bayesian inference adds another direction: use the data to go back and pick one of many possible parameters as the most likely to have created the data (posterior distributions) \r\n    * Use Bayes' theorem to find the most likely values of the model parameters\r\n\r\n3. What is PyMC3 and how can I start building and interpreting models using it? \r\n    * **We'll work through actual examples of models using PyMC3, including hierarchical models** \r\n    * Solving Bayes\u2019 theorem in practice requires taking integrals \r\n    * If we don\u2019t want to do integrals by hand, we need to use numerical solution methods\r\n    * From the package authors: \"[PyMC3 is an ]open source probabilistic programming framework written in Python that uses Theano to compute gradients via automatic differentiation as well as compile probabilistic programs on-the-fly to C for increased speed\"\r\n\r\nThe intention is to get hands-on experience building PyMC3 models to demystify probabilistic programming / Bayesian inference for those more well versed in traditional ML, and, most importantly, to understand how these models can be relevant in our daily work as data scientists in business.",
+    "presentation_id": 116,
+    "feedback_url": "https://pyohio.typeform.com/to/ZCX0nK",
+    "speakers": [
+      {
+        "photo": {
+          "description": "Lara Kattan",
+          "url": "https://www.gravatar.com/avatar/38bafb9a2e24674474544e2ef9781c21?s=250&r=g&d=http%3A%2F%2Fstatic-cfp.pyohio.org%2Fspeaker_photo%2Fdefault.png"
+        },
+        "website": "",
+        "biography_html": "<p>Lara is a senior data scientist and instructor at Metis Data Science Bootcamp, where she teaches data science with a Python stack, including SQL and AWS. She comes to Metis from McKinsey, where she worked with financial institutions on risk modeling. Prior to settling into the practical world of consulting, Lara received a master's from the University of Chicago, where she had the privilege of thinking about problems with no real-world implications. The statistical elegance of data science is what animates her the most, but she gets her biggest joy from demystifying the math for all audiences. If forced to snap out of her mathematical reveries, she's probably doing yoga, riding a bike, or drinking too much coffee.</p>",
+        "name": "Lara Kattan",
+        "mastodon": "",
+        "biography": "Lara is a senior data scientist and instructor at Metis Data Science Bootcamp, where she teaches data science with a Python stack, including SQL and AWS. She comes to Metis from McKinsey, where she worked with financial institutions on risk modeling. Prior to settling into the practical world of consulting, Lara received a master's from the University of Chicago, where she had the privilege of thinking about problems with no real-world implications. The statistical elegance of data science is what animates her the most, but she gets her biggest joy from demystifying the math for all audiences. If forced to snap out of her mathematical reveries, she's probably doing yoga, riding a bike, or drinking too much coffee.",
+        "speaker_id": 205,
+        "twitter": ""
+      }
+    ],
+    "abstract_html": "<p>Let's build up our knowledge of probabilistic programming and Bayesian inference! All you need to start is basic knowledge of linear regression; familiarity with running a model of any type in Python is helpful. </p>\n<p>By the end of this presentation, you'll know the following: \n- What probabilistic programming is and why it's necessary for Bayesian inference\n- What Bayesian inference is, how it's different from classical frequentist inference, and why it's becoming so relevant for applied data science in the real world \n- How to write your own Bayesian models in the Python library PyMC3, including metrics for judging how well the model is performing \n- How to go about learning more about the topic of Bayesian inference and how to bring it to your current data science job </p>\n<p>We'll meet our objectives by answering three questions: </p>\n<ol>\n<li>\n<p>What is probabilistic programming?</p>\n<ul>\n<li>PP is the idea that we can use computer code to build probability distributions </li>\n<li>Theory of the primitives in probabilistic programming and how we can build models out of distributions </li>\n</ul>\n</li>\n<li>\n<p>What is Bayesian inference and why should I add it to my toolbox on top of classical ML models?</p>\n<ul>\n<li>Classically, we had simulations, but they run in only one direction: get data input and move it according to assumptions of parameters and get a prediction</li>\n<li>Bayesian inference adds another direction: use the data to go back and pick one of many possible parameters as the most likely to have created the data (posterior distributions) </li>\n<li>Use Bayes' theorem to find the most likely values of the model parameters</li>\n</ul>\n</li>\n<li>\n<p>What is PyMC3 and how can I start building and interpreting models using it? </p>\n<ul>\n<li><strong>We'll work through actual examples of models using PyMC3, including hierarchical models</strong> </li>\n<li>Solving Bayes\u2019 theorem in practice requires taking integrals </li>\n<li>If we don\u2019t want to do integrals by hand, we need to use numerical solution methods</li>\n<li>From the package authors: \"[PyMC3 is an ]open source probabilistic programming framework written in Python that uses Theano to compute gradients via automatic differentiation as well as compile probabilistic programs on-the-fly to C for increased speed\"</li>\n</ul>\n</li>\n</ol>\n<p>The intention is to get hands-on experience building PyMC3 models to demystify probabilistic programming / Bayesian inference for those more well versed in traditional ML, and, most importantly, to understand how these models can be relevant in our daily work as data scientists in business.</p>",
+    "title": "Probabilistic Programming and Bayesian Inference in Python",
+    "description": "If you can write a model in sklearn, you can make the leap to Bayesian inference with PyMC3, a user-friendly intro to probabilistic programming (PP) in Python. PP just means building models where the building blocks are probability distributions! And we can use PP to do Bayesian inference easily. Bayesian inference allows us to solve problems that aren't otherwise tractable with classical methods.",
+    "description_html": "<p>If you can write a model in sklearn, you can make the leap to Bayesian inference with PyMC3, a user-friendly intro to probabilistic programming (PP) in Python. PP just means building models where the building blocks are probability distributions! And we can use PP to do Bayesian inference easily. Bayesian inference allows us to solve problems that aren't otherwise tractable with classical methods.</p>",
+    "kind": "120-minute Tutorial",
+    "start_time": "2019-07-28T13:15:00"
+  }
+]
