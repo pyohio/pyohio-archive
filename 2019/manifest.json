@@ -1,0 +1,9 @@
+{
+  "main.js": "render-page.js",
+  "main.js.map": "render-page.js.map",
+  "static/pyohio-2019-transparent-300x225.png": "static/pyohio-2019-transparent-300x225-cf84acdd90bd3ea6dd9ec9c7b896719f.png",
+  "static/pyohio-logo-small.png": "static/pyohio-logo-small-ab92a8f295906ac1c4d7daf943b7f182.png",
+  "static/pyohio-sprints-4.jpg": "static/pyohio-sprints-4-8174080c661fc34ac75df7c293b7f186.jpg",
+  "static/pyohio-talks-2.jpg": "static/pyohio-talks-2-0f8a6490456736d4c49db5c4ca44723b.jpg",
+  "static/pyohio-tutorials-4.jpg": "static/pyohio-tutorials-4-efd3d3a75a63dccfece904f748c61b3b.jpg"
+}
