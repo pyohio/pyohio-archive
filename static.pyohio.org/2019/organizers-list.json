@@ -2,11 +2,13 @@
   {
     "photo": {
       "description": "Dave Forgac",
-      "url": "https://static-cfp.pyohio.org/speaker_photos/tylerdave-pyohio-square.jpg"
+      "url": "https://static.pyohio.org/2019/speakers/1.jpg"
     },
     "website": "https://daveops.com",
     "biography_html": "<p>Dave Forgac is a senior software engineer in Cleveland, OH. Dave has been a FOSS enthusiast ever since installing Linux for the first time in the late '90's. He loves building communities and is an organizer of PyOhio, CLEpy, and the Cleveland API Meetup.</p>",
-    "organizer_roles": ["Conference Chair"],
+    "organizer_roles": [
+      "Conference Chair"
+    ],
     "name": "Dave Forgac",
     "mastodon": "",
     "biography": "Dave Forgac is a senior software engineer in Cleveland, OH. Dave has been a FOSS enthusiast ever since installing Linux for the first time in the late '90's. He loves building communities and is an organizer of PyOhio, CLEpy, and the Cleveland API Meetup.",
@@ -16,11 +18,14 @@
   {
     "photo": {
       "description": "Jason M. Green",
-      "url": "https://static-cfp.pyohio.org/speaker_photos/Jigature.jpg"
+      "url": "https://static.pyohio.org/2019/speakers/95.jpg"
     },
     "website": "",
     "biography_html": "<p>A recovering pedant, imperfect human, and empathic autodidact, with technical idealism and business pragmatism, who frequently questions premises and understands systems via their limitations. </p>\n<p>Delighted to investigate, synthesize, distill, extrapolate, conclude, and share. An experienced solution provider and incessant learner devoted to bringing joy to others via clarity, efficiency, and automation.</p>\n<p>Often stays up too late seeking an elegant solution. Occasionally awakes with one.</p>\n<p>You probably have a lot in common.</p>",
-    "organizer_roles": ["Conference Co-Chair", "Volunteer Chair"],
+    "organizer_roles": [
+      "Conference Co-Chair",
+      "Volunteer Chair"
+    ],
     "name": "Jason M. Green",
     "mastodon": "",
     "biography": "A recovering pedant, imperfect human, and empathic autodidact, with technical idealism and business pragmatism, who frequently questions premises and understands systems via their limitations. \r\n\r\nDelighted to investigate, synthesize, distill, extrapolate, conclude, and share. An experienced solution provider and incessant learner devoted to bringing joy to others via clarity, efficiency, and automation.\r\n\r\nOften stays up too late seeking an elegant solution. Occasionally awakes with one.\r\n\r\nYou probably have a lot in common.",
@@ -30,11 +35,14 @@
   {
     "photo": {
       "description": "Mike Pirnat",
-      "url": "https://static-cfp.pyohio.org/speaker_photo/13/mike-beard-250x250.jpg"
+      "url": "https://static.pyohio.org/2019/speakers/3.jpg"
     },
     "website": "https://mike.pirnat.com",
     "biography_html": "<p>Mike Pirnat software engineer and engineering leader from an utterly insignificant little blue green planet whose ape-descended life forms are so amazingly primitive that they still think digital watches are a pretty neat idea. He is a founding member of <a href=\"https://www.clepy.org\">CLEpy</a>, the author of <em><a href=\"http://www.oreilly.com/programming/free/how-to-make-mistakes-in-python.csp\">How to Make Mistakes in Python</a></em>, the creator of the <a href=\"https://twitter.com/i/moments/1002644684773175297\">Python Strat</a> and the <a href=\"https://twitter.com/i/moments/1124055629587472385\">Python Tele</a> and he co-hosted and produced <a href=\"http://frompythonimportpodcast.com\">From Python Import Podcast</a> before its long slumber. You can find him online at <a href=\"https://mike.pirnat.com\">mike.pirnat.com</a>.</p>",
-    "organizer_roles": ["Program Chair", "Photography"],
+    "organizer_roles": [
+      "Program Chair",
+      "Photography"
+    ],
     "name": "Mike Pirnat",
     "mastodon": "",
     "biography": "Mike Pirnat software engineer and engineering leader from an utterly insignificant little blue green planet whose ape-descended life forms are so amazingly primitive that they still think digital watches are a pretty neat idea. He is a founding member of [CLEpy](https://www.clepy.org), the author of _[How to Make Mistakes in Python](http://www.oreilly.com/programming/free/how-to-make-mistakes-in-python.csp)_, the creator of the [Python Strat](https://twitter.com/i/moments/1002644684773175297) and the [Python Tele](https://twitter.com/i/moments/1124055629587472385) and he co-hosted and produced [From Python Import Podcast](http://frompythonimportpodcast.com) before its long slumber. You can find him online at [mike.pirnat.com](https://mike.pirnat.com).",
@@ -44,11 +52,13 @@
   {
     "photo": {
       "description": "Eric Floehr",
-      "url": "https://static-cfp.pyohio.org/speaker_photos/profile_2017_small.png"
+      "url": "https://static.pyohio.org/2019/speakers/44.png"
     },
     "website": "",
     "biography_html": "<p>Eric has been fascinated by computers ever since touring CompuServe's data center in the late-70's. He started programming in BASIC on the family's Ohio Scientific Institute Challenger 2P, then Commodore VIC-20, 64, and Amiga, with stints on CompuServe's DEC mainframes in-between. From BASIC, Fortran, 6502 Assembly, Forth, Turbo Pascal, C, C++, Java, Ruby, and everything in between, he has found love with Python.</p>\n<p>Eric is the founder and CEO of Intellovations, a small company that created ForecastWatch, the only comparative weather forecast verification system in the world. In use by The Weather Channel, CustomWeather, Meteorlogix, and others, ForecastWatch has scored over 750 million weather forecasts since 2004. ForecastWatch was the subject of a Python Success Story and was named a Django Site of The Week. Intellovations has sponsored PyOhio since 2010 and has sponsored PyTennessee since it's inception.</p>\n<p>In addition to his business, Eric also founded the Central Ohio Python Users Group, was a former chair of PyOhio, is current Sponsorship chair, and is Treasurer of the PyOhio board.</p>",
-    "organizer_roles": ["Finance Chair"],
+    "organizer_roles": [
+      "Finance Chair"
+    ],
     "name": "Eric Floehr",
     "mastodon": "",
     "biography": "Eric has been fascinated by computers ever since touring CompuServe's data center in the late-70's. He started programming in BASIC on the family's Ohio Scientific Institute Challenger 2P, then Commodore VIC-20, 64, and Amiga, with stints on CompuServe's DEC mainframes in-between. From BASIC, Fortran, 6502 Assembly, Forth, Turbo Pascal, C, C++, Java, Ruby, and everything in between, he has found love with Python.\r\n\r\nEric is the founder and CEO of Intellovations, a small company that created ForecastWatch, the only comparative weather forecast verification system in the world. In use by The Weather Channel, CustomWeather, Meteorlogix, and others, ForecastWatch has scored over 750 million weather forecasts since 2004. ForecastWatch was the subject of a Python Success Story and was named a Django Site of The Week. Intellovations has sponsored PyOhio since 2010 and has sponsored PyTennessee since it's inception.\r\n\r\nIn addition to his business, Eric also founded the Central Ohio Python Users Group, was a former chair of PyOhio, is current Sponsorship chair, and is Treasurer of the PyOhio board.",
@@ -58,11 +68,13 @@
   {
     "photo": {
       "description": "Gary Johnson",
-      "url": "https://static-cfp.pyohio.org/speaker_photos/garyprofile.jpg"
+      "url": "https://static.pyohio.org/2019/speakers/88.jpg"
     },
     "website": "",
     "biography_html": "<p>Gary is a product-focused developer, consultant and maker with 13+ years experience.</p>",
-    "organizer_roles": ["Videography Chair"],
+    "organizer_roles": [
+      "Videography Chair"
+    ],
     "name": "Gary Johnson",
     "mastodon": "",
     "biography": "Gary is a product-focused developer, consultant and maker with 13+ years experience.",
@@ -72,11 +84,13 @@
   {
     "photo": {
       "description": "Tom Casavant",
-      "url": "https://static-cfp.pyohio.org/speaker_photo/565/20190624_163820.jpg"
+      "url": "https://static.pyohio.org/2019/speakers/271.jpg"
     },
     "website": "http://www.tomcasavant.com",
     "biography_html": "<p><strong>Personal Bio</strong></p>\n<p>My name is Tom Casavant, I grew up in a large family just East of Cincinnati. I'm a Junior at THE Ohio State University and I'm majoring in Computer Science and Engineering. Just recently I became the president of the <a href=\"http://www.opensource.osu.edu/\">Open Source Club</a> at OSU for the 2019-2020 school year.</p>\n<hr />\n<p><strong>Interests:</strong>\n - Long distance running\n - Biking\n - Programming (mainly in python)\n - Data Analysis\n - Sports (Mostly football and baseball)\n - Camping</p>\n<hr />\n<p><strong>Info:</strong>\n- <a href=\"https://github.com/tomcasavant\">Github (@tomcasavant)</a>\n- <a href=\"https://twitter.com/MrPresidentTom\">Twitter (@MrPresidentTom)</a>\n- <a href=\"https://tomcasavant.com/\">Personal Website (www.tomcasavant.com)</a></p>",
-    "organizer_roles": ["OSU Open Source Club President"],
+    "organizer_roles": [
+      "OSU Open Source Club President"
+    ],
     "name": "Tom Casavant",
     "mastodon": "",
     "biography": "**Personal Bio**\r\n\r\nMy name is Tom Casavant, I grew up in a large family just East of Cincinnati. I'm a Junior at THE Ohio State University and I'm majoring in Computer Science and Engineering. Just recently I became the president of the [Open Source Club](http://www.opensource.osu.edu/) at OSU for the 2019-2020 school year.\r\n\r\n---\r\n**Interests:**\r\n - Long distance running\r\n - Biking\r\n - Programming (mainly in python)\r\n - Data Analysis\r\n - Sports (Mostly football and baseball)\r\n - Camping\r\n---\r\n**Info:**\r\n- [Github (@tomcasavant)](https://github.com/tomcasavant)\r\n- [Twitter (@MrPresidentTom)](https://twitter.com/MrPresidentTom)\r\n- [Personal Website (www.tomcasavant.com)](https://tomcasavant.com/)",
@@ -86,11 +100,13 @@
   {
     "photo": {
       "description": "Anurag Saxena",
-      "url": "https://www.gravatar.com/avatar/410e6a551d55f004ce05df129e522328?s=250&r=g&d=http%3A%2F%2Fstatic-cfp.pyohio.org%2Fspeaker_photo%2Fdefault.png"
+      "url": "https://static.pyohio.org/2019/speakers/270.png"
     },
     "website": "https://anuragsaxena.org",
     "biography_html": "<p>Python Dev. Community enthusiast.</p>",
-    "organizer_roles": ["Program Committee"],
+    "organizer_roles": [
+      "Program Committee"
+    ],
     "name": "Anurag Saxena",
     "mastodon": "@asx@mastodon.social",
     "biography": "Python Dev. Community enthusiast.",
@@ -100,11 +116,13 @@
   {
     "photo": {
       "description": "Jess Unrein",
-      "url": "https://static-cfp.pyohio.org/speaker_photos/jess_with_hat.jpg"
+      "url": "https://static.pyohio.org/2019/speakers/86.jpg"
     },
     "website": "https://jessunrein.com",
     "biography_html": "<p>Jess Unrein is a software engineer with a passion for Python and community organizing. They currently work at Benchmark Analytics. In their spare time they also write about tech on dev.to, give talks at local meetups, write zines, and hang out with their cats. http://pronoun.is/ve/ver?or=they</p>",
-    "organizer_roles": ["Program Committee"],
+    "organizer_roles": [
+      "Program Committee"
+    ],
     "name": "Jess Unrein",
     "mastodon": "",
     "biography": "Jess Unrein is a software engineer with a passion for Python and community organizing. They currently work at Benchmark Analytics. In their spare time they also write about tech on dev.to, give talks at local meetups, write zines, and hang out with their cats. http://pronoun.is/ve/ver?or=they",
@@ -114,11 +132,13 @@
   {
     "photo": {
       "description": "Brian Costlow",
-      "url": "https://www.gravatar.com/avatar/b0cea66dc91b4468018ac2f7a88eb26a?s=250&r=g&d=http%3A%2F%2Fstatic-cfp.pyohio.org%2Fspeaker_photo%2Fdefault.png"
+      "url": "https://static.pyohio.org/2019/speakers/191.png"
     },
     "website": "",
     "biography_html": "<ul>\n<li>Programs badly in a dozen languages, reasonably proficient in Python.</li>\n<li>Madly in love with my wife, Mary, who allows me to spend way too much time doing geek things.</li>\n<li>Occasional Fisherman.</li>\n<li>Father of two reasonably well adjusted young adults.</li>\n<li>PyCon Captioning Coordinator. </li>\n<li>Homebrewer.</li>\n<li>PyOhio Chair Emeritus (2014-2016). </li>\n<li>PSF Fellow.</li>\n</ul>",
-    "organizer_roles": ["Young Coders"],
+    "organizer_roles": [
+      "Young Coders"
+    ],
     "name": "Brian Costlow",
     "mastodon": "",
     "biography": "- Programs badly in a dozen languages, reasonably proficient in Python.\r\n- Madly in love with my wife, Mary, who allows me to spend way too much time doing geek things.\r\n- Occasional Fisherman.\r\n- Father of two reasonably well adjusted young adults.\r\n- PyCon Captioning Coordinator. \r\n- Homebrewer.\r\n- PyOhio Chair Emeritus (2014-2016). \r\n- PSF Fellow.",
@@ -128,11 +148,13 @@
   {
     "photo": {
       "description": "Jerry Kingzett",
-      "url": "https://static-cfp.pyohio.org/speaker_photos/Jerry_Kingzett.jpg"
+      "url": "https://static.pyohio.org/2019/speakers/45.jpg"
     },
     "website": "",
     "biography_html": "<p>Retired technician from OSU Mechanical Engineering</p>",
-    "organizer_roles": ["T-Shirts"],
+    "organizer_roles": [
+      "T-Shirts"
+    ],
     "name": "Jerry Kingzett",
     "mastodon": "",
     "biography": "Retired technician from OSU Mechanical Engineering",
@@ -142,11 +164,14 @@
   {
     "photo": {
       "description": "Kat Passen",
-      "url": "https://static-cfp.pyohio.org/speaker_photos/IMG_1306.png"
+      "url": "https://static.pyohio.org/2019/speakers/43.png"
     },
     "website": "",
     "biography_html": "<p>Kat is an experienced front end developer who has a passion for creating accessible, interactive experiences.</p>",
-    "organizer_roles": ["Web Accessibility", "Web Technology"],
+    "organizer_roles": [
+      "Web Accessibility",
+      "Web Technology"
+    ],
     "name": "Kat Passen",
     "mastodon": "",
     "biography": "Kat is an experienced front end developer who has a passion for creating accessible, interactive experiences.",
@@ -156,11 +181,13 @@
   {
     "photo": {
       "description": "Benjamin",
-      "url": "https://static-cfp.pyohio.org/speaker_photos/headshot.jpg"
+      "url": "https://static.pyohio.org/2019/speakers/79.jpg"
     },
     "website": "",
     "biography_html": "<p>Benjamin is a software engineer with the Department of the Navy and enjoys learning about python, API Development, and automation. When not engaged in engineering you may find him in pursuit of the next trail to run or hike!</p>",
-    "organizer_roles": ["Web Technology"],
+    "organizer_roles": [
+      "Web Technology"
+    ],
     "name": "Benjamin",
     "mastodon": "",
     "biography": "Benjamin is a software engineer with the Department of the Navy and enjoys learning about python, API Development, and automation. When not engaged in engineering you may find him in pursuit of the next trail to run or hike!",
@@ -170,11 +197,13 @@
   {
     "photo": {
       "description": "Jack Moore",
-      "url": "https://static-cfp.pyohio.org/speaker_photo/117/BadgePhoto.jpeg"
+      "url": "https://static.pyohio.org/2019/speakers/192.jpeg"
     },
     "website": "",
     "biography_html": "<p>Jack recently graduated Ohio State University with a BSBA specializing in Management Information Systems. He currently works for Duke Energy in Critical Infrastructure IT Operations, but spends time out side of work using any new technology he can get his hands on. He loves python and was a big blockchain enthusiast, but he now works more with infrastructure automation and on the IT Operations side.</p>",
-    "organizer_roles": ["Committee Member"],
+    "organizer_roles": [
+      "Committee Member"
+    ],
     "name": "Jack Moore",
     "mastodon": "",
     "biography": "Jack recently graduated Ohio State University with a BSBA specializing in Management Information Systems. He currently works for Duke Energy in Critical Infrastructure IT Operations, but spends time out side of work using any new technology he can get his hands on. He loves python and was a big blockchain enthusiast, but he now works more with infrastructure automation and on the IT Operations side.",
@@ -184,11 +213,13 @@
   {
     "photo": {
       "description": "Catherine Devlin",
-      "url": "https://static-cfp.pyohio.org/speaker_photo/474/voted-head.jpg"
+      "url": "https://static.pyohio.org/2019/speakers/213.jpg"
     },
     "website": "",
     "biography_html": "<p>From washed-up chemical engineering grad student, to secretarial pool typist, to database administrator, Catherine found Python in 2004 and lived happily ever after.  She was creator of ipython_sql, first chair of PyOhio, and keynoter at PyCon US 2018.  She works remotely as a data engineer at Miro Health.  She lives in the woods near Dayton and probably has sticks in her hair.</p>",
-    "organizer_roles": ["Founding Chair Emeritus"],
+    "organizer_roles": [
+      "Founding Chair Emeritus"
+    ],
     "name": "Catherine Devlin",
     "mastodon": "",
     "biography": "From washed-up chemical engineering grad student, to secretarial pool typist, to database administrator, Catherine found Python in 2004 and lived happily ever after.  She was creator of ipython_sql, first chair of PyOhio, and keynoter at PyCon US 2018.  She works remotely as a data engineer at Miro Health.  She lives in the woods near Dayton and probably has sticks in her hair.",

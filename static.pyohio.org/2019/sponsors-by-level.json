@@ -8,7 +8,7 @@
         "activation_date": null,
         "web_logo": {
           "description": "Google Cloud Logo",
-          "url": "https://static-cfp.pyohio.org/sponsor_files/lockup_cloud_main.png"
+          "url": "https://static.pyohio.org/2019/sponsors/Google_Cloud.png"
         },
         "name": "Google Cloud",
         "twitter": "googlecloud"
@@ -17,7 +17,12 @@
     "cost": 5000,
     "order": 0
   },
-  { "name": "Young Coders", "sponsors": [], "cost": 3000, "order": 1 },
+  {
+    "name": "Young Coders",
+    "sponsors": [],
+    "cost": 3000,
+    "order": 1
+  },
   {
     "name": "Conference Grant",
     "sponsors": [
@@ -27,7 +32,7 @@
         "activation_date": null,
         "web_logo": {
           "description": "The Python Software Foundation Logo",
-          "url": "https://static-cfp.pyohio.org/sponsor_files/PSF-Logo-Narrow-Shapes-512x192.png"
+          "url": "https://static.pyohio.org/2019/sponsors/The_Python_Software_Foundation.png"
         },
         "name": "The Python Software Foundation",
         "twitter": "ThePSF"
@@ -45,7 +50,7 @@
         "activation_date": null,
         "web_logo": {
           "description": "Level 12 Logo",
-          "url": "https://static-cfp.pyohio.org/sponsor_files/Level12_BlackAndOrange_rgb.png"
+          "url": "https://static.pyohio.org/2019/sponsors/Level_12.png"
         },
         "name": "Level 12",
         "twitter": ""
@@ -54,7 +59,12 @@
     "cost": 3000,
     "order": 3
   },
-  { "name": "Lanyards", "sponsors": [], "cost": 3000, "order": 3 },
+  {
+    "name": "Lanyards",
+    "sponsors": [],
+    "cost": 3000,
+    "order": 3
+  },
   {
     "name": "Platinum",
     "sponsors": [
@@ -64,7 +74,7 @@
         "activation_date": null,
         "web_logo": {
           "description": "JPMorgan Chase &  Co. Logo",
-          "url": "https://static-cfp.pyohio.org/sponsor_files/JPMC_Logo.jpg"
+          "url": "https://static.pyohio.org/2019/sponsors/JPMorgan_Chase_&__Co..jpg"
         },
         "name": "JPMorgan Chase &  Co.",
         "twitter": "jpmorgan"
@@ -75,7 +85,7 @@
         "activation_date": null,
         "web_logo": {
           "description": "Metis Logo",
-          "url": "https://static-cfp.pyohio.org/sponsor_files/metis_logo_black_horiz.png"
+          "url": "https://static.pyohio.org/2019/sponsors/Metis.png"
         },
         "name": "Metis",
         "twitter": "thisismetis"
@@ -86,7 +96,7 @@
         "activation_date": null,
         "web_logo": {
           "description": "Intellovations LLC Logo",
-          "url": "https://static-cfp.pyohio.org/sponsor_files/Intellovations-vertical-color.png"
+          "url": "https://static.pyohio.org/2019/sponsors/Intellovations_LLC.png"
         },
         "name": "Intellovations LLC",
         "twitter": "intellovations"
@@ -104,7 +114,7 @@
         "activation_date": null,
         "web_logo": {
           "description": "Wingware Logo",
-          "url": "https://static-cfp.pyohio.org/sponsor_files/wingware-button-2018.png"
+          "url": "https://static.pyohio.org/2019/sponsors/Wingware.png"
         },
         "name": "Wingware",
         "twitter": "pythonide"
@@ -115,7 +125,7 @@
         "activation_date": null,
         "web_logo": {
           "description": "Braintree Logo",
-          "url": "https://static-cfp.pyohio.org/sponsor_files/braintree.jpg"
+          "url": "https://static.pyohio.org/2019/sponsors/Braintree.jpg"
         },
         "name": "Braintree",
         "twitter": "braintree"
@@ -126,7 +136,7 @@
         "activation_date": null,
         "web_logo": {
           "description": "Nimbis Services Logo",
-          "url": "https://static-cfp.pyohio.org/sponsor_files/NIMBIS_LOGO_-_ORIGINAL_STYLE_-_1X_002.png"
+          "url": "https://static.pyohio.org/2019/sponsors/Nimbis_Services.png"
         },
         "name": "Nimbis Services",
         "twitter": "NimbisSvcs"
@@ -137,7 +147,7 @@
         "activation_date": null,
         "web_logo": {
           "description": "Numerator Logo",
-          "url": "https://static-cfp.pyohio.org/sponsor_files/Numerator_WithTagline_Vertical.png"
+          "url": "https://static.pyohio.org/2019/sponsors/Numerator.png"
         },
         "name": "Numerator",
         "twitter": "https://twitter.com/numeratorone"
@@ -148,7 +158,7 @@
         "activation_date": null,
         "web_logo": {
           "description": "DigitalOcean Logo",
-          "url": "https://static-cfp.pyohio.org/sponsor_files/DO_Logo_Vertical_Blue.png"
+          "url": "https://static.pyohio.org/2019/sponsors/DigitalOcean.png"
         },
         "name": "DigitalOcean",
         "twitter": "digitalocean"
@@ -159,7 +169,7 @@
         "activation_date": null,
         "web_logo": {
           "description": "Complion Logo",
-          "url": "https://static-cfp.pyohio.org/sponsor_files/Complion-Logo-Main_1.png"
+          "url": "https://static.pyohio.org/2019/sponsors/Complion.png"
         },
         "name": "Complion",
         "twitter": "ComplionInc"
@@ -170,7 +180,7 @@
         "activation_date": null,
         "web_logo": {
           "description": "American Greetings Logo",
-          "url": "https://static-cfp.pyohio.org/sponsor_files/ag_logo_360x120.png"
+          "url": "https://static.pyohio.org/2019/sponsors/American_Greetings.png"
         },
         "name": "American Greetings",
         "twitter": "amgreetings"
@@ -181,7 +191,7 @@
         "activation_date": null,
         "web_logo": {
           "description": "OnShift Logo",
-          "url": "https://static-cfp.pyohio.org/sponsor_files/On_Shift_logo_color.png"
+          "url": "https://static.pyohio.org/2019/sponsors/OnShift.png"
         },
         "name": "OnShift",
         "twitter": ""
@@ -199,7 +209,7 @@
         "activation_date": null,
         "web_logo": {
           "description": "Dabeaz Logo",
-          "url": "https://static-cfp.pyohio.org/sponsor_files/logo.png"
+          "url": "https://static.pyohio.org/2019/sponsors/Dabeaz.png"
         },
         "name": "Dabeaz",
         "twitter": "Dabeaz"
@@ -210,7 +220,7 @@
         "activation_date": null,
         "web_logo": {
           "description": "OCLC Logo",
-          "url": "https://static-cfp.pyohio.org/sponsor_files/OCLC_Logo_V_Color_NoTag.png"
+          "url": "https://static.pyohio.org/2019/sponsors/OCLC.png"
         },
         "name": "OCLC",
         "twitter": null
@@ -234,7 +244,7 @@
         "activation_date": null,
         "web_logo": {
           "description": "OSU Open Source Club Logo",
-          "url": "https://static-cfp.pyohio.org/sponsor_files/open-source-club.png"
+          "url": "https://static.pyohio.org/2019/sponsors/OSU_Open_Source_Club.png"
         },
         "name": "OSU Open Source Club",
         "twitter": null
@@ -245,7 +255,7 @@
         "activation_date": null,
         "web_logo": {
           "description": "TEALS Logo",
-          "url": "https://static-cfp.pyohio.org/sponsor_files/TEALS_Image_V2.PNG"
+          "url": "https://static.pyohio.org/2019/sponsors/TEALS.PNG"
         },
         "name": "TEALS",
         "twitter": null
@@ -256,7 +266,7 @@
         "activation_date": null,
         "web_logo": {
           "description": "Michigan!/usr/group Logo",
-          "url": "https://static-cfp.pyohio.org/sponsor_files/muglogo_backreverse.jpg"
+          "url": "https://static.pyohio.org/2019/sponsors/Michigan__usr_group.jpg"
         },
         "name": "Michigan!/usr/group",
         "twitter": null
@@ -267,7 +277,7 @@
         "activation_date": null,
         "web_logo": {
           "description": "Chicago Python Users Group Logo",
-          "url": "https://static-cfp.pyohio.org/sponsor_files/chipmunk.png"
+          "url": "https://static.pyohio.org/2019/sponsors/Chicago_Python_Users_Group.png"
         },
         "name": "Chicago Python Users Group",
         "twitter": "ChicagoPython"
@@ -278,7 +288,7 @@
         "activation_date": null,
         "web_logo": {
           "description": "PyLadies Chicago Logo",
-          "url": "https://static-cfp.pyohio.org/sponsor_files/PyladiesChicagoLogo.png"
+          "url": "https://static.pyohio.org/2019/sponsors/PyLadies_Chicago.png"
         },
         "name": "PyLadies Chicago",
         "twitter": "pyladieschicago"
@@ -296,7 +306,7 @@
         "activation_date": null,
         "web_logo": {
           "description": "PyGotham Logo",
-          "url": "https://static-cfp.pyohio.org/sponsor_files/Logo_Circle.png"
+          "url": "https://static.pyohio.org/2019/sponsors/PyGotham.png"
         },
         "name": "PyGotham",
         "twitter": "PyGotham"
@@ -307,7 +317,7 @@
         "activation_date": null,
         "web_logo": {
           "description": "North Bay Python Logo",
-          "url": "https://static-cfp.pyohio.org/sponsor_files/north-bay-python-wordmark.png"
+          "url": "https://static.pyohio.org/2019/sponsors/North_Bay_Python.png"
         },
         "name": "North Bay Python",
         "twitter": "northbaypython"
@@ -316,5 +326,10 @@
     "cost": 0,
     "order": 90
   },
-  { "name": "Individual", "sponsors": [], "cost": 50, "order": 100 }
+  {
+    "name": "Individual",
+    "sponsors": [],
+    "cost": 50,
+    "order": 100
+  }
 ]

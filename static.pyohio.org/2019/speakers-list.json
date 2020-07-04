@@ -2,7 +2,7 @@
   {
     "photo": {
       "description": "Ricardo Solano",
-      "url": "https://www.gravatar.com/avatar/0b84f3683b0b8461139197d998e1aa5d?s=250&r=g&d=http%3A%2F%2Fstatic-cfp.pyohio.org%2Fspeaker_photo%2Fdefault.png"
+      "url": "https://static.pyohio.org/2019/speakers/257.png"
     },
     "presentations": [
       {
@@ -22,7 +22,7 @@
   {
     "photo": {
       "description": "Joseph Willi",
-      "url": "https://static-cfp.pyohio.org/speaker_photo/482/joseph.jpg"
+      "url": "https://static.pyohio.org/2019/speakers/259.jpg"
     },
     "presentations": [
       {
@@ -42,7 +42,7 @@
   {
     "photo": {
       "description": "Aly Sivji",
-      "url": "https://static-cfp.pyohio.org/speaker_photos/profile-pic.jpeg"
+      "url": "https://static.pyohio.org/2019/speakers/7.jpeg"
     },
     "presentations": [
       {
@@ -62,7 +62,7 @@
   {
     "photo": {
       "description": "Darlene Wong",
-      "url": "https://static-cfp.pyohio.org/speaker_photo/255/IMG_1247.jpg"
+      "url": "https://static.pyohio.org/2019/speakers/264.jpg"
     },
     "presentations": [
       {
@@ -82,7 +82,7 @@
   {
     "photo": {
       "description": "Jon Banafato",
-      "url": "https://static-cfp.pyohio.org/speaker_photos/robot.jpg"
+      "url": "https://static.pyohio.org/2019/speakers/138.jpg"
     },
     "presentations": [
       {
@@ -102,7 +102,7 @@
   {
     "photo": {
       "description": "Shruthi Ravichandran",
-      "url": "https://static-cfp.pyohio.org/speaker_photo/535/ShruthiRavichandranOfficialnobackground.png"
+      "url": "https://static.pyohio.org/2019/speakers/267.png"
     },
     "presentations": [
       {
@@ -122,7 +122,7 @@
   {
     "photo": {
       "description": "Krista Readout",
-      "url": "https://www.gravatar.com/avatar/523887ba59aad347718a3b2911b415d4?s=250&r=g&d=http%3A%2F%2Fstatic-cfp.pyohio.org%2Fspeaker_photo%2Fdefault.png"
+      "url": "https://static.pyohio.org/2019/speakers/268.png"
     },
     "presentations": [
       {
@@ -142,7 +142,7 @@
   {
     "photo": {
       "description": "Gregory M. Kapfhammer",
-      "url": "https://static-cfp.pyohio.org/speaker_photo/243/gregory-kapfhammer-biography-small.jpg"
+      "url": "https://static.pyohio.org/2019/speakers/149.jpg"
     },
     "presentations": [
       {
@@ -162,7 +162,7 @@
   {
     "photo": {
       "description": "Zak Kohler",
-      "url": "https://static-cfp.pyohio.org/speaker_photo/246/Screenshot_20190621-152216.png"
+      "url": "https://static.pyohio.org/2019/speakers/154.png"
     },
     "presentations": [
       {
@@ -182,7 +182,7 @@
   {
     "photo": {
       "description": "Bethany Poulin",
-      "url": "https://static-cfp.pyohio.org/speaker_photos/bpoulin.jpeg"
+      "url": "https://static.pyohio.org/2019/speakers/155.jpeg"
     },
     "presentations": [
       {
@@ -202,7 +202,7 @@
   {
     "photo": {
       "description": "Dave Forgac",
-      "url": "https://static-cfp.pyohio.org/speaker_photos/tylerdave-pyohio-square.jpg"
+      "url": "https://static.pyohio.org/2019/speakers/1.jpg"
     },
     "presentations": [
       {
@@ -220,7 +220,11 @@
         "title": "Sunday Lightning Talks",
         "kind": "Plenary"
       },
-      { "presentation_id": 145, "title": "Sunday Welcome", "kind": "Plenary" }
+      {
+        "presentation_id": 145,
+        "title": "Sunday Welcome",
+        "kind": "Plenary"
+      }
     ],
     "website": "https://daveops.com",
     "biography_html": "<p>Dave Forgac is a senior software engineer in Cleveland, OH. Dave has been a FOSS enthusiast ever since installing Linux for the first time in the late '90's. He loves building communities and is an organizer of PyOhio, CLEpy, and the Cleveland API Meetup.</p>",
@@ -233,7 +237,7 @@
   {
     "photo": {
       "description": "Nik Kantar",
-      "url": "https://static-cfp.pyohio.org/speaker_photo/522/IMG_5701.jpg"
+      "url": "https://static.pyohio.org/2019/speakers/251.jpg"
     },
     "presentations": [
       {
@@ -253,7 +257,7 @@
   {
     "photo": {
       "description": "Deborah Diller Harris",
-      "url": "https://static-cfp.pyohio.org/speaker_photo/210/IMG_2346.JPG"
+      "url": "https://static.pyohio.org/2019/speakers/199.JPG"
     },
     "presentations": [
       {
@@ -273,7 +277,7 @@
   {
     "photo": {
       "description": "Daniel Lindeman",
-      "url": "https://static-cfp.pyohio.org/speaker_photo/75/Team_Photos_2019_0011_Daniel.jpg"
+      "url": "https://static.pyohio.org/2019/speakers/48.jpg"
     },
     "presentations": [
       {
@@ -293,7 +297,7 @@
   {
     "photo": {
       "description": "Travis Risner",
-      "url": "https://www.gravatar.com/avatar/a7f55966d6a81184852860f45a4dac1e?s=250&r=g&d=http%3A%2F%2Fstatic-cfp.pyohio.org%2Fspeaker_photo%2Fdefault.png"
+      "url": "https://static.pyohio.org/2019/speakers/52.png"
     },
     "presentations": [
       {
@@ -313,7 +317,7 @@
   {
     "photo": {
       "description": "Darshan Markandaiah",
-      "url": "https://static-cfp.pyohio.org/speaker_photo/533/unnamed.jpg"
+      "url": "https://static.pyohio.org/2019/speakers/266.jpg"
     },
     "presentations": [
       {
@@ -333,7 +337,7 @@
   {
     "photo": {
       "description": "Greg Svoboda",
-      "url": "https://static-cfp.pyohio.org/speaker_photo/108/IMG_5301.JPG"
+      "url": "https://static.pyohio.org/2019/speakers/63.JPG"
     },
     "presentations": [
       {
@@ -353,7 +357,7 @@
   {
     "photo": {
       "description": "Ryan Bales",
-      "url": "https://static-cfp.pyohio.org/speaker_photo/435/RyanBales_ProfileImage_400_400.jpg"
+      "url": "https://static.pyohio.org/2019/speakers/193.jpg"
     },
     "presentations": [
       {
@@ -373,7 +377,7 @@
   {
     "photo": {
       "description": "Jack Bennett",
-      "url": "https://static-cfp.pyohio.org/speaker_photo/437/bennett_stirtrek_white_background.png"
+      "url": "https://static.pyohio.org/2019/speakers/194.png"
     },
     "presentations": [
       {
@@ -393,7 +397,7 @@
   {
     "photo": {
       "description": "Vince Salvino",
-      "url": "https://www.gravatar.com/avatar/ac82dfedd96926d894c3fcacd7409130?s=250&r=g&d=http%3A%2F%2Fstatic-cfp.pyohio.org%2Fspeaker_photo%2Fdefault.png"
+      "url": "https://static.pyohio.org/2019/speakers/139.png"
     },
     "presentations": [
       {
@@ -413,7 +417,7 @@
   {
     "photo": {
       "description": "Piper Thunstrom",
-      "url": "https://static-cfp.pyohio.org/speaker_photos/profile.jpg"
+      "url": "https://static.pyohio.org/2019/speakers/100.jpg"
     },
     "presentations": [
       {
@@ -433,7 +437,7 @@
   {
     "photo": {
       "description": "Alexandru Barbur",
-      "url": "https://static-cfp.pyohio.org/speaker_photos/profile_cropped.jpg"
+      "url": "https://static.pyohio.org/2019/speakers/71.jpg"
     },
     "presentations": [
       {
@@ -453,7 +457,7 @@
   {
     "photo": {
       "description": "John Berryman",
-      "url": "https://static-cfp.pyohio.org/speaker_photo/446/FacePhoto2.jpg"
+      "url": "https://static.pyohio.org/2019/speakers/200.jpg"
     },
     "presentations": [
       {
@@ -473,7 +477,7 @@
   {
     "photo": {
       "description": "Nikola Novakovic",
-      "url": "https://static-cfp.pyohio.org/speaker_photo/452/image_1.png"
+      "url": "https://static.pyohio.org/2019/speakers/201.png"
     },
     "presentations": [
       {
@@ -493,7 +497,7 @@
   {
     "photo": {
       "description": "Shishir Pokharel",
-      "url": "https://static-cfp.pyohio.org/speaker_photo/455/shishir.jpg"
+      "url": "https://static.pyohio.org/2019/speakers/202.jpg"
     },
     "presentations": [
       {
@@ -513,7 +517,7 @@
   {
     "photo": {
       "description": "Regina Compton",
-      "url": "https://static-cfp.pyohio.org/speaker_photo/456/Regina.jpg"
+      "url": "https://static.pyohio.org/2019/speakers/203.jpg"
     },
     "presentations": [
       {
@@ -533,7 +537,7 @@
   {
     "photo": {
       "description": "Todd Leonhardt",
-      "url": "https://static-cfp.pyohio.org/speaker_photo/459/tleonhardt.jpeg"
+      "url": "https://static.pyohio.org/2019/speakers/204.jpeg"
     },
     "presentations": [
       {
@@ -553,7 +557,7 @@
   {
     "photo": {
       "description": "Lara Kattan",
-      "url": "https://www.gravatar.com/avatar/38bafb9a2e24674474544e2ef9781c21?s=250&r=g&d=http%3A%2F%2Fstatic-cfp.pyohio.org%2Fspeaker_photo%2Fdefault.png"
+      "url": "https://static.pyohio.org/2019/speakers/205.png"
     },
     "presentations": [
       {
@@ -573,7 +577,7 @@
   {
     "photo": {
       "description": "Esther B. Gotfryd, MSN, NP-C",
-      "url": "https://static-cfp.pyohio.org/speaker_photos/IMG_1309.JPG"
+      "url": "https://static.pyohio.org/2019/speakers/78.JPG"
     },
     "presentations": [
       {
@@ -593,7 +597,7 @@
   {
     "photo": {
       "description": "Alex Zharichenko",
-      "url": "https://static-cfp.pyohio.org/speaker_photo/469/IMG_20181220_222924_409.jpg"
+      "url": "https://static.pyohio.org/2019/speakers/209.jpg"
     },
     "presentations": [
       {
@@ -613,7 +617,7 @@
   {
     "photo": {
       "description": "Joe Erickson",
-      "url": "https://www.gravatar.com/avatar/c739f97f8fe7f9a22d3357d658e86ebd?s=250&r=g&d=http%3A%2F%2Fstatic-cfp.pyohio.org%2Fspeaker_photo%2Fdefault.png"
+      "url": "https://static.pyohio.org/2019/speakers/210.png"
     },
     "presentations": [
       {
@@ -633,7 +637,7 @@
   {
     "photo": {
       "description": "Christopher T. Miller",
-      "url": "https://static-cfp.pyohio.org/speaker_photo/473/1916885_1294092543950169_4758794969322935949_n.jpg"
+      "url": "https://static.pyohio.org/2019/speakers/211.jpg"
     },
     "presentations": [
       {
@@ -653,7 +657,7 @@
   {
     "photo": {
       "description": "Dustin Ingram",
-      "url": "https://static-cfp.pyohio.org/speaker_photos/294415.png"
+      "url": "https://static.pyohio.org/2019/speakers/84.png"
     },
     "presentations": [
       {
@@ -673,7 +677,7 @@
   {
     "photo": {
       "description": "Eric Appelt",
-      "url": "https://static-cfp.pyohio.org/speaker_photos/appeltel_profile_2018a.jpg"
+      "url": "https://static.pyohio.org/2019/speakers/85.jpg"
     },
     "presentations": [
       {
@@ -693,7 +697,7 @@
   {
     "photo": {
       "description": "Mason Egger",
-      "url": "https://www.gravatar.com/avatar/d84f5c73f97f4fd0f5de39ee77b1b6d8?s=250&r=g&d=http%3A%2F%2Fstatic-cfp.pyohio.org%2Fspeaker_photo%2Fdefault.png"
+      "url": "https://static.pyohio.org/2019/speakers/215.png"
     },
     "presentations": [
       {
@@ -713,7 +717,7 @@
   {
     "photo": {
       "description": "Dane Hillard",
-      "url": "https://static-cfp.pyohio.org/speaker_photo/479/profilenew.jpg"
+      "url": "https://static.pyohio.org/2019/speakers/217.jpg"
     },
     "presentations": [
       {
@@ -733,7 +737,7 @@
   {
     "photo": {
       "description": "Allison Bolen",
-      "url": "https://static-cfp.pyohio.org/speaker_photo/483/AllisonBolen.jpg"
+      "url": "https://static.pyohio.org/2019/speakers/220.jpg"
     },
     "presentations": [
       {
@@ -753,7 +757,7 @@
   {
     "photo": {
       "description": "Kevin Van Brunt",
-      "url": "https://static-cfp.pyohio.org/speaker_photo/531/28899027.jpg"
+      "url": "https://static.pyohio.org/2019/speakers/222.jpg"
     },
     "presentations": [
       {
@@ -773,7 +777,7 @@
   {
     "photo": {
       "description": "Brian Skinn",
-      "url": "https://www.gravatar.com/avatar/49c2748f689564be6422ef37aea0da5f?s=250&r=g&d=http%3A%2F%2Fstatic-cfp.pyohio.org%2Fspeaker_photo%2Fdefault.png"
+      "url": "https://static.pyohio.org/2019/speakers/227.png"
     },
     "presentations": [
       {
@@ -793,7 +797,7 @@
   {
     "photo": {
       "description": "Guy Royse",
-      "url": "https://static-cfp.pyohio.org/speaker_photo/497/guy-royse-nexosis-square-small.jpg"
+      "url": "https://static.pyohio.org/2019/speakers/228.jpg"
     },
     "presentations": [
       {
@@ -813,7 +817,7 @@
   {
     "photo": {
       "description": "Ilya Gotfryd",
-      "url": "https://static-cfp.pyohio.org/speaker_photos/lorez_professional_ikg.jpg.jpeg"
+      "url": "https://static.pyohio.org/2019/speakers/102.jpeg"
     },
     "presentations": [
       {
@@ -833,7 +837,7 @@
   {
     "photo": {
       "description": "Craig Maloney",
-      "url": "https://static-cfp.pyohio.org/speaker_photo/95/cat_avatar.png"
+      "url": "https://static.pyohio.org/2019/speakers/231.png"
     },
     "presentations": [
       {
@@ -853,7 +857,7 @@
   {
     "photo": {
       "description": "Kattni Rembor",
-      "url": "https://static-cfp.pyohio.org/speaker_photo/504/kattni.jpg"
+      "url": "https://static.pyohio.org/2019/speakers/233.jpg"
     },
     "presentations": [
       {
@@ -873,7 +877,7 @@
   {
     "photo": {
       "description": "Andrew Knight",
-      "url": "https://static-cfp.pyohio.org/speaker_photo/198/PyCon_Andy_2_sq.jpg"
+      "url": "https://static.pyohio.org/2019/speakers/106.jpg"
     },
     "presentations": [
       {
@@ -898,7 +902,7 @@
   {
     "photo": {
       "description": "Greg Back",
-      "url": "https://static-cfp.pyohio.org/speaker_photo/110/2019_Portrait.jpg"
+      "url": "https://static.pyohio.org/2019/speakers/236.jpg"
     },
     "presentations": [
       {
@@ -918,7 +922,7 @@
   {
     "photo": {
       "description": "Jason R. Coombs",
-      "url": "https://static-cfp.pyohio.org/speaker_photo/507/29_Jason_color_print.jpg"
+      "url": "https://static.pyohio.org/2019/speakers/237.jpg"
     },
     "presentations": [
       {
@@ -938,7 +942,7 @@
   {
     "photo": {
       "description": "Arpan Jain",
-      "url": "https://static-cfp.pyohio.org/speaker_photo/515/image.png"
+      "url": "https://static.pyohio.org/2019/speakers/243.png"
     },
     "presentations": [
       {
@@ -958,7 +962,7 @@
   {
     "photo": {
       "description": "Matthew Brower",
-      "url": "https://www.gravatar.com/avatar/4ab8c15c3ab5f05b7a3567a23df697aa?s=250&r=g&d=http%3A%2F%2Fstatic-cfp.pyohio.org%2Fspeaker_photo%2Fdefault.png"
+      "url": "https://static.pyohio.org/2019/speakers/212.png"
     },
     "presentations": [
       {
@@ -978,7 +982,7 @@
   {
     "photo": {
       "description": "Trey Hakanson",
-      "url": "https://static-cfp.pyohio.org/speaker_photo/508/51697131_3019896118027951_5493952007028867072_o.jpg"
+      "url": "https://static.pyohio.org/2019/speakers/246.jpg"
     },
     "presentations": [
       {
@@ -998,7 +1002,7 @@
   {
     "photo": {
       "description": "John Roach",
-      "url": "https://static-cfp.pyohio.org/speaker_photo/470/IMG_-psj2h5.jpg"
+      "url": "https://static.pyohio.org/2019/speakers/247.jpg"
     },
     "presentations": [
       {
@@ -1018,7 +1022,7 @@
   {
     "photo": {
       "description": "Steve Crow",
-      "url": "https://static-cfp.pyohio.org/speaker_photo/519/IMG_20190130_084555_1_copy.jpg"
+      "url": "https://static.pyohio.org/2019/speakers/248.jpg"
     },
     "presentations": [
       {
@@ -1038,7 +1042,7 @@
   {
     "photo": {
       "description": "Madelyn M. Kapfhammer",
-      "url": "https://static-cfp.pyohio.org/speaker_photo/375/Screenshot_20171128-132531.png"
+      "url": "https://static.pyohio.org/2019/speakers/249.png"
     },
     "presentations": [
       {
@@ -1058,7 +1062,7 @@
   {
     "photo": {
       "description": "Igor Ferst",
-      "url": "https://static-cfp.pyohio.org/speaker_photo/521/Igor.jpeg"
+      "url": "https://static.pyohio.org/2019/speakers/250.jpeg"
     },
     "presentations": [
       {
@@ -1078,7 +1082,7 @@
   {
     "photo": {
       "description": "Ian Zelikman",
-      "url": "https://www.gravatar.com/avatar/8d457f34e2f59253aed7c2fa3af50347?s=250&r=g&d=http%3A%2F%2Fstatic-cfp.pyohio.org%2Fspeaker_photo%2Fdefault.png"
+      "url": "https://static.pyohio.org/2019/speakers/123.png"
     },
     "presentations": [
       {
@@ -1098,7 +1102,7 @@
   {
     "photo": {
       "description": "Kawthar Shafie Khorassani",
-      "url": "https://www.gravatar.com/avatar/b1ce247250f753a5737b9a4f8c7c2d7b?s=250&r=g&d=http%3A%2F%2Fstatic-cfp.pyohio.org%2Fspeaker_photo%2Fdefault.png"
+      "url": "https://static.pyohio.org/2019/speakers/252.png"
     },
     "presentations": [
       {
@@ -1118,7 +1122,7 @@
   {
     "photo": {
       "description": "Chris Wilcox",
-      "url": "https://static-cfp.pyohio.org/speaker_photo/501/CSJ_6086_1x1_tight.jpg"
+      "url": "https://static.pyohio.org/2019/speakers/234.jpg"
     },
     "presentations": [
       {
@@ -1138,7 +1142,7 @@
   {
     "photo": {
       "description": "Alexandria Kalika",
-      "url": "https://static-cfp.pyohio.org/speaker_photo/207/face.jpg"
+      "url": "https://static.pyohio.org/2019/speakers/254.jpg"
     },
     "presentations": [
       {
@@ -1158,7 +1162,7 @@
   {
     "photo": {
       "description": "Catherine Devlin",
-      "url": "https://static-cfp.pyohio.org/speaker_photo/474/voted-head.jpg"
+      "url": "https://static.pyohio.org/2019/speakers/213.jpg"
     },
     "presentations": [
       {
