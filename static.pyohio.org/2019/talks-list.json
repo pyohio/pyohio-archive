@@ -14,7 +14,7 @@
       {
         "photo": {
           "description": "Jon Banafato",
-          "url": "https://static-cfp.pyohio.org/speaker_photos/robot.jpg"
+          "url": "https://static.pyohio.org/2019/speakers/138.jpg"
         },
         "website": "",
         "biography_html": "<p>Jon Banafato is a Python developer and event organizer living in NYC. He would love to see you attend <a href=\"https://pygotham.org\">PyGotham</a>.</p>",
@@ -46,7 +46,7 @@
       {
         "photo": {
           "description": "Dane Hillard",
-          "url": "https://static-cfp.pyohio.org/speaker_photo/479/profilenew.jpg"
+          "url": "https://static.pyohio.org/2019/speakers/217.jpg"
         },
         "website": "https://dane.engineering",
         "biography_html": "<p>I'm working on <a href=\"https://manning.com/books/practices-of-the-python-pro\">Practices of the Python Pro</a> \ud83d\udc0d\ud83d\udcd8</p>\n<p>I enjoy building stuff in Python, Django, Vue, and CSS grid. When I'm not doing software stuff, I like exploring <a href=\"https://en.wikipedia.org/wiki/Foodways\">foodways</a>, <a href=\"https://www.danehillard.com\">fashion photography</a>, and <a href=\"https://littleleviathan.com\">writing music</a>.</p>",
@@ -78,7 +78,7 @@
       {
         "photo": {
           "description": "Bethany Poulin",
-          "url": "https://static-cfp.pyohio.org/speaker_photos/bpoulin.jpeg"
+          "url": "https://static.pyohio.org/2019/speakers/155.jpeg"
         },
         "website": "",
         "biography_html": "<p>I  am a practicing data scientist, self-learned programmer, former high school teacher and all around geek who is patently in love with data and exploration of the physical world via sensors and demographics. I just left working in Public Health as a Data Scientist to explore new avenues in data driven development and hope to engage more fully in the python community by locally and globally.</p>",
@@ -110,7 +110,7 @@
       {
         "photo": {
           "description": "Todd Leonhardt",
-          "url": "https://static-cfp.pyohio.org/speaker_photo/459/tleonhardt.jpeg"
+          "url": "https://static.pyohio.org/2019/speakers/204.jpeg"
         },
         "website": "https://github.com/tleonhardt",
         "biography_html": "<p><a href=\"https://github.com/tleonhardt\">Well-rounded polyglot developer</a> who has specialized at one point or another in cloud services, cryptography and security tooling, and embedded systems. Currently a developer at Amazon Web Services (<a href=\"https://aws.amazon.com\">AWS</a>): we offer IT infrastructure services to businesses and individuals. I have written a lot of software in a mix of Python, Java, and C++, but Python is my favorite language to work in.  My experience with Python dates back to 2003 where I initially used it as a free Matlab replacement. Recently I have enjoyed contributing to the open-source <a href=\"https://github.com/python-cmd2/cmd2\">cmd2</a> project.</p>",
@@ -123,7 +123,7 @@
       {
         "photo": {
           "description": "Kevin Van Brunt",
-          "url": "https://static-cfp.pyohio.org/speaker_photo/531/28899027.jpg"
+          "url": "https://static.pyohio.org/2019/speakers/222.jpg"
         },
         "website": "",
         "biography_html": "",
@@ -155,7 +155,7 @@
       {
         "photo": {
           "description": "Igor Ferst",
-          "url": "https://static-cfp.pyohio.org/speaker_photo/521/Igor.jpeg"
+          "url": "https://static.pyohio.org/2019/speakers/250.jpeg"
         },
         "website": "",
         "biography_html": "<p>Igor Ferst is co-founder and CTO at Mobikit, where he leads a team of software engineers building a platform for mobility data. Igor has spent his career building tools that let people do amazing things with data at companies like Root Insurance, Google, and Palantir. Before working in software, Igor was an aspiring academic who published original research in math and computer science, earning an Erd\u0151s number of 2. Igor holds a B.S. in math from the University of Chicago, an M.S. in math from the University of Waterloo, and an M.S in computer science from Cornell University.</p>",
@@ -187,7 +187,7 @@
       {
         "photo": {
           "description": "Shruthi Ravichandran",
-          "url": "https://static-cfp.pyohio.org/speaker_photo/535/ShruthiRavichandranOfficialnobackground.png"
+          "url": "https://static.pyohio.org/2019/speakers/267.png"
         },
         "website": "",
         "biography_html": "<p>Shruthi Ravichandran is a sophomore at Hathaway Brown School in Cleveland, OH. She loves to code and in the past has worked on projects related to astronomy, medicine, healthcare, and renewable energy, including software and hardware. She does research in the Omega-Nano Lab, a biomedical engineering lab at Case Western Reserve University, regarding drug delivery and immunotherapy for cancer treatment. In her free time, she enjoys singing, painting, knitting, and dancing. She would like to apply computer science to space and biomedical engineering, her subjects of interests, to solve problems in those spheres.</p>",
@@ -219,7 +219,7 @@
       {
         "photo": {
           "description": "Shishir Pokharel",
-          "url": "https://static-cfp.pyohio.org/speaker_photo/455/shishir.jpg"
+          "url": "https://static.pyohio.org/2019/speakers/202.jpg"
         },
         "website": "",
         "biography_html": "<p>Shishir Pokharel (Shi-shir Po-kha-rel) is from SF Bay Area where he works as a Sr. Principal Engineer at ON24 Inc, webcasting and virtual event and environment technology company. He has 14 years of experience as a Software engineer with a focus on System Programming and took the plunge into Python in 2014. In his spare time, he is an avid architect for home autonomous home system and lover of online gaming.</p>",
@@ -251,7 +251,7 @@
       {
         "photo": {
           "description": "Ian Zelikman",
-          "url": "https://www.gravatar.com/avatar/8d457f34e2f59253aed7c2fa3af50347?s=250&r=g&d=http%3A%2F%2Fstatic-cfp.pyohio.org%2Fspeaker_photo%2Fdefault.png"
+          "url": "https://static.pyohio.org/2019/speakers/123.png"
         },
         "website": "",
         "biography_html": "<p>Ian has been been developing code for over 10 years.</p>\n<p>He started his career developing application for weather forecasting and analysis.\nIan has been working with Python for over 6 years developing scalable and reliable back-end systems.\nHe enjoys finding new Python packages to explore and find new uses for them</p>",
@@ -283,7 +283,7 @@
       {
         "photo": {
           "description": "Alexandria Kalika",
-          "url": "https://static-cfp.pyohio.org/speaker_photo/207/face.jpg"
+          "url": "https://static.pyohio.org/2019/speakers/254.jpg"
         },
         "website": "",
         "biography_html": "<p>Alexandria has been in technology for over 10 years in different fields like QA, developer, Hadoop administrator and data analyst. She has a bachelor's degree in Physics which makes her love all things science and she enjoys exploring new applications of technology. She also enjoys data science and loves exploring different ways of getting kids and adults from all backgrounds into technology fields.</p>",
@@ -315,7 +315,7 @@
       {
         "photo": {
           "description": "Mason Egger",
-          "url": "https://www.gravatar.com/avatar/d84f5c73f97f4fd0f5de39ee77b1b6d8?s=250&r=g&d=http%3A%2F%2Fstatic-cfp.pyohio.org%2Fspeaker_photo%2Fdefault.png"
+          "url": "https://static.pyohio.org/2019/speakers/215.png"
         },
         "website": "",
         "biography_html": "<p>Mason Egger is a Senior Site Reliability Engineer at HomeAway, where he works on the internal PaaS that hosts all of HomeAway's websites, data streaming, and tooling. He is an avid programmer, musician, educator, and writer/blogger at <a href=\"https://www.masonegger.com\">masonegger.com</a>. In his spare time he enjoys camping, kayaking, and exploring new places.</p>",
@@ -347,7 +347,7 @@
       {
         "photo": {
           "description": "Kattni Rembor",
-          "url": "https://static-cfp.pyohio.org/speaker_photo/504/kattni.jpg"
+          "url": "https://static.pyohio.org/2019/speakers/233.jpg"
         },
         "website": "",
         "biography_html": "<p>Kattni works as an embedded software developer, hardware designer, technical writer, and open source community leader working with Adafruit. She is proud to be a woman in tech. Her journey creating things began at an early age in her dad\u2019s extensive workshop in the basement. Kattni\u2019s foray into the amazing world of open source, electronics, and programming began two years ago \u2014 that her desk has become a mess of wires and circuit boards, soldering irons and computers is still unbelievably exciting. In the rest of her life, she is a maker, creator, programmer, artist, photographer, one-time gardener, and loved partner. She is tolerated by two cats who continue to let her live with them.</p>",
@@ -379,7 +379,7 @@
       {
         "photo": {
           "description": "Guy Royse",
-          "url": "https://static-cfp.pyohio.org/speaker_photo/497/guy-royse-nexosis-square-small.jpg"
+          "url": "https://static.pyohio.org/2019/speakers/228.jpg"
         },
         "website": "http://guyroyse.com",
         "biography_html": "<p>Guy works for DataRobot in Columbus, Ohio as a Developer Evangelist. Combining his decades of experience in writing software with a passion for sharing what he has learned, Guy goes out into developer communities and helps others build great software.</p>\n<p>Teaching and community have long been a focus for Guy. He is President of the Columbus JavaScript Users Group, an organizer for the Columbus Machine Learners, and has even has helped teach programming at a prison in central Ohio.</p>\n<p>In past lives, Guy has worked as a consultant in a broad range of industries including healthcare, retail, and utilities. He also has spent several years working for a major insurance company in central Ohio. This has given him a broad view of technology application toward business problems.</p>\n<p>In his personal life, Guy is a hard-boiled geek interested in role-playing games, science fiction, and technology. He also has a slightly less geeky interest in history and linguistics. In his spare time, he volunteers for his local Cub Scout Pack, goes camping, and studies history and linguistics.</p>\n<p>Guy lives in Ohio with his wife, his three teenage sons, and an entire wall of games.</p>",
@@ -411,7 +411,7 @@
       {
         "photo": {
           "description": "Nikola Novakovic",
-          "url": "https://static-cfp.pyohio.org/speaker_photo/452/image_1.png"
+          "url": "https://static.pyohio.org/2019/speakers/201.png"
         },
         "website": "",
         "biography_html": "<p>I'm a software engineer that got his hands on a computer when he was 9 years old. Ever since then I've fallen in love with software and building things.</p>\n<p>Currently very passionate about machine learning, APIs and start ups. In my spare time I like to train dogs, lift weights and cook.</p>",
@@ -443,7 +443,7 @@
       {
         "photo": {
           "description": "Arpan Jain",
-          "url": "https://static-cfp.pyohio.org/speaker_photo/515/image.png"
+          "url": "https://static.pyohio.org/2019/speakers/243.png"
         },
         "website": "",
         "biography_html": "<p>A Deep Learning enthusiast working to integrate Deep Learning and High-Performance Computing.\nCurrently enrolled in the Ph.D. program of the computer science department.</p>",
@@ -456,7 +456,7 @@
       {
         "photo": {
           "description": "Kawthar Shafie Khorassani",
-          "url": "https://www.gravatar.com/avatar/b1ce247250f753a5737b9a4f8c7c2d7b?s=250&r=g&d=http%3A%2F%2Fstatic-cfp.pyohio.org%2Fspeaker_photo%2Fdefault.png"
+          "url": "https://static.pyohio.org/2019/speakers/252.png"
         },
         "website": "",
         "biography_html": "",
@@ -488,7 +488,7 @@
       {
         "photo": {
           "description": "Alexandru Barbur",
-          "url": "https://static-cfp.pyohio.org/speaker_photos/profile_cropped.jpg"
+          "url": "https://static.pyohio.org/2019/speakers/71.jpg"
         },
         "website": "",
         "biography_html": "<p>Software / DevOps Engineer with over 8 years of experience in the field. My preferred environment is the backend but I'm a generalist and familiar with the entire stack. Languages I know well include Python, C, C++, and Go (although my spirit language has always been Lua). If it's software or hardware I have probably heard of it and likely worked with it.</p>",
@@ -520,7 +520,7 @@
       {
         "photo": {
           "description": "Ricardo Solano",
-          "url": "https://www.gravatar.com/avatar/0b84f3683b0b8461139197d998e1aa5d?s=250&r=g&d=http%3A%2F%2Fstatic-cfp.pyohio.org%2Fspeaker_photo%2Fdefault.png"
+          "url": "https://static.pyohio.org/2019/speakers/257.png"
         },
         "website": "",
         "biography_html": "<p>Ricardo is passionate about creating things with software since he was a kid. He is now a software engineer based in Cleveland with 10+ year's experience. When he is not working you can find him playing soccer or participating in Cleveland's coding community events.</p>",
@@ -552,7 +552,7 @@
       {
         "photo": {
           "description": "Trey Hakanson",
-          "url": "https://static-cfp.pyohio.org/speaker_photo/508/51697131_3019896118027951_5493952007028867072_o.jpg"
+          "url": "https://static.pyohio.org/2019/speakers/246.jpg"
         },
         "website": "",
         "biography_html": "<p>Trey Hakanson is a full-stack web and mobile developer in Columbus, OH. He recently graduated from The Ohio State University with honors in engineering, and has spent time at fortune 500 companies such as Amazon in addition to being heavily involved in the Ohio startup community. He has won multiple hackathons in the Ohio area, as well as having participated in the Brandery Accelerator in Cincinnati. He is currently the lead engineer at Mobikit.</p>",
@@ -584,7 +584,7 @@
       {
         "photo": {
           "description": "Christopher T. Miller",
-          "url": "https://static-cfp.pyohio.org/speaker_photo/473/1916885_1294092543950169_4758794969322935949_n.jpg"
+          "url": "https://static.pyohio.org/2019/speakers/211.jpg"
         },
         "website": "",
         "biography_html": "<p>Chris Miller has been writing code on the internet since 1995. He's spent the last thirteen years managing and mentoring software teams. He is an interactive fiction enthusiast, roasts his own coffee, brews his own mead, plays D&amp;D, and occasionally writes a blog post.  He has not yet been eaten by a grue. https://ctmiller.net.</p>",
@@ -616,7 +616,7 @@
       {
         "photo": {
           "description": "Deborah Diller Harris",
-          "url": "https://static-cfp.pyohio.org/speaker_photo/210/IMG_2346.JPG"
+          "url": "https://static.pyohio.org/2019/speakers/199.JPG"
         },
         "website": "",
         "biography_html": "<p>Deborah Diller Harris is a M.S. graduate student in Data Science at Elmhurst College (IL). Harris is a serial entrepreneur who is augmenting her business knowledge with Python skills. Her new career in data science will enable her to meld her business experience with the latest in technology. She is also the Founder of FemDataScience whose mission is to educate, encourage and elevate women in Big Data. She is the Organizer of the TampaBay PyLadies chapter, a former Assistant-Organizer of Chicago PyLadies and in 2018 started the Python Club at Elmhurst College. In addition, she volunteers her time to the Python Software Foundation by serving on several committees. www.femdatascience.com</p>",
@@ -648,7 +648,7 @@
       {
         "photo": {
           "description": "Gregory M. Kapfhammer",
-          "url": "https://static-cfp.pyohio.org/speaker_photo/243/gregory-kapfhammer-biography-small.jpg"
+          "url": "https://static.pyohio.org/2019/speakers/149.jpg"
         },
         "website": "https://www.gregorykapfhammer.com/",
         "biography_html": "<p>As an Associate Professor of Computer Science at Allegheny College, Gregory M.\nKapfhammer enables students to understand and create innovative software. By\npartnering with well-known technology companies and both creating and adopting\nopen-source software, Kapfhammer designs and delivers interdisciplinary courses.\n<br><br>\nEmphasizing the importance of oral and written communication and teamwork,\nGregory Kapfhammer teaches undergraduate courses in areas such as data management,\nsoftware engineering, and web development, releasing his course materials\nthrough GitHub repositories and mobile-ready web sites. An award winning\nresearcher, he involves students in projects leading to the publication of\npapers and the release of software tools and data sets.\n<br> <br>\nGregory Kapfhammer sees the success of his students as his greatest achievement. They have secured positions at top technology companies such as Amazon, Dell, Facebook, Google, Intel, Microsoft, Tumblr, and numerous startups. Many of Kapfhammer's students have also prospered in academia, receiving prestigious research fellowships and paper awards.\n<br><br>\nInterested in learning more about Gregory Kapfhammer? You can visit his <a href=\"https://www.gregorykapfhammer.com/\">web\nsite</a> to access his teaching and\nresearch materials and read his blog or you can check out his <a href=\"https://github.com/gkapfham\">GitHub\nprofile</a> to use his open-source software!</p>",
@@ -661,7 +661,7 @@
       {
         "photo": {
           "description": "Madelyn M. Kapfhammer",
-          "url": "https://static-cfp.pyohio.org/speaker_photo/375/Screenshot_20171128-132531.png"
+          "url": "https://static.pyohio.org/2019/speakers/249.png"
         },
         "website": "https://www.madelynkapfhammer.com/",
         "biography_html": "<p>Madelyn is a sophomore at Dickinson College, where she is combining her interests in both biology and computer science. She began typing away at her computer several years ago, and since then her passion for programming and interest in bioinformatics have increased significantly. Her time staring at laptop screens has only grown as she has learned various programming languages and coding methods. When not squinting at screens, Madelyn enjoys reading a good dystopian novel, spending time with her family, or volunteering at her local coffee shop.</p>",
@@ -693,7 +693,7 @@
       {
         "photo": {
           "description": "Ryan Bales",
-          "url": "https://static-cfp.pyohio.org/speaker_photo/435/RyanBales_ProfileImage_400_400.jpg"
+          "url": "https://static.pyohio.org/2019/speakers/193.jpg"
         },
         "website": "",
         "biography_html": "<p>Ryan Bales is the Director of Analytics Engineering at DialogTech. He\u2019s an active member of the Cleveland technology community, CLE Data Science and R Meetup groups. Ryan is a content contributor and class facilitator for the Python Data Science course track at DriveIT. When not writing code or trying to learn more about data science you can find Ryan trying to not lose at online video games. Ryan lives in Cleveland, Ohio.</p>",
@@ -725,7 +725,7 @@
       {
         "photo": {
           "description": "John Roach",
-          "url": "https://static-cfp.pyohio.org/speaker_photo/470/IMG_-psj2h5.jpg"
+          "url": "https://static.pyohio.org/2019/speakers/247.jpg"
         },
         "website": "https://johnroach.io",
         "biography_html": "<p>A site reliability engineer at Zapier. I love working on a wide range of topics but my favorites are software/system architecture, release engineering, and DevOps.</p>",
@@ -757,7 +757,7 @@
       {
         "photo": {
           "description": "Darlene Wong",
-          "url": "https://static-cfp.pyohio.org/speaker_photo/255/IMG_1247.jpg"
+          "url": "https://static.pyohio.org/2019/speakers/264.jpg"
         },
         "website": "",
         "biography_html": "<p>Darlene Wong is a Silicon Valley native, currently working as a Senior Staff Engineer at Palo Alto Networks.  In the past, she worked on engineering velocity tools at Tango, security tools at Juniper, data engineering at NearbyNow, and developer productivity tools at Cisco.  She loves coding and teaching others to code, from young students in Girls Who Code clubs to adults at a local community college.  Darlene holds an MS in Computer Engineering from Santa Clara University and a BS in Computer Science from UCLA.  In her spare time, she organizes workshops and events for Family Supportive Housing, a local homeless shelter.  She enjoys dance, cooking, and travel.</p>",
@@ -789,7 +789,7 @@
       {
         "photo": {
           "description": "Aly Sivji",
-          "url": "https://static-cfp.pyohio.org/speaker_photos/profile-pic.jpeg"
+          "url": "https://static.pyohio.org/2019/speakers/7.jpeg"
         },
         "website": "",
         "biography_html": "<p>Aly Sivji is a Canadian expat living in Chicago. By day, he builds backend systems at Numerator. By night, he is a co-organizer of the Chicago Python Users Group (ChiPy). Aly is an active participant in ChiPy\u2019s Mentorship Program and he loves helping intermediate developers become experts. Outside of Python, Aly enjoys cycling, reading, and rewatching old TV shows.</p>",
@@ -821,7 +821,7 @@
       {
         "photo": {
           "description": "Jack Bennett",
-          "url": "https://static-cfp.pyohio.org/speaker_photo/437/bennett_stirtrek_white_background.png"
+          "url": "https://static.pyohio.org/2019/speakers/194.png"
         },
         "website": "",
         "biography_html": "<p>Jack Bennett works as a Principal Consultant at Improving in Columbus, OH, serving clients in the area of of web and mobile application development and support. His favorite languages and technologies include Python, git, bash, emacs, and JavaScript.</p>\n<p>He has worked in a variety of industries including data storage, stock trading (including hedge funds, broker-dealers, and HFT), and SaaS, as both an individual contributor and manager.</p>\n<p>Jack received a Bachelor of Applied Science degree in Engineering Science from the University of Toronto, and a PhD in Electrical and Computer Engineering from Brown University.</p>",
@@ -853,7 +853,7 @@
       {
         "photo": {
           "description": "Steve Crow",
-          "url": "https://static-cfp.pyohio.org/speaker_photo/519/IMG_20190130_084555_1_copy.jpg"
+          "url": "https://static.pyohio.org/2019/speakers/248.jpg"
         },
         "website": "https://smcrow.net",
         "biography_html": "<p>Steve is a self-proclaimed Mathlete, and King of Snark. He is the Java Developer Advocate at Nexmo. He is also a lover of Greyhounds, twisty puzzles, and European Board Games. When not talking math to non-math people, and Java to non-Java people, he can be found sipping coffee and hacking on code.</p>",
@@ -885,7 +885,7 @@
       {
         "photo": {
           "description": "Dustin Ingram",
-          "url": "https://static-cfp.pyohio.org/speaker_photos/294415.png"
+          "url": "https://static.pyohio.org/2019/speakers/84.png"
         },
         "website": "",
         "biography_html": "<p>Dustin is a Developer Advocate at Google, focused on supporting the Python community on Google Cloud. He's also a member of the Python Packaging Authority, maintainer of the Python Package Index, and organizer for the PyTexas conference.</p>",
@@ -917,7 +917,7 @@
       {
         "photo": {
           "description": "Zak Kohler",
-          "url": "https://static-cfp.pyohio.org/speaker_photo/246/Screenshot_20190621-152216.png"
+          "url": "https://static.pyohio.org/2019/speakers/154.png"
         },
         "website": "http://y2kbugger.com",
         "biography_html": "<p>Zak Kohler is a Chemical Engineer by education but true computer geek at heart. He started programming in 3rd grade and has never looked back. Often Zak states that his biggest regret is not finding Python and Linux sooner...that didn't happen until university. Electronics is his second love and he fuses the two by playing with early computer hardware as well as modern microcontrollers. When Zak isn't messing with computers he can be found turning milk into cheese, drawing, or exploring the world on foot.</p>",
@@ -949,7 +949,7 @@
       {
         "photo": {
           "description": "Regina Compton",
-          "url": "https://static-cfp.pyohio.org/speaker_photo/456/Regina.jpg"
+          "url": "https://static.pyohio.org/2019/speakers/203.jpg"
         },
         "website": "",
         "biography_html": "<p>Regina Compton came to coding after working several years as a musicologist, arts administrator, and music educator. Burdened with too many sacrifices at the altar of Weebly, she learned to code at Dev Bootcamp.</p>\n<p>Regina works for BrightHive, an impact-driven civic tech company that engineers solutions for safely and ethically sharing data. She previously worked at <a href=\"https://datamade.us/\">DataMade</a>, where she served as a lead developer on several projects that made complex data easy-to-understand, including Councilmatic <a href=\"https://boardagendas.metro.net/\">LA Metro</a>, <a href=\"https://github.com/datamade/coordinated-entry-screening\">Connectmenow.org</a> and <a href=\"https://studentunion.uptake.com/\">StudentUnion</a>. Regina loves writing clear, useful documentation (e.g., her co-authorship of <a href=\"https://github.com/datamade/testing-guidelines\">DataMade's testing guidelines</a>) and helpful, interesting blogs (e.g., a recent on on <a href=\"https://datamade.us/blog/crontabs-under-version-control/\">versioning crontabs</a>).</p>\n<p>Outside of coding, she often thinks about music, what it does, and how it does the things it does. She especially appreciates the composer George Frideric Handel and fancies herself an active \u201cHandelian\u201d \u2013 both as the web developer for the <a href=\"http://americanhandelsociety.org/\">American Handel Society</a> and as an author of a forthcoming essay on Handel's soprano singers. She also enjoys organizing innovative community arts events, most recently, <a href=\"http://amygdalanotes.org/\">Amygdala Notes</a> in Chicago. Regina loves spending time at Lake Michigan with her toddler-aged son, who \u2013 like his mother \u2013 embraces the bitter pleasures of cold-water swimming.</p>",
@@ -981,7 +981,7 @@
       {
         "photo": {
           "description": "Jason R. Coombs",
-          "url": "https://static-cfp.pyohio.org/speaker_photo/507/29_Jason_color_print.jpg"
+          "url": "https://static.pyohio.org/2019/speakers/237.jpg"
         },
         "website": "https://www.jaraco.com",
         "biography_html": "<p>Jason has worked with Python for over 20 years, contributing to a wide array of open-source projects including pywin32, setuptools, CherryPy, and CPython itself. As Executive Technical Director at YouGov, Jason applied principles of open-source development to run a global enterprise powered by Python applications and developed by remote developers around the world. Jason is passionate about advancing civilization through automation and believes the flexible yet high-level constructs of Python provides an ecosystem distinctly suited to this goal. Jason strives to converge an inherently divergent process of software development to best practices. Jason has recently joined Google as an SRE Manager.</p>",
@@ -1013,7 +1013,7 @@
       {
         "photo": {
           "description": "Greg Back",
-          "url": "https://static-cfp.pyohio.org/speaker_photo/110/2019_Portrait.jpg"
+          "url": "https://static.pyohio.org/2019/speakers/236.jpg"
         },
         "website": "",
         "biography_html": "<p>I've been a Python developer for 10 years and have given several presentations on writing better Python code. I enjoy teaching others the things I've learned over the course of my career.</p>",
@@ -1045,7 +1045,7 @@
       {
         "photo": {
           "description": "Travis Risner",
-          "url": "https://www.gravatar.com/avatar/a7f55966d6a81184852860f45a4dac1e?s=250&r=g&d=http%3A%2F%2Fstatic-cfp.pyohio.org%2Fspeaker_photo%2Fdefault.png"
+          "url": "https://static.pyohio.org/2019/speakers/52.png"
         },
         "website": "",
         "biography_html": "<p>I am a recently retired software developer.  I been programming in various languages most of my adult life.  Most recently I had been managing the PCI security aspects of a multimillion dollar service provider in the health and fitness field.</p>\n<p>In 2014, I started to learn Python.  Although new to Python, I bring an in depth understanding of large development efforts, conversions, and many aspects of professional, mature systems.</p>",
@@ -1077,7 +1077,7 @@
       {
         "photo": {
           "description": "Vince Salvino",
-          "url": "https://www.gravatar.com/avatar/ac82dfedd96926d894c3fcacd7409130?s=250&r=g&d=http%3A%2F%2Fstatic-cfp.pyohio.org%2Fspeaker_photo%2Fdefault.png"
+          "url": "https://static.pyohio.org/2019/speakers/139.png"
         },
         "website": "",
         "biography_html": "<p>Vince is a Cleveland-based web developer and small business owner (CodeRed LLC). Specializing in Python, .NET, and cloud services, his work through CodeRed helps marketing, IT, and non-profits improve their web apps and infrastructure.</p>\n<p>In his spare time he enjoys finding obscure hidden gems of Cleveland (mostly record shops, cafes, and breweries), and gardening at home in Shaker Heights.</p>",
@@ -1109,7 +1109,7 @@
       {
         "photo": {
           "description": "Esther B. Gotfryd, MSN, NP-C",
-          "url": "https://static-cfp.pyohio.org/speaker_photos/IMG_1309.JPG"
+          "url": "https://static.pyohio.org/2019/speakers/78.JPG"
         },
         "website": "",
         "biography_html": "<p>I am a family nurse practitioner wearing multiple hats. I work as a primary care provider, in pain management and in addiction services. My daily routine involves taking care of people with chronic and acute medical conditions while incorporating treatment plans that are appropriate in consideration to their whole well being. One of my biggest passions is prevention and teaching anyone who wants to listen how to avoid or postpone exposure to lifelong chronic illnesses.\nAs a wife of a well seasoned developer I look at the general developer population and understand that they are in need of support both physically and mentally in order to give them a stronger edge in becoming even better developers.</p>",
@@ -1141,7 +1141,7 @@
       {
         "photo": {
           "description": "Dave Forgac",
-          "url": "https://static-cfp.pyohio.org/speaker_photos/tylerdave-pyohio-square.jpg"
+          "url": "https://static.pyohio.org/2019/speakers/1.jpg"
         },
         "website": "https://daveops.com",
         "biography_html": "<p>Dave Forgac is a senior software engineer in Cleveland, OH. Dave has been a FOSS enthusiast ever since installing Linux for the first time in the late '90's. He loves building communities and is an organizer of PyOhio, CLEpy, and the Cleveland API Meetup.</p>",
@@ -1173,7 +1173,7 @@
       {
         "photo": {
           "description": "Dave Forgac",
-          "url": "https://static-cfp.pyohio.org/speaker_photos/tylerdave-pyohio-square.jpg"
+          "url": "https://static.pyohio.org/2019/speakers/1.jpg"
         },
         "website": "https://daveops.com",
         "biography_html": "<p>Dave Forgac is a senior software engineer in Cleveland, OH. Dave has been a FOSS enthusiast ever since installing Linux for the first time in the late '90's. He loves building communities and is an organizer of PyOhio, CLEpy, and the Cleveland API Meetup.</p>",
@@ -1205,7 +1205,7 @@
       {
         "photo": {
           "description": "Alex Zharichenko",
-          "url": "https://static-cfp.pyohio.org/speaker_photo/469/IMG_20181220_222924_409.jpg"
+          "url": "https://static.pyohio.org/2019/speakers/209.jpg"
         },
         "website": "https://alexzharichenko.me",
         "biography_html": "<p>Alex Zhaichenko is a student studying in computer science and statistics at the University of Pittsburgh and is a Data Engineering Intern for Highmark Health. He's an active member in the Pittsburgh Python User group, organizer of one of the largest hackathons in Pittsburgh, and officer for the Pitt Computer Science Club at his university.</p>",
@@ -1237,7 +1237,7 @@
       {
         "photo": {
           "description": "John Berryman",
-          "url": "https://static-cfp.pyohio.org/speaker_photo/446/FacePhoto2.jpg"
+          "url": "https://static.pyohio.org/2019/speakers/200.jpg"
         },
         "website": "",
         "biography_html": "<p>John Berryman started out in the field of Aerospace Engineering but soon found that he was more interested in math and software than in satellites and aircraft. He soon made the leap into software development specializing in search and recommendation technologies. John is now a Senior Software Engineer at Eventbrite, where he is helping build Eventbrite's event discovery platform. He also recently coauthored a tech book, Relevant Search, published by Manning. The proceeds from the book have mostly paid for the coffee consumed while writing it.</p>",
@@ -1269,7 +1269,7 @@
       {
         "photo": {
           "description": "Ilya Gotfryd",
-          "url": "https://static-cfp.pyohio.org/speaker_photos/lorez_professional_ikg.jpg.jpeg"
+          "url": "https://static.pyohio.org/2019/speakers/102.jpeg"
         },
         "website": "",
         "biography_html": "<p>Presently a Sr Python Developer at Binary Defense, Ilya has a wide span of software development experience. He has worked on everything from PC-based numerical controls for profile cutting and medical devices to medical web portals and labor management software. He has also had a great opportunity to teach software Bootcamp, as well as a mentor many interns and junior developers. He lives with his wonderful family and works in Cleveland, OH.</p>",
@@ -1301,7 +1301,7 @@
       {
         "photo": {
           "description": "Dave Forgac",
-          "url": "https://static-cfp.pyohio.org/speaker_photos/tylerdave-pyohio-square.jpg"
+          "url": "https://static.pyohio.org/2019/speakers/1.jpg"
         },
         "website": "https://daveops.com",
         "biography_html": "<p>Dave Forgac is a senior software engineer in Cleveland, OH. Dave has been a FOSS enthusiast ever since installing Linux for the first time in the late '90's. He loves building communities and is an organizer of PyOhio, CLEpy, and the Cleveland API Meetup.</p>",
@@ -1333,7 +1333,7 @@
       {
         "photo": {
           "description": "Dave Forgac",
-          "url": "https://static-cfp.pyohio.org/speaker_photos/tylerdave-pyohio-square.jpg"
+          "url": "https://static.pyohio.org/2019/speakers/1.jpg"
         },
         "website": "https://daveops.com",
         "biography_html": "<p>Dave Forgac is a senior software engineer in Cleveland, OH. Dave has been a FOSS enthusiast ever since installing Linux for the first time in the late '90's. He loves building communities and is an organizer of PyOhio, CLEpy, and the Cleveland API Meetup.</p>",
@@ -1365,7 +1365,7 @@
       {
         "photo": {
           "description": "Andrew Knight",
-          "url": "https://static-cfp.pyohio.org/speaker_photo/198/PyCon_Andy_2_sq.jpg"
+          "url": "https://static.pyohio.org/2019/speakers/106.jpg"
         },
         "website": "https://www.automationpanda.com/",
         "biography_html": "<p>\u201cPandy\u201d is an engineer, consultant, and international speaker who loves all things software. He specializes in building robust test automation solutions from the ground up. He currently works at PrecisionLender in Cary, NC. Read his tech blog at AutomationPanda.com, and follow him on Twitter at @AutomationPanda.</p>",
@@ -1397,7 +1397,7 @@
       {
         "photo": {
           "description": "Chris Wilcox",
-          "url": "https://static-cfp.pyohio.org/speaker_photo/501/CSJ_6086_1x1_tight.jpg"
+          "url": "https://static.pyohio.org/2019/speakers/234.jpg"
         },
         "website": "",
         "biography_html": "<p>Chris is a developer at Google in Seattle, WA, USA and works on the Google Cloud Platform Client Libraries team, focusing on dynamic languages and their users. Before joining Google, Chris spent 6 years working on compilers, cloud platforms, and developer tooling for Microsoft. He brings a passion for enabling developers everywhere through better tools and libraries. In his spare time you can find Chris running or cycling nowhere in particular or riding his motorcycle.</p>",
@@ -1429,7 +1429,7 @@
       {
         "photo": {
           "description": "Greg Svoboda",
-          "url": "https://static-cfp.pyohio.org/speaker_photo/108/IMG_5301.JPG"
+          "url": "https://static.pyohio.org/2019/speakers/63.JPG"
         },
         "website": "",
         "biography_html": "<p>Greg serves as Lead Developer for GE's Connected Homes, helping you impress your in-laws with your voice-controlled lights. Born-and-raised in Cleveland, and has a burning passion to see technology used in ways that help those with disabilities live awesome lives. His former life included titles like 'professional juggler', 'ordained minister', 'turntable dj', 'bartender', and most recently,  'founder/CTO'.</p>",
@@ -1461,7 +1461,7 @@
       {
         "photo": {
           "description": "Darshan Markandaiah",
-          "url": "https://static-cfp.pyohio.org/speaker_photo/533/unnamed.jpg"
+          "url": "https://static.pyohio.org/2019/speakers/266.jpg"
         },
         "website": "",
         "biography_html": "<p>Hi there! My name is Darshan. I have been working in Python codebases for the past 6 years. I\u2019m currently in the backend engineering team at Venmo in New York City.</p>",
@@ -1493,7 +1493,7 @@
       {
         "photo": {
           "description": "Craig Maloney",
-          "url": "https://static-cfp.pyohio.org/speaker_photo/95/cat_avatar.png"
+          "url": "https://static.pyohio.org/2019/speakers/231.png"
         },
         "website": "http://decafbad.net",
         "biography_html": "<p>I've been interested in computers back when Atari, Commodore and Sinclair roamed the earth. From the primordial soup of BASIC and Pascal I emerged with hopes of finding a career in computing. The emergence of the World Wide Web and Linux gave me fertile ground to build a career where I could trade Perl code and system administration for paychecks. After a brief period of trying to figure out the ever-popular Java thing I stumbled into the Python community, where I found a language that I actually enjoyed using. Many projects and lines of code later I'm happy to say that I'm still finding joy in writing Python. </p>\n<p>When I'm not coding Python I'm a podcaster, writer, and game designer. I'm the host of <a href=\"http://openmetalcast.com\">Open Metalcast</a> (a podcast dedicated to Creative Commons Licensed Metal Music) and co-host of <a href=\"http://lococast.net\">Lococast.net</a>. I'm a board member of and frequent speaker at the <a href=\"http://mug.org\">Michigan!/usr/group</a>. I'm also a contributor to the online webcomic Pepper&amp;Carrot, where I am the lead maintainer of the wiki. </p>\n<p>Learn more at <a href=\"http://decafbad.net\">http://decafbad.net</a>.</p>",
@@ -1525,7 +1525,7 @@
       {
         "photo": {
           "description": "Brian Skinn",
-          "url": "https://www.gravatar.com/avatar/49c2748f689564be6422ef37aea0da5f?s=250&r=g&d=http%3A%2F%2Fstatic-cfp.pyohio.org%2Fspeaker_photo%2Fdefault.png"
+          "url": "https://static.pyohio.org/2019/speakers/227.png"
         },
         "website": "https://bskinn.github.io",
         "biography_html": "<p>I\u2019m a Ph.D. chemical engineer with 7.5 years of industrial R&amp;D experience. I have nearly 25 years of self-directed programming experience, the majority of which has been in Python and VBA (Excel/Outlook/Word). I love working on anything that makes someone's workflow easier, faster, or better: crunching data with a click (or, better, a keyboard shortcut), collecting/formatting/summarizing key information, and in general just automating all the things.</p>",
@@ -1557,7 +1557,7 @@
       {
         "photo": {
           "description": "Eric Appelt",
-          "url": "https://static-cfp.pyohio.org/speaker_photos/appeltel_profile_2018a.jpg"
+          "url": "https://static.pyohio.org/2019/speakers/85.jpg"
         },
         "website": "",
         "biography_html": "<p>I'm a developer, system administrator, scientist, and educator who uses python in all of these roles. I currently work at the Vanderbilt University Advanced Computing Center for Research and Education (ACCRE) where I am developing a python libraries for systems and account management for our high-performance computing cluster.</p>",
@@ -1589,7 +1589,7 @@
       {
         "photo": {
           "description": "Nik Kantar",
-          "url": "https://static-cfp.pyohio.org/speaker_photo/522/IMG_5701.jpg"
+          "url": "https://static.pyohio.org/2019/speakers/251.jpg"
         },
         "website": "",
         "biography_html": "<p>Nik is a <em>huge</em> Python fan, SoCal Python meetup organizer, and aspiring famous person. He uses Python to build services on the sweetgreen Data Team, where he also professes the virtues of good software architecture, documentation, testing, and standards of all sorts.</p>",
@@ -1621,7 +1621,7 @@
       {
         "photo": {
           "description": "Joseph Willi",
-          "url": "https://static-cfp.pyohio.org/speaker_photo/482/joseph.jpg"
+          "url": "https://static.pyohio.org/2019/speakers/259.jpg"
         },
         "website": "",
         "biography_html": "<p>Joseph Willi works as a Research Engineer with the Underwriters Laboratories Firefighter Safety Research Institute (FSRI), a group dedicated to increasing firefighter knowledge to reduce injuries and deaths in the fire service and communities they serve. Along with other members of the FSRI team, Joe regularly utilizes Python for his work, most frequently during the data acquisition and analysis portions of research projects. Additionally, he has incorporated Python into projects involving image analysis and object detection applications. Joseph holds a bachelor's degree in General Engineering from the University of Illinois at Urbana-Champaign as well as a master's degree in Fire Protection Engineering from the University of Maryland, College Park.</p>",
@@ -1653,7 +1653,7 @@
       {
         "photo": {
           "description": "Matthew Brower",
-          "url": "https://www.gravatar.com/avatar/4ab8c15c3ab5f05b7a3567a23df697aa?s=250&r=g&d=http%3A%2F%2Fstatic-cfp.pyohio.org%2Fspeaker_photo%2Fdefault.png"
+          "url": "https://static.pyohio.org/2019/speakers/212.png"
         },
         "website": "",
         "biography_html": "<p>Matthew is a data scientist based in San Francisco, CA.  Prior to moving out west, he grew up &amp; worked in Northeast Ohio.  A recovering R user, his first exposure to the Python language was PyOhio back in 2016.  After a fun &amp; rewarding tenure at Instacart, a grocery delivery startup, Matthew will be beginning a new role at Google in August.</p>",
@@ -1666,7 +1666,7 @@
       {
         "photo": {
           "description": "Krista Readout",
-          "url": "https://www.gravatar.com/avatar/523887ba59aad347718a3b2911b415d4?s=250&r=g&d=http%3A%2F%2Fstatic-cfp.pyohio.org%2Fspeaker_photo%2Fdefault.png"
+          "url": "https://static.pyohio.org/2019/speakers/268.png"
         },
         "website": "",
         "biography_html": "<p>Krista is a Data Scientist at a local manufacturing company. She has lived all over Ohio and encourages you to explore the job market here. She volunteers with Girls Who Code in Akron. She/Her</p>",
@@ -1698,7 +1698,7 @@
       {
         "photo": {
           "description": "Allison Bolen",
-          "url": "https://static-cfp.pyohio.org/speaker_photo/483/AllisonBolen.jpg"
+          "url": "https://static.pyohio.org/2019/speakers/220.jpg"
         },
         "website": "",
         "biography_html": "<p>I just recently graduated with a Bachelors degree in Computer Information Systems, specifically computer science and software engineering. I love working on software and solving problems!  In my free time I like to research machine learning and game development, though I am still a junior developer so I am always looking for new topics to learn about and tools to try. My favorite video games right now are Stardew Valley and any Pokemon game. Outside to software and tech I like to work out at the gym (leg day is my favorite day!), take my dogs to the park and work on drawing and typography.</p>",
@@ -1730,7 +1730,7 @@
       {
         "photo": {
           "description": "Daniel Lindeman",
-          "url": "https://static-cfp.pyohio.org/speaker_photo/75/Team_Photos_2019_0011_Daniel.jpg"
+          "url": "https://static.pyohio.org/2019/speakers/48.jpg"
         },
         "website": "",
         "biography_html": "<p>Dan is a Software Engineer from Grand Rapids, MI. When not learning a new language, framework, or piece of tech, Dan enjoys Pine Needle Basket Weaving, Nintendo games, and anything involving renewable energy.</p>\n<p>An educator-turned-developer, Dan got his start in the software industry testing embedded automotive infotainment systems. He recently earned his Masters in Computer Science with an emphasis on Distributed Systems at at Grand Valley State University. Oh, he is a self-described conference junkie.</p>",
@@ -1762,7 +1762,7 @@
       {
         "photo": {
           "description": "Joe Erickson",
-          "url": "https://www.gravatar.com/avatar/c739f97f8fe7f9a22d3357d658e86ebd?s=250&r=g&d=http%3A%2F%2Fstatic-cfp.pyohio.org%2Fspeaker_photo%2Fdefault.png"
+          "url": "https://static.pyohio.org/2019/speakers/210.png"
         },
         "website": "",
         "biography_html": "<p>Joe Erickson is a web programmer that has been building internet applications for Fortune 100 and small businesses alike for over 20 years. He has built production ready applications in Java, PHP, Perl, C++, Ruby, and JavaScript. He is currently developing DowntownTX.org for the Texas Historical Commission and, when not working on that, Joe is an Instructor and Curriculum Developer at Tech Elevator in Cleveland, OH.</p>",

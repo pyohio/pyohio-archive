@@ -14,7 +14,7 @@
       {
         "photo": {
           "description": "Catherine Devlin",
-          "url": "https://static-cfp.pyohio.org/speaker_photo/474/voted-head.jpg"
+          "url": "https://static.pyohio.org/2019/speakers/213.jpg"
         },
         "website": "",
         "biography_html": "<p>From washed-up chemical engineering grad student, to secretarial pool typist, to database administrator, Catherine found Python in 2004 and lived happily ever after.  She was creator of ipython_sql, first chair of PyOhio, and keynoter at PyCon US 2018.  She works remotely as a data engineer at Miro Health.  She lives in the woods near Dayton and probably has sticks in her hair.</p>",
@@ -47,7 +47,7 @@
       {
         "photo": {
           "description": "Andrew Knight",
-          "url": "https://static-cfp.pyohio.org/speaker_photo/198/PyCon_Andy_2_sq.jpg"
+          "url": "https://static.pyohio.org/2019/speakers/106.jpg"
         },
         "website": "https://www.automationpanda.com/",
         "biography_html": "<p>\u201cPandy\u201d is an engineer, consultant, and international speaker who loves all things software. He specializes in building robust test automation solutions from the ground up. He currently works at PrecisionLender in Cary, NC. Read his tech blog at AutomationPanda.com, and follow him on Twitter at @AutomationPanda.</p>",
@@ -80,7 +80,7 @@
       {
         "photo": {
           "description": "Piper Thunstrom",
-          "url": "https://static-cfp.pyohio.org/speaker_photos/profile.jpg"
+          "url": "https://static.pyohio.org/2019/speakers/100.jpg"
         },
         "website": "",
         "biography_html": "<p>A transgender Pythonista with a passion for games. Professionally a web platform engineer, in her free time she builds game libraries and encourages people to pick up a little Python.</p>",
@@ -113,7 +113,7 @@
       {
         "photo": {
           "description": "Lara Kattan",
-          "url": "https://www.gravatar.com/avatar/38bafb9a2e24674474544e2ef9781c21?s=250&r=g&d=http%3A%2F%2Fstatic-cfp.pyohio.org%2Fspeaker_photo%2Fdefault.png"
+          "url": "https://static.pyohio.org/2019/speakers/205.png"
         },
         "website": "",
         "biography_html": "<p>Lara is a senior data scientist and instructor at Metis Data Science Bootcamp, where she teaches data science with a Python stack, including SQL and AWS. She comes to Metis from McKinsey, where she worked with financial institutions on risk modeling. Prior to settling into the practical world of consulting, Lara received a master's from the University of Chicago, where she had the privilege of thinking about problems with no real-world implications. The statistical elegance of data science is what animates her the most, but she gets her biggest joy from demystifying the math for all audiences. If forced to snap out of her mathematical reveries, she's probably doing yoga, riding a bike, or drinking too much coffee.</p>",
