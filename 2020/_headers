@@ -1,0 +1,340 @@
+## Created with gatsby-plugin-netlify
+
+/*
+  X-Frame-Options: DENY
+  X-XSS-Protection: 1; mode=block
+  X-Content-Type-Options: nosniff
+  Referrer-Policy: same-origin
+/styles.839852d02904960d63e6.css
+  Cache-Control: public, max-age=31536000, immutable
+/styles-6a9d807fa29d3c653050.js
+  Cache-Control: public, max-age=31536000, immutable
+/commons-dfe7fd239f24287436b4.js
+  Cache-Control: public, max-age=31536000, immutable
+/component---src-templates-general-page-js-692a314ccea6a8c3f3d5.js
+  Cache-Control: public, max-age=31536000, immutable
+/component---src-templates-sponsor-page-js-1adb0e2157d53027ca02.js
+  Cache-Control: public, max-age=31536000, immutable
+/component---src-templates-event-page-js-96f45afb53ca9aeb53fd.js
+  Cache-Control: public, max-age=31536000, immutable
+/component---src-templates-attend-page-js-4361059c06ebdc6b7c85.js
+  Cache-Control: public, max-age=31536000, immutable
+/component---src-templates-newsletter-page-js-d892c63c5ee579b8087b.js
+  Cache-Control: public, max-age=31536000, immutable
+/component---src-templates-talk-page-js-f81e12fcd7c4b6a2deb8.js
+  Cache-Control: public, max-age=31536000, immutable
+/component---src-pages-404-js-afc03128a426eb832bce.js
+  Cache-Control: public, max-age=31536000, immutable
+/component---src-pages-events-sprints-js-626b8400271101e3845f.js
+  Cache-Control: public, max-age=31536000, immutable
+/component---src-pages-events-talks-js-fb29d67e2dfc58c4f880.js
+  Cache-Control: public, max-age=31536000, immutable
+/webpack-runtime-caf67afc41076c0210b9.js
+  Cache-Control: public, max-age=31536000, immutable
+/app-d0cd25a33ca45dcfdb53.js
+  Cache-Control: public, max-age=31536000, immutable
+/static/*
+  Cache-Control: public, max-age=31536000, immutable
+/sw.js
+  Cache-Control: no-cache
+/
+  Link: </webpack-runtime-caf67afc41076c0210b9.js>; rel=preload; as=script
+  Link: </commons-dfe7fd239f24287436b4.js>; rel=preload; as=script
+  Link: </app-d0cd25a33ca45dcfdb53.js>; rel=preload; as=script
+  Link: </styles-6a9d807fa29d3c653050.js>; rel=preload; as=script
+  Link: </commons-dfe7fd239f24287436b4.js>; rel=preload; as=script
+  Link: </component---src-templates-general-page-js-692a314ccea6a8c3f3d5.js>; rel=preload; as=script
+/sponsors/become/
+  Link: </webpack-runtime-caf67afc41076c0210b9.js>; rel=preload; as=script
+  Link: </commons-dfe7fd239f24287436b4.js>; rel=preload; as=script
+  Link: </app-d0cd25a33ca45dcfdb53.js>; rel=preload; as=script
+  Link: </styles-6a9d807fa29d3c653050.js>; rel=preload; as=script
+  Link: </commons-dfe7fd239f24287436b4.js>; rel=preload; as=script
+  Link: </component---src-templates-sponsor-page-js-1adb0e2157d53027ca02.js>; rel=preload; as=script
+/sponsors/
+  Link: </webpack-runtime-caf67afc41076c0210b9.js>; rel=preload; as=script
+  Link: </commons-dfe7fd239f24287436b4.js>; rel=preload; as=script
+  Link: </app-d0cd25a33ca45dcfdb53.js>; rel=preload; as=script
+  Link: </styles-6a9d807fa29d3c653050.js>; rel=preload; as=script
+  Link: </commons-dfe7fd239f24287436b4.js>; rel=preload; as=script
+  Link: </component---src-templates-sponsor-page-js-1adb0e2157d53027ca02.js>; rel=preload; as=script
+/events/overview/
+  Link: </webpack-runtime-caf67afc41076c0210b9.js>; rel=preload; as=script
+  Link: </commons-dfe7fd239f24287436b4.js>; rel=preload; as=script
+  Link: </app-d0cd25a33ca45dcfdb53.js>; rel=preload; as=script
+  Link: </styles-6a9d807fa29d3c653050.js>; rel=preload; as=script
+  Link: </commons-dfe7fd239f24287436b4.js>; rel=preload; as=script
+  Link: </component---src-templates-event-page-js-96f45afb53ca9aeb53fd.js>; rel=preload; as=script
+/events/schedule/
+  Link: </webpack-runtime-caf67afc41076c0210b9.js>; rel=preload; as=script
+  Link: </commons-dfe7fd239f24287436b4.js>; rel=preload; as=script
+  Link: </app-d0cd25a33ca45dcfdb53.js>; rel=preload; as=script
+  Link: </styles-6a9d807fa29d3c653050.js>; rel=preload; as=script
+  Link: </commons-dfe7fd239f24287436b4.js>; rel=preload; as=script
+  Link: </component---src-templates-event-page-js-96f45afb53ca9aeb53fd.js>; rel=preload; as=script
+/attend/code-of-conduct/
+  Link: </webpack-runtime-caf67afc41076c0210b9.js>; rel=preload; as=script
+  Link: </commons-dfe7fd239f24287436b4.js>; rel=preload; as=script
+  Link: </app-d0cd25a33ca45dcfdb53.js>; rel=preload; as=script
+  Link: </styles-6a9d807fa29d3c653050.js>; rel=preload; as=script
+  Link: </commons-dfe7fd239f24287436b4.js>; rel=preload; as=script
+  Link: </component---src-templates-attend-page-js-4361059c06ebdc6b7c85.js>; rel=preload; as=script
+/attend/register/
+  Link: </webpack-runtime-caf67afc41076c0210b9.js>; rel=preload; as=script
+  Link: </commons-dfe7fd239f24287436b4.js>; rel=preload; as=script
+  Link: </app-d0cd25a33ca45dcfdb53.js>; rel=preload; as=script
+  Link: </styles-6a9d807fa29d3c653050.js>; rel=preload; as=script
+  Link: </commons-dfe7fd239f24287436b4.js>; rel=preload; as=script
+  Link: </component---src-templates-attend-page-js-4361059c06ebdc6b7c85.js>; rel=preload; as=script
+/attend/venue/
+  Link: </webpack-runtime-caf67afc41076c0210b9.js>; rel=preload; as=script
+  Link: </commons-dfe7fd239f24287436b4.js>; rel=preload; as=script
+  Link: </app-d0cd25a33ca45dcfdb53.js>; rel=preload; as=script
+  Link: </styles-6a9d807fa29d3c653050.js>; rel=preload; as=script
+  Link: </commons-dfe7fd239f24287436b4.js>; rel=preload; as=script
+  Link: </component---src-templates-attend-page-js-4361059c06ebdc6b7c85.js>; rel=preload; as=script
+/about/newsletter/
+  Link: </webpack-runtime-caf67afc41076c0210b9.js>; rel=preload; as=script
+  Link: </commons-dfe7fd239f24287436b4.js>; rel=preload; as=script
+  Link: </app-d0cd25a33ca45dcfdb53.js>; rel=preload; as=script
+  Link: </styles-6a9d807fa29d3c653050.js>; rel=preload; as=script
+  Link: </commons-dfe7fd239f24287436b4.js>; rel=preload; as=script
+  Link: </component---src-templates-newsletter-page-js-d892c63c5ee579b8087b.js>; rel=preload; as=script
+/attend/speak/
+  Link: </webpack-runtime-caf67afc41076c0210b9.js>; rel=preload; as=script
+  Link: </commons-dfe7fd239f24287436b4.js>; rel=preload; as=script
+  Link: </app-d0cd25a33ca45dcfdb53.js>; rel=preload; as=script
+  Link: </styles-6a9d807fa29d3c653050.js>; rel=preload; as=script
+  Link: </commons-dfe7fd239f24287436b4.js>; rel=preload; as=script
+  Link: </component---src-templates-attend-page-js-4361059c06ebdc6b7c85.js>; rel=preload; as=script
+/about/
+  Link: </webpack-runtime-caf67afc41076c0210b9.js>; rel=preload; as=script
+  Link: </commons-dfe7fd239f24287436b4.js>; rel=preload; as=script
+  Link: </app-d0cd25a33ca45dcfdb53.js>; rel=preload; as=script
+  Link: </styles-6a9d807fa29d3c653050.js>; rel=preload; as=script
+  Link: </commons-dfe7fd239f24287436b4.js>; rel=preload; as=script
+  Link: </component---src-templates-general-page-js-692a314ccea6a8c3f3d5.js>; rel=preload; as=script
+/events/talks/apply-for-grants-to-fund-open-source-work
+  Link: </webpack-runtime-caf67afc41076c0210b9.js>; rel=preload; as=script
+  Link: </commons-dfe7fd239f24287436b4.js>; rel=preload; as=script
+  Link: </app-d0cd25a33ca45dcfdb53.js>; rel=preload; as=script
+  Link: </styles-6a9d807fa29d3c653050.js>; rel=preload; as=script
+  Link: </commons-dfe7fd239f24287436b4.js>; rel=preload; as=script
+  Link: </component---src-templates-talk-page-js-f81e12fcd7c4b6a2deb8.js>; rel=preload; as=script
+/events/talks/behind-scenes-of-spell-checks
+  Link: </webpack-runtime-caf67afc41076c0210b9.js>; rel=preload; as=script
+  Link: </commons-dfe7fd239f24287436b4.js>; rel=preload; as=script
+  Link: </app-d0cd25a33ca45dcfdb53.js>; rel=preload; as=script
+  Link: </styles-6a9d807fa29d3c653050.js>; rel=preload; as=script
+  Link: </commons-dfe7fd239f24287436b4.js>; rel=preload; as=script
+  Link: </component---src-templates-talk-page-js-f81e12fcd7c4b6a2deb8.js>; rel=preload; as=script
+/events/talks/are-we-conditioning-our-children-to-accept-biases
+  Link: </webpack-runtime-caf67afc41076c0210b9.js>; rel=preload; as=script
+  Link: </commons-dfe7fd239f24287436b4.js>; rel=preload; as=script
+  Link: </app-d0cd25a33ca45dcfdb53.js>; rel=preload; as=script
+  Link: </styles-6a9d807fa29d3c653050.js>; rel=preload; as=script
+  Link: </commons-dfe7fd239f24287436b4.js>; rel=preload; as=script
+  Link: </component---src-templates-talk-page-js-f81e12fcd7c4b6a2deb8.js>; rel=preload; as=script
+/events/talks/brain-computer-interface-reading-human-brains-using-deep-learning
+  Link: </webpack-runtime-caf67afc41076c0210b9.js>; rel=preload; as=script
+  Link: </commons-dfe7fd239f24287436b4.js>; rel=preload; as=script
+  Link: </app-d0cd25a33ca45dcfdb53.js>; rel=preload; as=script
+  Link: </styles-6a9d807fa29d3c653050.js>; rel=preload; as=script
+  Link: </commons-dfe7fd239f24287436b4.js>; rel=preload; as=script
+  Link: </component---src-templates-talk-page-js-f81e12fcd7c4b6a2deb8.js>; rel=preload; as=script
+/events/talks/big-data-no-big-deal-pyspark
+  Link: </webpack-runtime-caf67afc41076c0210b9.js>; rel=preload; as=script
+  Link: </commons-dfe7fd239f24287436b4.js>; rel=preload; as=script
+  Link: </app-d0cd25a33ca45dcfdb53.js>; rel=preload; as=script
+  Link: </styles-6a9d807fa29d3c653050.js>; rel=preload; as=script
+  Link: </commons-dfe7fd239f24287436b4.js>; rel=preload; as=script
+  Link: </component---src-templates-talk-page-js-f81e12fcd7c4b6a2deb8.js>; rel=preload; as=script
+/events/talks/building-procedural-games-with-python-and-godot
+  Link: </webpack-runtime-caf67afc41076c0210b9.js>; rel=preload; as=script
+  Link: </commons-dfe7fd239f24287436b4.js>; rel=preload; as=script
+  Link: </app-d0cd25a33ca45dcfdb53.js>; rel=preload; as=script
+  Link: </styles-6a9d807fa29d3c653050.js>; rel=preload; as=script
+  Link: </commons-dfe7fd239f24287436b4.js>; rel=preload; as=script
+  Link: </component---src-templates-talk-page-js-f81e12fcd7c4b6a2deb8.js>; rel=preload; as=script
+/events/talks/create-custom-chat-bot-with-python-and-azure-bot-service
+  Link: </webpack-runtime-caf67afc41076c0210b9.js>; rel=preload; as=script
+  Link: </commons-dfe7fd239f24287436b4.js>; rel=preload; as=script
+  Link: </app-d0cd25a33ca45dcfdb53.js>; rel=preload; as=script
+  Link: </styles-6a9d807fa29d3c653050.js>; rel=preload; as=script
+  Link: </commons-dfe7fd239f24287436b4.js>; rel=preload; as=script
+  Link: </component---src-templates-talk-page-js-f81e12fcd7c4b6a2deb8.js>; rel=preload; as=script
+/events/talks/day-has-only-24-1-hours
+  Link: </webpack-runtime-caf67afc41076c0210b9.js>; rel=preload; as=script
+  Link: </commons-dfe7fd239f24287436b4.js>; rel=preload; as=script
+  Link: </app-d0cd25a33ca45dcfdb53.js>; rel=preload; as=script
+  Link: </styles-6a9d807fa29d3c653050.js>; rel=preload; as=script
+  Link: </commons-dfe7fd239f24287436b4.js>; rel=preload; as=script
+  Link: </component---src-templates-talk-page-js-f81e12fcd7c4b6a2deb8.js>; rel=preload; as=script
+/events/talks/civic-hacking-urban-informatics-mapping-data-with-geopandas
+  Link: </webpack-runtime-caf67afc41076c0210b9.js>; rel=preload; as=script
+  Link: </commons-dfe7fd239f24287436b4.js>; rel=preload; as=script
+  Link: </app-d0cd25a33ca45dcfdb53.js>; rel=preload; as=script
+  Link: </styles-6a9d807fa29d3c653050.js>; rel=preload; as=script
+  Link: </commons-dfe7fd239f24287436b4.js>; rel=preload; as=script
+  Link: </component---src-templates-talk-page-js-f81e12fcd7c4b6a2deb8.js>; rel=preload; as=script
+/events/talks/dealing-with-fear-primer
+  Link: </webpack-runtime-caf67afc41076c0210b9.js>; rel=preload; as=script
+  Link: </commons-dfe7fd239f24287436b4.js>; rel=preload; as=script
+  Link: </app-d0cd25a33ca45dcfdb53.js>; rel=preload; as=script
+  Link: </styles-6a9d807fa29d3c653050.js>; rel=preload; as=script
+  Link: </commons-dfe7fd239f24287436b4.js>; rel=preload; as=script
+  Link: </component---src-templates-talk-page-js-f81e12fcd7c4b6a2deb8.js>; rel=preload; as=script
+/events/talks/devpi-tool-you-never-knew-you-needed
+  Link: </webpack-runtime-caf67afc41076c0210b9.js>; rel=preload; as=script
+  Link: </commons-dfe7fd239f24287436b4.js>; rel=preload; as=script
+  Link: </app-d0cd25a33ca45dcfdb53.js>; rel=preload; as=script
+  Link: </styles-6a9d807fa29d3c653050.js>; rel=preload; as=script
+  Link: </commons-dfe7fd239f24287436b4.js>; rel=preload; as=script
+  Link: </component---src-templates-talk-page-js-f81e12fcd7c4b6a2deb8.js>; rel=preload; as=script
+/events/talks/everything-you-know-about-mongodb-is-wrong
+  Link: </webpack-runtime-caf67afc41076c0210b9.js>; rel=preload; as=script
+  Link: </commons-dfe7fd239f24287436b4.js>; rel=preload; as=script
+  Link: </app-d0cd25a33ca45dcfdb53.js>; rel=preload; as=script
+  Link: </styles-6a9d807fa29d3c653050.js>; rel=preload; as=script
+  Link: </commons-dfe7fd239f24287436b4.js>; rel=preload; as=script
+  Link: </component---src-templates-talk-page-js-f81e12fcd7c4b6a2deb8.js>; rel=preload; as=script
+/events/talks/gems-of-python-standard-library
+  Link: </webpack-runtime-caf67afc41076c0210b9.js>; rel=preload; as=script
+  Link: </commons-dfe7fd239f24287436b4.js>; rel=preload; as=script
+  Link: </app-d0cd25a33ca45dcfdb53.js>; rel=preload; as=script
+  Link: </styles-6a9d807fa29d3c653050.js>; rel=preload; as=script
+  Link: </commons-dfe7fd239f24287436b4.js>; rel=preload; as=script
+  Link: </component---src-templates-talk-page-js-f81e12fcd7c4b6a2deb8.js>; rel=preload; as=script
+/events/talks/flask-in-five
+  Link: </webpack-runtime-caf67afc41076c0210b9.js>; rel=preload; as=script
+  Link: </commons-dfe7fd239f24287436b4.js>; rel=preload; as=script
+  Link: </app-d0cd25a33ca45dcfdb53.js>; rel=preload; as=script
+  Link: </styles-6a9d807fa29d3c653050.js>; rel=preload; as=script
+  Link: </commons-dfe7fd239f24287436b4.js>; rel=preload; as=script
+  Link: </component---src-templates-talk-page-js-f81e12fcd7c4b6a2deb8.js>; rel=preload; as=script
+/events/talks/great-scott-delorean-for-datetime-manipulation-in-python
+  Link: </webpack-runtime-caf67afc41076c0210b9.js>; rel=preload; as=script
+  Link: </commons-dfe7fd239f24287436b4.js>; rel=preload; as=script
+  Link: </app-d0cd25a33ca45dcfdb53.js>; rel=preload; as=script
+  Link: </styles-6a9d807fa29d3c653050.js>; rel=preload; as=script
+  Link: </commons-dfe7fd239f24287436b4.js>; rel=preload; as=script
+  Link: </component---src-templates-talk-page-js-f81e12fcd7c4b6a2deb8.js>; rel=preload; as=script
+/events/talks/how-python-software-foundation-fared-through-impact-of-pandemic
+  Link: </webpack-runtime-caf67afc41076c0210b9.js>; rel=preload; as=script
+  Link: </commons-dfe7fd239f24287436b4.js>; rel=preload; as=script
+  Link: </app-d0cd25a33ca45dcfdb53.js>; rel=preload; as=script
+  Link: </styles-6a9d807fa29d3c653050.js>; rel=preload; as=script
+  Link: </commons-dfe7fd239f24287436b4.js>; rel=preload; as=script
+  Link: </component---src-templates-talk-page-js-f81e12fcd7c4b6a2deb8.js>; rel=preload; as=script
+/events/talks/how-to-run-your-favorite-python-package-in-r
+  Link: </webpack-runtime-caf67afc41076c0210b9.js>; rel=preload; as=script
+  Link: </commons-dfe7fd239f24287436b4.js>; rel=preload; as=script
+  Link: </app-d0cd25a33ca45dcfdb53.js>; rel=preload; as=script
+  Link: </styles-6a9d807fa29d3c653050.js>; rel=preload; as=script
+  Link: </commons-dfe7fd239f24287436b4.js>; rel=preload; as=script
+  Link: </component---src-templates-talk-page-js-f81e12fcd7c4b6a2deb8.js>; rel=preload; as=script
+/events/talks/how-to-write-test-case
+  Link: </webpack-runtime-caf67afc41076c0210b9.js>; rel=preload; as=script
+  Link: </commons-dfe7fd239f24287436b4.js>; rel=preload; as=script
+  Link: </app-d0cd25a33ca45dcfdb53.js>; rel=preload; as=script
+  Link: </styles-6a9d807fa29d3c653050.js>; rel=preload; as=script
+  Link: </commons-dfe7fd239f24287436b4.js>; rel=preload; as=script
+  Link: </component---src-templates-talk-page-js-f81e12fcd7c4b6a2deb8.js>; rel=preload; as=script
+/events/talks/its-time-for-py-time-series-clustering-and-anomaly-detection-in-python
+  Link: </webpack-runtime-caf67afc41076c0210b9.js>; rel=preload; as=script
+  Link: </commons-dfe7fd239f24287436b4.js>; rel=preload; as=script
+  Link: </app-d0cd25a33ca45dcfdb53.js>; rel=preload; as=script
+  Link: </styles-6a9d807fa29d3c653050.js>; rel=preload; as=script
+  Link: </commons-dfe7fd239f24287436b4.js>; rel=preload; as=script
+  Link: </component---src-templates-talk-page-js-f81e12fcd7c4b6a2deb8.js>; rel=preload; as=script
+/events/talks/lets-write-ipython-extension-in-ipython
+  Link: </webpack-runtime-caf67afc41076c0210b9.js>; rel=preload; as=script
+  Link: </commons-dfe7fd239f24287436b4.js>; rel=preload; as=script
+  Link: </app-d0cd25a33ca45dcfdb53.js>; rel=preload; as=script
+  Link: </styles-6a9d807fa29d3c653050.js>; rel=preload; as=script
+  Link: </commons-dfe7fd239f24287436b4.js>; rel=preload; as=script
+  Link: </component---src-templates-talk-page-js-f81e12fcd7c4b6a2deb8.js>; rel=preload; as=script
+/events/talks/managing-your-finances-using-python
+  Link: </webpack-runtime-caf67afc41076c0210b9.js>; rel=preload; as=script
+  Link: </commons-dfe7fd239f24287436b4.js>; rel=preload; as=script
+  Link: </app-d0cd25a33ca45dcfdb53.js>; rel=preload; as=script
+  Link: </styles-6a9d807fa29d3c653050.js>; rel=preload; as=script
+  Link: </commons-dfe7fd239f24287436b4.js>; rel=preload; as=script
+  Link: </component---src-templates-talk-page-js-f81e12fcd7c4b6a2deb8.js>; rel=preload; as=script
+/events/talks/mapreduce-in-10-minutes
+  Link: </webpack-runtime-caf67afc41076c0210b9.js>; rel=preload; as=script
+  Link: </commons-dfe7fd239f24287436b4.js>; rel=preload; as=script
+  Link: </app-d0cd25a33ca45dcfdb53.js>; rel=preload; as=script
+  Link: </styles-6a9d807fa29d3c653050.js>; rel=preload; as=script
+  Link: </commons-dfe7fd239f24287436b4.js>; rel=preload; as=script
+  Link: </component---src-templates-talk-page-js-f81e12fcd7c4b6a2deb8.js>; rel=preload; as=script
+/events/talks/mpi-meets-python-how-to-use-mpi-in-python-universe
+  Link: </webpack-runtime-caf67afc41076c0210b9.js>; rel=preload; as=script
+  Link: </commons-dfe7fd239f24287436b4.js>; rel=preload; as=script
+  Link: </app-d0cd25a33ca45dcfdb53.js>; rel=preload; as=script
+  Link: </styles-6a9d807fa29d3c653050.js>; rel=preload; as=script
+  Link: </commons-dfe7fd239f24287436b4.js>; rel=preload; as=script
+  Link: </component---src-templates-talk-page-js-f81e12fcd7c4b6a2deb8.js>; rel=preload; as=script
+/events/talks/object-oriented-python-using-functools-partial
+  Link: </webpack-runtime-caf67afc41076c0210b9.js>; rel=preload; as=script
+  Link: </commons-dfe7fd239f24287436b4.js>; rel=preload; as=script
+  Link: </app-d0cd25a33ca45dcfdb53.js>; rel=preload; as=script
+  Link: </styles-6a9d807fa29d3c653050.js>; rel=preload; as=script
+  Link: </commons-dfe7fd239f24287436b4.js>; rel=preload; as=script
+  Link: </component---src-templates-talk-page-js-f81e12fcd7c4b6a2deb8.js>; rel=preload; as=script
+/events/talks/open-source-fights-covid-19
+  Link: </webpack-runtime-caf67afc41076c0210b9.js>; rel=preload; as=script
+  Link: </commons-dfe7fd239f24287436b4.js>; rel=preload; as=script
+  Link: </app-d0cd25a33ca45dcfdb53.js>; rel=preload; as=script
+  Link: </styles-6a9d807fa29d3c653050.js>; rel=preload; as=script
+  Link: </commons-dfe7fd239f24287436b4.js>; rel=preload; as=script
+  Link: </component---src-templates-talk-page-js-f81e12fcd7c4b6a2deb8.js>; rel=preload; as=script
+/events/talks/pillow-basics
+  Link: </webpack-runtime-caf67afc41076c0210b9.js>; rel=preload; as=script
+  Link: </commons-dfe7fd239f24287436b4.js>; rel=preload; as=script
+  Link: </app-d0cd25a33ca45dcfdb53.js>; rel=preload; as=script
+  Link: </styles-6a9d807fa29d3c653050.js>; rel=preload; as=script
+  Link: </commons-dfe7fd239f24287436b4.js>; rel=preload; as=script
+  Link: </component---src-templates-talk-page-js-f81e12fcd7c4b6a2deb8.js>; rel=preload; as=script
+/events/talks/python-in-education-for-generation-z
+  Link: </webpack-runtime-caf67afc41076c0210b9.js>; rel=preload; as=script
+  Link: </commons-dfe7fd239f24287436b4.js>; rel=preload; as=script
+  Link: </app-d0cd25a33ca45dcfdb53.js>; rel=preload; as=script
+  Link: </styles-6a9d807fa29d3c653050.js>; rel=preload; as=script
+  Link: </commons-dfe7fd239f24287436b4.js>; rel=preload; as=script
+  Link: </component---src-templates-talk-page-js-f81e12fcd7c4b6a2deb8.js>; rel=preload; as=script
+/events/talks/theres-snake-in-birdhouse-building-python-culture-at-vrbo
+  Link: </webpack-runtime-caf67afc41076c0210b9.js>; rel=preload; as=script
+  Link: </commons-dfe7fd239f24287436b4.js>; rel=preload; as=script
+  Link: </app-d0cd25a33ca45dcfdb53.js>; rel=preload; as=script
+  Link: </styles-6a9d807fa29d3c653050.js>; rel=preload; as=script
+  Link: </commons-dfe7fd239f24287436b4.js>; rel=preload; as=script
+  Link: </component---src-templates-talk-page-js-f81e12fcd7c4b6a2deb8.js>; rel=preload; as=script
+/404/
+  Link: </webpack-runtime-caf67afc41076c0210b9.js>; rel=preload; as=script
+  Link: </commons-dfe7fd239f24287436b4.js>; rel=preload; as=script
+  Link: </app-d0cd25a33ca45dcfdb53.js>; rel=preload; as=script
+  Link: </styles-6a9d807fa29d3c653050.js>; rel=preload; as=script
+  Link: </commons-dfe7fd239f24287436b4.js>; rel=preload; as=script
+  Link: </component---src-pages-404-js-afc03128a426eb832bce.js>; rel=preload; as=script
+/events/sprints/
+  Link: </webpack-runtime-caf67afc41076c0210b9.js>; rel=preload; as=script
+  Link: </commons-dfe7fd239f24287436b4.js>; rel=preload; as=script
+  Link: </app-d0cd25a33ca45dcfdb53.js>; rel=preload; as=script
+  Link: </styles-6a9d807fa29d3c653050.js>; rel=preload; as=script
+  Link: </commons-dfe7fd239f24287436b4.js>; rel=preload; as=script
+  Link: </component---src-pages-events-sprints-js-626b8400271101e3845f.js>; rel=preload; as=script
+/events/talks/
+  Link: </webpack-runtime-caf67afc41076c0210b9.js>; rel=preload; as=script
+  Link: </commons-dfe7fd239f24287436b4.js>; rel=preload; as=script
+  Link: </app-d0cd25a33ca45dcfdb53.js>; rel=preload; as=script
+  Link: </styles-6a9d807fa29d3c653050.js>; rel=preload; as=script
+  Link: </commons-dfe7fd239f24287436b4.js>; rel=preload; as=script
+  Link: </component---src-pages-events-talks-js-fb29d67e2dfc58c4f880.js>; rel=preload; as=script
+/404.html
+  Link: </webpack-runtime-caf67afc41076c0210b9.js>; rel=preload; as=script
+  Link: </commons-dfe7fd239f24287436b4.js>; rel=preload; as=script
+  Link: </app-d0cd25a33ca45dcfdb53.js>; rel=preload; as=script
+  Link: </styles-6a9d807fa29d3c653050.js>; rel=preload; as=script
+  Link: </commons-dfe7fd239f24287436b4.js>; rel=preload; as=script
+  Link: </component---src-pages-404-js-afc03128a426eb832bce.js>; rel=preload; as=script
