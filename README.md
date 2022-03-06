@@ -12,6 +12,7 @@ The static files here are hosted on the live PyOhio site:
 - [2018](https://www.pyohio.org/2018/)
 - [2019](https://www.pyohio.org/2019/)
 - [2020](https://www.pyohio.org/2020/)
+- [2021](https://www.pyohio.org/2021/)
 
 Instructions
 ------------
