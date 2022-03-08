@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
-Sitemap: https://www.pyohio.org/sitemap/sitemap-index.xml
+Sitemap: https://www.pyohio.org/2021/sitemap/sitemap-index.xml
 Host: https://www.pyohio.org
