@@ -1,10 +1,16 @@
-PyOhio Website Archive
-======================
+PyOhio Archive
+==============
 
-Static archives of previous years' PyOhio websites. 
+Static archives of previous years' PyOhio websites and logos. 
 
-Archive
--------
+Logos
+-----
+
+[PyOhio Logos](/logos/)
+
+
+Website Archive
+---------------
 
 The static files here are hosted on the live PyOhio site:
 
@@ -14,13 +20,12 @@ The static files here are hosted on the live PyOhio site:
 - [2020](https://www.pyohio.org/2020/)
 - [2021](https://www.pyohio.org/2021/)
 
-Instructions
-------------
+### Instructions
 
-### Static Sites (2019-present)
+#### Static Sites (2019-present)
 
 Copy the generated `public` directory to a directory named for the year in this repo.
-### Older Dynammic Sites
+#### Older Dynammic Sites
 
 We follow a similar process to the one the [PyCon US website archive](https://github.com/PyCon/pycon-archive) uses as described here: http://gerg.ca/blog/post/2013/archiving-pycon/
 
