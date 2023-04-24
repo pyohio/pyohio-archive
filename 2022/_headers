@@ -1,0 +1,1075 @@
+## Created with gatsby-plugin-netlify
+
+/*
+  X-Frame-Options: DENY
+  X-XSS-Protection: 1; mode=block
+  X-Content-Type-Options: nosniff
+  Referrer-Policy: same-origin
+/0f1ac474-46d92f3cd850c0c4478c.js
+  Cache-Control: public, max-age=31536000, immutable
+/component---src-templates-talk-page-js-680d46f6492544cfecfd.js
+  Cache-Control: public, max-age=31536000, immutable
+/component---src-templates-speaker-page-js-4027b97c79f442561486.js
+  Cache-Control: public, max-age=31536000, immutable
+/component---content-pages-program-schedule-js-51d3df458ed7ec382269.js
+  Cache-Control: public, max-age=31536000, immutable
+/component---content-pages-program-speakers-js-6aac4242fefdea8a1134.js
+  Cache-Control: public, max-age=31536000, immutable
+/component---content-pages-program-talks-js-7329fdabafb462695794.js
+  Cache-Control: public, max-age=31536000, immutable
+/component---content-pages-404-mdx-075d08f62f172dd066b7.js
+  Cache-Control: public, max-age=31536000, immutable
+/component---content-pages-index-mdx-1008fc8cb2c89ab6abf4.js
+  Cache-Control: public, max-age=31536000, immutable
+/component---content-pages-example-mdx-8480d39634054332501f.js
+  Cache-Control: public, max-age=31536000, immutable
+/component---content-pages-participate-shirts-mdx-affd9a84ac434a4b5303.js
+  Cache-Control: public, max-age=31536000, immutable
+/component---content-pages-participate-index-mdx-e4da3c9be4a95c310872.js
+  Cache-Control: public, max-age=31536000, immutable
+/component---content-pages-about-index-mdx-1a462bc5356467bda667.js
+  Cache-Control: public, max-age=31536000, immutable
+/component---content-pages-participate-register-mdx-bd1406a1f1d295ccb9be.js
+  Cache-Control: public, max-age=31536000, immutable
+/component---content-pages-about-ohpyo-mdx-80f373f4ac9c452a7b5a.js
+  Cache-Control: public, max-age=31536000, immutable
+/component---content-pages-program-index-mdx-8647905bc195ec89ba4f.js
+  Cache-Control: public, max-age=31536000, immutable
+/component---content-pages-speaking-call-for-proposals-mdx-1a26c274b401bb4daa8e.js
+  Cache-Control: public, max-age=31536000, immutable
+/component---content-pages-about-newsletter-mdx-671c3df3eb526c4d9a7c.js
+  Cache-Control: public, max-age=31536000, immutable
+/component---content-pages-about-code-of-conduct-index-mdx-1dac3e9012f7b7397c8b.js
+  Cache-Control: public, max-age=31536000, immutable
+/component---content-pages-speaking-speaker-info-mdx-d69a963017fcd15370cc.js
+  Cache-Control: public, max-age=31536000, immutable
+/component---content-pages-about-code-of-conduct-reporting-procedure-mdx-02c29939b0f2a81e6e14.js
+  Cache-Control: public, max-age=31536000, immutable
+/component---content-pages-about-code-of-conduct-staff-procedure-mdx-e99823292be4eec1c38b.js
+  Cache-Control: public, max-age=31536000, immutable
+/webpack-runtime-89c360b76fc281a2035a.js
+  Cache-Control: public, max-age=31536000, immutable
+/framework-0292a8b80de2284fae46.js
+  Cache-Control: public, max-age=31536000, immutable
+/252f366e-6a26a063c6c470e62569.js
+  Cache-Control: public, max-age=31536000, immutable
+/5e2a4920-7aa907ccc6d0eb7ce84f.js
+  Cache-Control: public, max-age=31536000, immutable
+/1bfc9850-24f8eebf27c7ed5bff0b.js
+  Cache-Control: public, max-age=31536000, immutable
+/app-cf04cea4824dc12858cb.js
+  Cache-Control: public, max-age=31536000, immutable
+/static/*
+  Cache-Control: public, max-age=31536000, immutable
+/sw.js
+  Cache-Control: no-cache
+/program/talks/add-rss-to-my-website-with-python-yes
+  Link: </webpack-runtime-89c360b76fc281a2035a.js>; rel=preload; as=script
+  Link: </framework-0292a8b80de2284fae46.js>; rel=preload; as=script
+  Link: </252f366e-6a26a063c6c470e62569.js>; rel=preload; as=script
+  Link: </5e2a4920-7aa907ccc6d0eb7ce84f.js>; rel=preload; as=script
+  Link: </1bfc9850-24f8eebf27c7ed5bff0b.js>; rel=preload; as=script
+  Link: </app-cf04cea4824dc12858cb.js>; rel=preload; as=script
+  Link: </0f1ac474-46d92f3cd850c0c4478c.js>; rel=preload; as=script
+  Link: </component---src-templates-talk-page-js-680d46f6492544cfecfd.js>; rel=preload; as=script
+  Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </page-data/program/talks/add-rss-to-my-website-with-python-yes/page-data.json>; rel=preload; as=fetch; crossorigin
+/program/talks/a-quickstart-to-web-testing-with-playwright
+  Link: </webpack-runtime-89c360b76fc281a2035a.js>; rel=preload; as=script
+  Link: </framework-0292a8b80de2284fae46.js>; rel=preload; as=script
+  Link: </252f366e-6a26a063c6c470e62569.js>; rel=preload; as=script
+  Link: </5e2a4920-7aa907ccc6d0eb7ce84f.js>; rel=preload; as=script
+  Link: </1bfc9850-24f8eebf27c7ed5bff0b.js>; rel=preload; as=script
+  Link: </app-cf04cea4824dc12858cb.js>; rel=preload; as=script
+  Link: </0f1ac474-46d92f3cd850c0c4478c.js>; rel=preload; as=script
+  Link: </component---src-templates-talk-page-js-680d46f6492544cfecfd.js>; rel=preload; as=script
+  Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </page-data/program/talks/a-quickstart-to-web-testing-with-playwright/page-data.json>; rel=preload; as=fetch; crossorigin
+/program/talks/advanced-typing-typevars-generics-and-protocols
+  Link: </webpack-runtime-89c360b76fc281a2035a.js>; rel=preload; as=script
+  Link: </framework-0292a8b80de2284fae46.js>; rel=preload; as=script
+  Link: </252f366e-6a26a063c6c470e62569.js>; rel=preload; as=script
+  Link: </5e2a4920-7aa907ccc6d0eb7ce84f.js>; rel=preload; as=script
+  Link: </1bfc9850-24f8eebf27c7ed5bff0b.js>; rel=preload; as=script
+  Link: </app-cf04cea4824dc12858cb.js>; rel=preload; as=script
+  Link: </0f1ac474-46d92f3cd850c0c4478c.js>; rel=preload; as=script
+  Link: </component---src-templates-talk-page-js-680d46f6492544cfecfd.js>; rel=preload; as=script
+  Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </page-data/program/talks/advanced-typing-typevars-generics-and-protocols/page-data.json>; rel=preload; as=fetch; crossorigin
+/program/talks/automating-excel-with-python
+  Link: </webpack-runtime-89c360b76fc281a2035a.js>; rel=preload; as=script
+  Link: </framework-0292a8b80de2284fae46.js>; rel=preload; as=script
+  Link: </252f366e-6a26a063c6c470e62569.js>; rel=preload; as=script
+  Link: </5e2a4920-7aa907ccc6d0eb7ce84f.js>; rel=preload; as=script
+  Link: </1bfc9850-24f8eebf27c7ed5bff0b.js>; rel=preload; as=script
+  Link: </app-cf04cea4824dc12858cb.js>; rel=preload; as=script
+  Link: </0f1ac474-46d92f3cd850c0c4478c.js>; rel=preload; as=script
+  Link: </component---src-templates-talk-page-js-680d46f6492544cfecfd.js>; rel=preload; as=script
+  Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </page-data/program/talks/automating-excel-with-python/page-data.json>; rel=preload; as=fetch; crossorigin
+/program/talks/another-look-at-python-types
+  Link: </webpack-runtime-89c360b76fc281a2035a.js>; rel=preload; as=script
+  Link: </framework-0292a8b80de2284fae46.js>; rel=preload; as=script
+  Link: </252f366e-6a26a063c6c470e62569.js>; rel=preload; as=script
+  Link: </5e2a4920-7aa907ccc6d0eb7ce84f.js>; rel=preload; as=script
+  Link: </1bfc9850-24f8eebf27c7ed5bff0b.js>; rel=preload; as=script
+  Link: </app-cf04cea4824dc12858cb.js>; rel=preload; as=script
+  Link: </0f1ac474-46d92f3cd850c0c4478c.js>; rel=preload; as=script
+  Link: </component---src-templates-talk-page-js-680d46f6492544cfecfd.js>; rel=preload; as=script
+  Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </page-data/program/talks/another-look-at-python-types/page-data.json>; rel=preload; as=fetch; crossorigin
+/program/talks/apis-the-universe-and-everything
+  Link: </webpack-runtime-89c360b76fc281a2035a.js>; rel=preload; as=script
+  Link: </framework-0292a8b80de2284fae46.js>; rel=preload; as=script
+  Link: </252f366e-6a26a063c6c470e62569.js>; rel=preload; as=script
+  Link: </5e2a4920-7aa907ccc6d0eb7ce84f.js>; rel=preload; as=script
+  Link: </1bfc9850-24f8eebf27c7ed5bff0b.js>; rel=preload; as=script
+  Link: </app-cf04cea4824dc12858cb.js>; rel=preload; as=script
+  Link: </0f1ac474-46d92f3cd850c0c4478c.js>; rel=preload; as=script
+  Link: </component---src-templates-talk-page-js-680d46f6492544cfecfd.js>; rel=preload; as=script
+  Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </page-data/program/talks/apis-the-universe-and-everything/page-data.json>; rel=preload; as=fetch; crossorigin
+/program/talks/beyond-velocity-3-metrics-for-engineering-team-success
+  Link: </webpack-runtime-89c360b76fc281a2035a.js>; rel=preload; as=script
+  Link: </framework-0292a8b80de2284fae46.js>; rel=preload; as=script
+  Link: </252f366e-6a26a063c6c470e62569.js>; rel=preload; as=script
+  Link: </5e2a4920-7aa907ccc6d0eb7ce84f.js>; rel=preload; as=script
+  Link: </1bfc9850-24f8eebf27c7ed5bff0b.js>; rel=preload; as=script
+  Link: </app-cf04cea4824dc12858cb.js>; rel=preload; as=script
+  Link: </0f1ac474-46d92f3cd850c0c4478c.js>; rel=preload; as=script
+  Link: </component---src-templates-talk-page-js-680d46f6492544cfecfd.js>; rel=preload; as=script
+  Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </page-data/program/talks/beyond-velocity-3-metrics-for-engineering-team-success/page-data.json>; rel=preload; as=fetch; crossorigin
+/program/talks/bootstrapping-your-local-python-environment
+  Link: </webpack-runtime-89c360b76fc281a2035a.js>; rel=preload; as=script
+  Link: </framework-0292a8b80de2284fae46.js>; rel=preload; as=script
+  Link: </252f366e-6a26a063c6c470e62569.js>; rel=preload; as=script
+  Link: </5e2a4920-7aa907ccc6d0eb7ce84f.js>; rel=preload; as=script
+  Link: </1bfc9850-24f8eebf27c7ed5bff0b.js>; rel=preload; as=script
+  Link: </app-cf04cea4824dc12858cb.js>; rel=preload; as=script
+  Link: </0f1ac474-46d92f3cd850c0c4478c.js>; rel=preload; as=script
+  Link: </component---src-templates-talk-page-js-680d46f6492544cfecfd.js>; rel=preload; as=script
+  Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </page-data/program/talks/bootstrapping-your-local-python-environment/page-data.json>; rel=preload; as=fetch; crossorigin
+/program/talks/baby-steps-towards-your-first-fastapi-app
+  Link: </webpack-runtime-89c360b76fc281a2035a.js>; rel=preload; as=script
+  Link: </framework-0292a8b80de2284fae46.js>; rel=preload; as=script
+  Link: </252f366e-6a26a063c6c470e62569.js>; rel=preload; as=script
+  Link: </5e2a4920-7aa907ccc6d0eb7ce84f.js>; rel=preload; as=script
+  Link: </1bfc9850-24f8eebf27c7ed5bff0b.js>; rel=preload; as=script
+  Link: </app-cf04cea4824dc12858cb.js>; rel=preload; as=script
+  Link: </0f1ac474-46d92f3cd850c0c4478c.js>; rel=preload; as=script
+  Link: </component---src-templates-talk-page-js-680d46f6492544cfecfd.js>; rel=preload; as=script
+  Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </page-data/program/talks/baby-steps-towards-your-first-fastapi-app/page-data.json>; rel=preload; as=fetch; crossorigin
+/program/talks/build-your-first-anomaly-detector-in-power-bi-using-pycaret
+  Link: </webpack-runtime-89c360b76fc281a2035a.js>; rel=preload; as=script
+  Link: </framework-0292a8b80de2284fae46.js>; rel=preload; as=script
+  Link: </252f366e-6a26a063c6c470e62569.js>; rel=preload; as=script
+  Link: </5e2a4920-7aa907ccc6d0eb7ce84f.js>; rel=preload; as=script
+  Link: </1bfc9850-24f8eebf27c7ed5bff0b.js>; rel=preload; as=script
+  Link: </app-cf04cea4824dc12858cb.js>; rel=preload; as=script
+  Link: </0f1ac474-46d92f3cd850c0c4478c.js>; rel=preload; as=script
+  Link: </component---src-templates-talk-page-js-680d46f6492544cfecfd.js>; rel=preload; as=script
+  Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </page-data/program/talks/build-your-first-anomaly-detector-in-power-bi-using-pycaret/page-data.json>; rel=preload; as=fetch; crossorigin
+/program/talks/colors-and-chords
+  Link: </webpack-runtime-89c360b76fc281a2035a.js>; rel=preload; as=script
+  Link: </framework-0292a8b80de2284fae46.js>; rel=preload; as=script
+  Link: </252f366e-6a26a063c6c470e62569.js>; rel=preload; as=script
+  Link: </5e2a4920-7aa907ccc6d0eb7ce84f.js>; rel=preload; as=script
+  Link: </1bfc9850-24f8eebf27c7ed5bff0b.js>; rel=preload; as=script
+  Link: </app-cf04cea4824dc12858cb.js>; rel=preload; as=script
+  Link: </0f1ac474-46d92f3cd850c0c4478c.js>; rel=preload; as=script
+  Link: </component---src-templates-talk-page-js-680d46f6492544cfecfd.js>; rel=preload; as=script
+  Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </page-data/program/talks/colors-and-chords/page-data.json>; rel=preload; as=fetch; crossorigin
+/program/talks/comprehending-comprehensions
+  Link: </webpack-runtime-89c360b76fc281a2035a.js>; rel=preload; as=script
+  Link: </framework-0292a8b80de2284fae46.js>; rel=preload; as=script
+  Link: </252f366e-6a26a063c6c470e62569.js>; rel=preload; as=script
+  Link: </5e2a4920-7aa907ccc6d0eb7ce84f.js>; rel=preload; as=script
+  Link: </1bfc9850-24f8eebf27c7ed5bff0b.js>; rel=preload; as=script
+  Link: </app-cf04cea4824dc12858cb.js>; rel=preload; as=script
+  Link: </0f1ac474-46d92f3cd850c0c4478c.js>; rel=preload; as=script
+  Link: </component---src-templates-talk-page-js-680d46f6492544cfecfd.js>; rel=preload; as=script
+  Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </page-data/program/talks/comprehending-comprehensions/page-data.json>; rel=preload; as=fetch; crossorigin
+/program/talks/building-a-faster-networkx-like-library-using-graphblas
+  Link: </webpack-runtime-89c360b76fc281a2035a.js>; rel=preload; as=script
+  Link: </framework-0292a8b80de2284fae46.js>; rel=preload; as=script
+  Link: </252f366e-6a26a063c6c470e62569.js>; rel=preload; as=script
+  Link: </5e2a4920-7aa907ccc6d0eb7ce84f.js>; rel=preload; as=script
+  Link: </1bfc9850-24f8eebf27c7ed5bff0b.js>; rel=preload; as=script
+  Link: </app-cf04cea4824dc12858cb.js>; rel=preload; as=script
+  Link: </0f1ac474-46d92f3cd850c0c4478c.js>; rel=preload; as=script
+  Link: </component---src-templates-talk-page-js-680d46f6492544cfecfd.js>; rel=preload; as=script
+  Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </page-data/program/talks/building-a-faster-networkx-like-library-using-graphblas/page-data.json>; rel=preload; as=fetch; crossorigin
+/program/talks/doing-everything-data-without-leaving-the-notebook-programmatic-jupyter-notebooks
+  Link: </webpack-runtime-89c360b76fc281a2035a.js>; rel=preload; as=script
+  Link: </framework-0292a8b80de2284fae46.js>; rel=preload; as=script
+  Link: </252f366e-6a26a063c6c470e62569.js>; rel=preload; as=script
+  Link: </5e2a4920-7aa907ccc6d0eb7ce84f.js>; rel=preload; as=script
+  Link: </1bfc9850-24f8eebf27c7ed5bff0b.js>; rel=preload; as=script
+  Link: </app-cf04cea4824dc12858cb.js>; rel=preload; as=script
+  Link: </0f1ac474-46d92f3cd850c0c4478c.js>; rel=preload; as=script
+  Link: </component---src-templates-talk-page-js-680d46f6492544cfecfd.js>; rel=preload; as=script
+  Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </page-data/program/talks/doing-everything-data-without-leaving-the-notebook-programmatic-jupyter-notebooks/page-data.json>; rel=preload; as=fetch; crossorigin
+/program/talks/deploy-a-python-api-to-the-cloud-fast
+  Link: </webpack-runtime-89c360b76fc281a2035a.js>; rel=preload; as=script
+  Link: </framework-0292a8b80de2284fae46.js>; rel=preload; as=script
+  Link: </252f366e-6a26a063c6c470e62569.js>; rel=preload; as=script
+  Link: </5e2a4920-7aa907ccc6d0eb7ce84f.js>; rel=preload; as=script
+  Link: </1bfc9850-24f8eebf27c7ed5bff0b.js>; rel=preload; as=script
+  Link: </app-cf04cea4824dc12858cb.js>; rel=preload; as=script
+  Link: </0f1ac474-46d92f3cd850c0c4478c.js>; rel=preload; as=script
+  Link: </component---src-templates-talk-page-js-680d46f6492544cfecfd.js>; rel=preload; as=script
+  Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </page-data/program/talks/deploy-a-python-api-to-the-cloud-fast/page-data.json>; rel=preload; as=fetch; crossorigin
+/program/talks/exploring-movie-actor-networks-in-python
+  Link: </webpack-runtime-89c360b76fc281a2035a.js>; rel=preload; as=script
+  Link: </framework-0292a8b80de2284fae46.js>; rel=preload; as=script
+  Link: </252f366e-6a26a063c6c470e62569.js>; rel=preload; as=script
+  Link: </5e2a4920-7aa907ccc6d0eb7ce84f.js>; rel=preload; as=script
+  Link: </1bfc9850-24f8eebf27c7ed5bff0b.js>; rel=preload; as=script
+  Link: </app-cf04cea4824dc12858cb.js>; rel=preload; as=script
+  Link: </0f1ac474-46d92f3cd850c0c4478c.js>; rel=preload; as=script
+  Link: </component---src-templates-talk-page-js-680d46f6492544cfecfd.js>; rel=preload; as=script
+  Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </page-data/program/talks/exploring-movie-actor-networks-in-python/page-data.json>; rel=preload; as=fetch; crossorigin
+/program/talks/go-3d-with-plotly
+  Link: </webpack-runtime-89c360b76fc281a2035a.js>; rel=preload; as=script
+  Link: </framework-0292a8b80de2284fae46.js>; rel=preload; as=script
+  Link: </252f366e-6a26a063c6c470e62569.js>; rel=preload; as=script
+  Link: </5e2a4920-7aa907ccc6d0eb7ce84f.js>; rel=preload; as=script
+  Link: </1bfc9850-24f8eebf27c7ed5bff0b.js>; rel=preload; as=script
+  Link: </app-cf04cea4824dc12858cb.js>; rel=preload; as=script
+  Link: </0f1ac474-46d92f3cd850c0c4478c.js>; rel=preload; as=script
+  Link: </component---src-templates-talk-page-js-680d46f6492544cfecfd.js>; rel=preload; as=script
+  Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </page-data/program/talks/go-3d-with-plotly/page-data.json>; rel=preload; as=fetch; crossorigin
+/program/talks/exploring-open-source-sprint-data-via-a-python-plotly-dashboard
+  Link: </webpack-runtime-89c360b76fc281a2035a.js>; rel=preload; as=script
+  Link: </framework-0292a8b80de2284fae46.js>; rel=preload; as=script
+  Link: </252f366e-6a26a063c6c470e62569.js>; rel=preload; as=script
+  Link: </5e2a4920-7aa907ccc6d0eb7ce84f.js>; rel=preload; as=script
+  Link: </1bfc9850-24f8eebf27c7ed5bff0b.js>; rel=preload; as=script
+  Link: </app-cf04cea4824dc12858cb.js>; rel=preload; as=script
+  Link: </0f1ac474-46d92f3cd850c0c4478c.js>; rel=preload; as=script
+  Link: </component---src-templates-talk-page-js-680d46f6492544cfecfd.js>; rel=preload; as=script
+  Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </page-data/program/talks/exploring-open-source-sprint-data-via-a-python-plotly-dashboard/page-data.json>; rel=preload; as=fetch; crossorigin
+/program/talks/how-to-build-an-ai-powered-flappy-bird
+  Link: </webpack-runtime-89c360b76fc281a2035a.js>; rel=preload; as=script
+  Link: </framework-0292a8b80de2284fae46.js>; rel=preload; as=script
+  Link: </252f366e-6a26a063c6c470e62569.js>; rel=preload; as=script
+  Link: </5e2a4920-7aa907ccc6d0eb7ce84f.js>; rel=preload; as=script
+  Link: </1bfc9850-24f8eebf27c7ed5bff0b.js>; rel=preload; as=script
+  Link: </app-cf04cea4824dc12858cb.js>; rel=preload; as=script
+  Link: </0f1ac474-46d92f3cd850c0c4478c.js>; rel=preload; as=script
+  Link: </component---src-templates-talk-page-js-680d46f6492544cfecfd.js>; rel=preload; as=script
+  Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </page-data/program/talks/how-to-build-an-ai-powered-flappy-bird/page-data.json>; rel=preload; as=fetch; crossorigin
+/program/talks/i-can-t-believe-it-s-not-real-data-an-introduction-into-synthetic-data
+  Link: </webpack-runtime-89c360b76fc281a2035a.js>; rel=preload; as=script
+  Link: </framework-0292a8b80de2284fae46.js>; rel=preload; as=script
+  Link: </252f366e-6a26a063c6c470e62569.js>; rel=preload; as=script
+  Link: </5e2a4920-7aa907ccc6d0eb7ce84f.js>; rel=preload; as=script
+  Link: </1bfc9850-24f8eebf27c7ed5bff0b.js>; rel=preload; as=script
+  Link: </app-cf04cea4824dc12858cb.js>; rel=preload; as=script
+  Link: </0f1ac474-46d92f3cd850c0c4478c.js>; rel=preload; as=script
+  Link: </component---src-templates-talk-page-js-680d46f6492544cfecfd.js>; rel=preload; as=script
+  Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </page-data/program/talks/i-can-t-believe-it-s-not-real-data-an-introduction-into-synthetic-data/page-data.json>; rel=preload; as=fetch; crossorigin
+/program/talks/i-have-to-confess-i-still-love-pandas
+  Link: </webpack-runtime-89c360b76fc281a2035a.js>; rel=preload; as=script
+  Link: </framework-0292a8b80de2284fae46.js>; rel=preload; as=script
+  Link: </252f366e-6a26a063c6c470e62569.js>; rel=preload; as=script
+  Link: </5e2a4920-7aa907ccc6d0eb7ce84f.js>; rel=preload; as=script
+  Link: </1bfc9850-24f8eebf27c7ed5bff0b.js>; rel=preload; as=script
+  Link: </app-cf04cea4824dc12858cb.js>; rel=preload; as=script
+  Link: </0f1ac474-46d92f3cd850c0c4478c.js>; rel=preload; as=script
+  Link: </component---src-templates-talk-page-js-680d46f6492544cfecfd.js>; rel=preload; as=script
+  Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </page-data/program/talks/i-have-to-confess-i-still-love-pandas/page-data.json>; rel=preload; as=fetch; crossorigin
+/program/talks/introducing-automated-machine-learning-with-python-and-azure
+  Link: </webpack-runtime-89c360b76fc281a2035a.js>; rel=preload; as=script
+  Link: </framework-0292a8b80de2284fae46.js>; rel=preload; as=script
+  Link: </252f366e-6a26a063c6c470e62569.js>; rel=preload; as=script
+  Link: </5e2a4920-7aa907ccc6d0eb7ce84f.js>; rel=preload; as=script
+  Link: </1bfc9850-24f8eebf27c7ed5bff0b.js>; rel=preload; as=script
+  Link: </app-cf04cea4824dc12858cb.js>; rel=preload; as=script
+  Link: </0f1ac474-46d92f3cd850c0c4478c.js>; rel=preload; as=script
+  Link: </component---src-templates-talk-page-js-680d46f6492544cfecfd.js>; rel=preload; as=script
+  Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </page-data/program/talks/introducing-automated-machine-learning-with-python-and-azure/page-data.json>; rel=preload; as=fetch; crossorigin
+/program/talks/intro-to-unit-testing-and-continuous-integration
+  Link: </webpack-runtime-89c360b76fc281a2035a.js>; rel=preload; as=script
+  Link: </framework-0292a8b80de2284fae46.js>; rel=preload; as=script
+  Link: </252f366e-6a26a063c6c470e62569.js>; rel=preload; as=script
+  Link: </5e2a4920-7aa907ccc6d0eb7ce84f.js>; rel=preload; as=script
+  Link: </1bfc9850-24f8eebf27c7ed5bff0b.js>; rel=preload; as=script
+  Link: </app-cf04cea4824dc12858cb.js>; rel=preload; as=script
+  Link: </0f1ac474-46d92f3cd850c0c4478c.js>; rel=preload; as=script
+  Link: </component---src-templates-talk-page-js-680d46f6492544cfecfd.js>; rel=preload; as=script
+  Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </page-data/program/talks/intro-to-unit-testing-and-continuous-integration/page-data.json>; rel=preload; as=fetch; crossorigin
+/program/talks/more-orm-than-good-stop-not-writing-sql
+  Link: </webpack-runtime-89c360b76fc281a2035a.js>; rel=preload; as=script
+  Link: </framework-0292a8b80de2284fae46.js>; rel=preload; as=script
+  Link: </252f366e-6a26a063c6c470e62569.js>; rel=preload; as=script
+  Link: </5e2a4920-7aa907ccc6d0eb7ce84f.js>; rel=preload; as=script
+  Link: </1bfc9850-24f8eebf27c7ed5bff0b.js>; rel=preload; as=script
+  Link: </app-cf04cea4824dc12858cb.js>; rel=preload; as=script
+  Link: </0f1ac474-46d92f3cd850c0c4478c.js>; rel=preload; as=script
+  Link: </component---src-templates-talk-page-js-680d46f6492544cfecfd.js>; rel=preload; as=script
+  Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </page-data/program/talks/more-orm-than-good-stop-not-writing-sql/page-data.json>; rel=preload; as=fetch; crossorigin
+/program/talks/jupyter-for-devops
+  Link: </webpack-runtime-89c360b76fc281a2035a.js>; rel=preload; as=script
+  Link: </framework-0292a8b80de2284fae46.js>; rel=preload; as=script
+  Link: </252f366e-6a26a063c6c470e62569.js>; rel=preload; as=script
+  Link: </5e2a4920-7aa907ccc6d0eb7ce84f.js>; rel=preload; as=script
+  Link: </1bfc9850-24f8eebf27c7ed5bff0b.js>; rel=preload; as=script
+  Link: </app-cf04cea4824dc12858cb.js>; rel=preload; as=script
+  Link: </0f1ac474-46d92f3cd850c0c4478c.js>; rel=preload; as=script
+  Link: </component---src-templates-talk-page-js-680d46f6492544cfecfd.js>; rel=preload; as=script
+  Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </page-data/program/talks/jupyter-for-devops/page-data.json>; rel=preload; as=fetch; crossorigin
+/program/talks/openapi-driven-development
+  Link: </webpack-runtime-89c360b76fc281a2035a.js>; rel=preload; as=script
+  Link: </framework-0292a8b80de2284fae46.js>; rel=preload; as=script
+  Link: </252f366e-6a26a063c6c470e62569.js>; rel=preload; as=script
+  Link: </5e2a4920-7aa907ccc6d0eb7ce84f.js>; rel=preload; as=script
+  Link: </1bfc9850-24f8eebf27c7ed5bff0b.js>; rel=preload; as=script
+  Link: </app-cf04cea4824dc12858cb.js>; rel=preload; as=script
+  Link: </0f1ac474-46d92f3cd850c0c4478c.js>; rel=preload; as=script
+  Link: </component---src-templates-talk-page-js-680d46f6492544cfecfd.js>; rel=preload; as=script
+  Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </page-data/program/talks/openapi-driven-development/page-data.json>; rel=preload; as=fetch; crossorigin
+/program/talks/make-python-deps-check-test-build-towards-clone-to-red-green-refactor-in-one-command
+  Link: </webpack-runtime-89c360b76fc281a2035a.js>; rel=preload; as=script
+  Link: </framework-0292a8b80de2284fae46.js>; rel=preload; as=script
+  Link: </252f366e-6a26a063c6c470e62569.js>; rel=preload; as=script
+  Link: </5e2a4920-7aa907ccc6d0eb7ce84f.js>; rel=preload; as=script
+  Link: </1bfc9850-24f8eebf27c7ed5bff0b.js>; rel=preload; as=script
+  Link: </app-cf04cea4824dc12858cb.js>; rel=preload; as=script
+  Link: </0f1ac474-46d92f3cd850c0c4478c.js>; rel=preload; as=script
+  Link: </component---src-templates-talk-page-js-680d46f6492544cfecfd.js>; rel=preload; as=script
+  Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </page-data/program/talks/make-python-deps-check-test-build-towards-clone-to-red-green-refactor-in-one-command/page-data.json>; rel=preload; as=fetch; crossorigin
+/program/talks/paginated-apis-x-python
+  Link: </webpack-runtime-89c360b76fc281a2035a.js>; rel=preload; as=script
+  Link: </framework-0292a8b80de2284fae46.js>; rel=preload; as=script
+  Link: </252f366e-6a26a063c6c470e62569.js>; rel=preload; as=script
+  Link: </5e2a4920-7aa907ccc6d0eb7ce84f.js>; rel=preload; as=script
+  Link: </1bfc9850-24f8eebf27c7ed5bff0b.js>; rel=preload; as=script
+  Link: </app-cf04cea4824dc12858cb.js>; rel=preload; as=script
+  Link: </0f1ac474-46d92f3cd850c0c4478c.js>; rel=preload; as=script
+  Link: </component---src-templates-talk-page-js-680d46f6492544cfecfd.js>; rel=preload; as=script
+  Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </page-data/program/talks/paginated-apis-x-python/page-data.json>; rel=preload; as=fetch; crossorigin
+/program/talks/intro-to-devops-in-python
+  Link: </webpack-runtime-89c360b76fc281a2035a.js>; rel=preload; as=script
+  Link: </framework-0292a8b80de2284fae46.js>; rel=preload; as=script
+  Link: </252f366e-6a26a063c6c470e62569.js>; rel=preload; as=script
+  Link: </5e2a4920-7aa907ccc6d0eb7ce84f.js>; rel=preload; as=script
+  Link: </1bfc9850-24f8eebf27c7ed5bff0b.js>; rel=preload; as=script
+  Link: </app-cf04cea4824dc12858cb.js>; rel=preload; as=script
+  Link: </0f1ac474-46d92f3cd850c0c4478c.js>; rel=preload; as=script
+  Link: </component---src-templates-talk-page-js-680d46f6492544cfecfd.js>; rel=preload; as=script
+  Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </page-data/program/talks/intro-to-devops-in-python/page-data.json>; rel=preload; as=fetch; crossorigin
+/program/talks/paving-an-easier-path-to-your-next-tech-job
+  Link: </webpack-runtime-89c360b76fc281a2035a.js>; rel=preload; as=script
+  Link: </framework-0292a8b80de2284fae46.js>; rel=preload; as=script
+  Link: </252f366e-6a26a063c6c470e62569.js>; rel=preload; as=script
+  Link: </5e2a4920-7aa907ccc6d0eb7ce84f.js>; rel=preload; as=script
+  Link: </1bfc9850-24f8eebf27c7ed5bff0b.js>; rel=preload; as=script
+  Link: </app-cf04cea4824dc12858cb.js>; rel=preload; as=script
+  Link: </0f1ac474-46d92f3cd850c0c4478c.js>; rel=preload; as=script
+  Link: </component---src-templates-talk-page-js-680d46f6492544cfecfd.js>; rel=preload; as=script
+  Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </page-data/program/talks/paving-an-easier-path-to-your-next-tech-job/page-data.json>; rel=preload; as=fetch; crossorigin
+/program/talks/remote-collaboration-how-to-build-human-connection-across-pixels
+  Link: </webpack-runtime-89c360b76fc281a2035a.js>; rel=preload; as=script
+  Link: </framework-0292a8b80de2284fae46.js>; rel=preload; as=script
+  Link: </252f366e-6a26a063c6c470e62569.js>; rel=preload; as=script
+  Link: </5e2a4920-7aa907ccc6d0eb7ce84f.js>; rel=preload; as=script
+  Link: </1bfc9850-24f8eebf27c7ed5bff0b.js>; rel=preload; as=script
+  Link: </app-cf04cea4824dc12858cb.js>; rel=preload; as=script
+  Link: </0f1ac474-46d92f3cd850c0c4478c.js>; rel=preload; as=script
+  Link: </component---src-templates-talk-page-js-680d46f6492544cfecfd.js>; rel=preload; as=script
+  Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </page-data/program/talks/remote-collaboration-how-to-build-human-connection-across-pixels/page-data.json>; rel=preload; as=fetch; crossorigin
+/program/talks/processing-large-data-with-pandas
+  Link: </webpack-runtime-89c360b76fc281a2035a.js>; rel=preload; as=script
+  Link: </framework-0292a8b80de2284fae46.js>; rel=preload; as=script
+  Link: </252f366e-6a26a063c6c470e62569.js>; rel=preload; as=script
+  Link: </5e2a4920-7aa907ccc6d0eb7ce84f.js>; rel=preload; as=script
+  Link: </1bfc9850-24f8eebf27c7ed5bff0b.js>; rel=preload; as=script
+  Link: </app-cf04cea4824dc12858cb.js>; rel=preload; as=script
+  Link: </0f1ac474-46d92f3cd850c0c4478c.js>; rel=preload; as=script
+  Link: </component---src-templates-talk-page-js-680d46f6492544cfecfd.js>; rel=preload; as=script
+  Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </page-data/program/talks/processing-large-data-with-pandas/page-data.json>; rel=preload; as=fetch; crossorigin
+/program/talks/run-js-a-new-library-for-running-javascript-modules-in-python
+  Link: </webpack-runtime-89c360b76fc281a2035a.js>; rel=preload; as=script
+  Link: </framework-0292a8b80de2284fae46.js>; rel=preload; as=script
+  Link: </252f366e-6a26a063c6c470e62569.js>; rel=preload; as=script
+  Link: </5e2a4920-7aa907ccc6d0eb7ce84f.js>; rel=preload; as=script
+  Link: </1bfc9850-24f8eebf27c7ed5bff0b.js>; rel=preload; as=script
+  Link: </app-cf04cea4824dc12858cb.js>; rel=preload; as=script
+  Link: </0f1ac474-46d92f3cd850c0c4478c.js>; rel=preload; as=script
+  Link: </component---src-templates-talk-page-js-680d46f6492544cfecfd.js>; rel=preload; as=script
+  Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </page-data/program/talks/run-js-a-new-library-for-running-javascript-modules-in-python/page-data.json>; rel=preload; as=fetch; crossorigin
+/program/talks/simplicity-and-fun-learning-with-circuitpython
+  Link: </webpack-runtime-89c360b76fc281a2035a.js>; rel=preload; as=script
+  Link: </framework-0292a8b80de2284fae46.js>; rel=preload; as=script
+  Link: </252f366e-6a26a063c6c470e62569.js>; rel=preload; as=script
+  Link: </5e2a4920-7aa907ccc6d0eb7ce84f.js>; rel=preload; as=script
+  Link: </1bfc9850-24f8eebf27c7ed5bff0b.js>; rel=preload; as=script
+  Link: </app-cf04cea4824dc12858cb.js>; rel=preload; as=script
+  Link: </0f1ac474-46d92f3cd850c0c4478c.js>; rel=preload; as=script
+  Link: </component---src-templates-talk-page-js-680d46f6492544cfecfd.js>; rel=preload; as=script
+  Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </page-data/program/talks/simplicity-and-fun-learning-with-circuitpython/page-data.json>; rel=preload; as=fetch; crossorigin
+/program/talks/that-belongs-in-a-table-migrating-data-from-json-to-sql
+  Link: </webpack-runtime-89c360b76fc281a2035a.js>; rel=preload; as=script
+  Link: </framework-0292a8b80de2284fae46.js>; rel=preload; as=script
+  Link: </252f366e-6a26a063c6c470e62569.js>; rel=preload; as=script
+  Link: </5e2a4920-7aa907ccc6d0eb7ce84f.js>; rel=preload; as=script
+  Link: </1bfc9850-24f8eebf27c7ed5bff0b.js>; rel=preload; as=script
+  Link: </app-cf04cea4824dc12858cb.js>; rel=preload; as=script
+  Link: </0f1ac474-46d92f3cd850c0c4478c.js>; rel=preload; as=script
+  Link: </component---src-templates-talk-page-js-680d46f6492544cfecfd.js>; rel=preload; as=script
+  Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </page-data/program/talks/that-belongs-in-a-table-migrating-data-from-json-to-sql/page-data.json>; rel=preload; as=fetch; crossorigin
+/program/talks/squid-games-irl-with-python
+  Link: </webpack-runtime-89c360b76fc281a2035a.js>; rel=preload; as=script
+  Link: </framework-0292a8b80de2284fae46.js>; rel=preload; as=script
+  Link: </252f366e-6a26a063c6c470e62569.js>; rel=preload; as=script
+  Link: </5e2a4920-7aa907ccc6d0eb7ce84f.js>; rel=preload; as=script
+  Link: </1bfc9850-24f8eebf27c7ed5bff0b.js>; rel=preload; as=script
+  Link: </app-cf04cea4824dc12858cb.js>; rel=preload; as=script
+  Link: </0f1ac474-46d92f3cd850c0c4478c.js>; rel=preload; as=script
+  Link: </component---src-templates-talk-page-js-680d46f6492544cfecfd.js>; rel=preload; as=script
+  Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </page-data/program/talks/squid-games-irl-with-python/page-data.json>; rel=preload; as=fetch; crossorigin
+/program/talks/what-is-a-reasonable-percentage-of-code-coverage-and-why-is-it-100
+  Link: </webpack-runtime-89c360b76fc281a2035a.js>; rel=preload; as=script
+  Link: </framework-0292a8b80de2284fae46.js>; rel=preload; as=script
+  Link: </252f366e-6a26a063c6c470e62569.js>; rel=preload; as=script
+  Link: </5e2a4920-7aa907ccc6d0eb7ce84f.js>; rel=preload; as=script
+  Link: </1bfc9850-24f8eebf27c7ed5bff0b.js>; rel=preload; as=script
+  Link: </app-cf04cea4824dc12858cb.js>; rel=preload; as=script
+  Link: </0f1ac474-46d92f3cd850c0c4478c.js>; rel=preload; as=script
+  Link: </component---src-templates-talk-page-js-680d46f6492544cfecfd.js>; rel=preload; as=script
+  Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </page-data/program/talks/what-is-a-reasonable-percentage-of-code-coverage-and-why-is-it-100/page-data.json>; rel=preload; as=fetch; crossorigin
+/program/talks/your-python-multi-tool-four-built-ins-and-a-module
+  Link: </webpack-runtime-89c360b76fc281a2035a.js>; rel=preload; as=script
+  Link: </framework-0292a8b80de2284fae46.js>; rel=preload; as=script
+  Link: </252f366e-6a26a063c6c470e62569.js>; rel=preload; as=script
+  Link: </5e2a4920-7aa907ccc6d0eb7ce84f.js>; rel=preload; as=script
+  Link: </1bfc9850-24f8eebf27c7ed5bff0b.js>; rel=preload; as=script
+  Link: </app-cf04cea4824dc12858cb.js>; rel=preload; as=script
+  Link: </0f1ac474-46d92f3cd850c0c4478c.js>; rel=preload; as=script
+  Link: </component---src-templates-talk-page-js-680d46f6492544cfecfd.js>; rel=preload; as=script
+  Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </page-data/program/talks/your-python-multi-tool-four-built-ins-and-a-module/page-data.json>; rel=preload; as=fetch; crossorigin
+/program/talks/why-visual-studio-code-is-the-ultimate-python-developer-tool
+  Link: </webpack-runtime-89c360b76fc281a2035a.js>; rel=preload; as=script
+  Link: </framework-0292a8b80de2284fae46.js>; rel=preload; as=script
+  Link: </252f366e-6a26a063c6c470e62569.js>; rel=preload; as=script
+  Link: </5e2a4920-7aa907ccc6d0eb7ce84f.js>; rel=preload; as=script
+  Link: </1bfc9850-24f8eebf27c7ed5bff0b.js>; rel=preload; as=script
+  Link: </app-cf04cea4824dc12858cb.js>; rel=preload; as=script
+  Link: </0f1ac474-46d92f3cd850c0c4478c.js>; rel=preload; as=script
+  Link: </component---src-templates-talk-page-js-680d46f6492544cfecfd.js>; rel=preload; as=script
+  Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </page-data/program/talks/why-visual-studio-code-is-the-ultimate-python-developer-tool/page-data.json>; rel=preload; as=fetch; crossorigin
+/program/speakers/anand-s
+  Link: </webpack-runtime-89c360b76fc281a2035a.js>; rel=preload; as=script
+  Link: </framework-0292a8b80de2284fae46.js>; rel=preload; as=script
+  Link: </252f366e-6a26a063c6c470e62569.js>; rel=preload; as=script
+  Link: </5e2a4920-7aa907ccc6d0eb7ce84f.js>; rel=preload; as=script
+  Link: </1bfc9850-24f8eebf27c7ed5bff0b.js>; rel=preload; as=script
+  Link: </app-cf04cea4824dc12858cb.js>; rel=preload; as=script
+  Link: </component---src-templates-speaker-page-js-4027b97c79f442561486.js>; rel=preload; as=script
+  Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </page-data/program/speakers/anand-s/page-data.json>; rel=preload; as=fetch; crossorigin
+/program/speakers/anay-pant
+  Link: </webpack-runtime-89c360b76fc281a2035a.js>; rel=preload; as=script
+  Link: </framework-0292a8b80de2284fae46.js>; rel=preload; as=script
+  Link: </252f366e-6a26a063c6c470e62569.js>; rel=preload; as=script
+  Link: </5e2a4920-7aa907ccc6d0eb7ce84f.js>; rel=preload; as=script
+  Link: </1bfc9850-24f8eebf27c7ed5bff0b.js>; rel=preload; as=script
+  Link: </app-cf04cea4824dc12858cb.js>; rel=preload; as=script
+  Link: </component---src-templates-speaker-page-js-4027b97c79f442561486.js>; rel=preload; as=script
+  Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </page-data/program/speakers/anay-pant/page-data.json>; rel=preload; as=fetch; crossorigin
+/program/speakers/amanda-quint
+  Link: </webpack-runtime-89c360b76fc281a2035a.js>; rel=preload; as=script
+  Link: </framework-0292a8b80de2284fae46.js>; rel=preload; as=script
+  Link: </252f366e-6a26a063c6c470e62569.js>; rel=preload; as=script
+  Link: </5e2a4920-7aa907ccc6d0eb7ce84f.js>; rel=preload; as=script
+  Link: </1bfc9850-24f8eebf27c7ed5bff0b.js>; rel=preload; as=script
+  Link: </app-cf04cea4824dc12858cb.js>; rel=preload; as=script
+  Link: </component---src-templates-speaker-page-js-4027b97c79f442561486.js>; rel=preload; as=script
+  Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </page-data/program/speakers/amanda-quint/page-data.json>; rel=preload; as=fetch; crossorigin
+/program/speakers/azan-bin-zahid
+  Link: </webpack-runtime-89c360b76fc281a2035a.js>; rel=preload; as=script
+  Link: </framework-0292a8b80de2284fae46.js>; rel=preload; as=script
+  Link: </252f366e-6a26a063c6c470e62569.js>; rel=preload; as=script
+  Link: </5e2a4920-7aa907ccc6d0eb7ce84f.js>; rel=preload; as=script
+  Link: </1bfc9850-24f8eebf27c7ed5bff0b.js>; rel=preload; as=script
+  Link: </app-cf04cea4824dc12858cb.js>; rel=preload; as=script
+  Link: </component---src-templates-speaker-page-js-4027b97c79f442561486.js>; rel=preload; as=script
+  Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </page-data/program/speakers/azan-bin-zahid/page-data.json>; rel=preload; as=fetch; crossorigin
+/program/speakers/calvin-hendryx-parker
+  Link: </webpack-runtime-89c360b76fc281a2035a.js>; rel=preload; as=script
+  Link: </framework-0292a8b80de2284fae46.js>; rel=preload; as=script
+  Link: </252f366e-6a26a063c6c470e62569.js>; rel=preload; as=script
+  Link: </5e2a4920-7aa907ccc6d0eb7ce84f.js>; rel=preload; as=script
+  Link: </1bfc9850-24f8eebf27c7ed5bff0b.js>; rel=preload; as=script
+  Link: </app-cf04cea4824dc12858cb.js>; rel=preload; as=script
+  Link: </component---src-templates-speaker-page-js-4027b97c79f442561486.js>; rel=preload; as=script
+  Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </page-data/program/speakers/calvin-hendryx-parker/page-data.json>; rel=preload; as=fetch; crossorigin
+/program/speakers/cadey
+  Link: </webpack-runtime-89c360b76fc281a2035a.js>; rel=preload; as=script
+  Link: </framework-0292a8b80de2284fae46.js>; rel=preload; as=script
+  Link: </252f366e-6a26a063c6c470e62569.js>; rel=preload; as=script
+  Link: </5e2a4920-7aa907ccc6d0eb7ce84f.js>; rel=preload; as=script
+  Link: </1bfc9850-24f8eebf27c7ed5bff0b.js>; rel=preload; as=script
+  Link: </app-cf04cea4824dc12858cb.js>; rel=preload; as=script
+  Link: </component---src-templates-speaker-page-js-4027b97c79f442561486.js>; rel=preload; as=script
+  Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </page-data/program/speakers/cadey/page-data.json>; rel=preload; as=fetch; crossorigin
+/program/speakers/catherine-devlin
+  Link: </webpack-runtime-89c360b76fc281a2035a.js>; rel=preload; as=script
+  Link: </framework-0292a8b80de2284fae46.js>; rel=preload; as=script
+  Link: </252f366e-6a26a063c6c470e62569.js>; rel=preload; as=script
+  Link: </5e2a4920-7aa907ccc6d0eb7ce84f.js>; rel=preload; as=script
+  Link: </1bfc9850-24f8eebf27c7ed5bff0b.js>; rel=preload; as=script
+  Link: </app-cf04cea4824dc12858cb.js>; rel=preload; as=script
+  Link: </component---src-templates-speaker-page-js-4027b97c79f442561486.js>; rel=preload; as=script
+  Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </page-data/program/speakers/catherine-devlin/page-data.json>; rel=preload; as=fetch; crossorigin
+/program/speakers/cheuk-ting-ho
+  Link: </webpack-runtime-89c360b76fc281a2035a.js>; rel=preload; as=script
+  Link: </framework-0292a8b80de2284fae46.js>; rel=preload; as=script
+  Link: </252f366e-6a26a063c6c470e62569.js>; rel=preload; as=script
+  Link: </5e2a4920-7aa907ccc6d0eb7ce84f.js>; rel=preload; as=script
+  Link: </1bfc9850-24f8eebf27c7ed5bff0b.js>; rel=preload; as=script
+  Link: </app-cf04cea4824dc12858cb.js>; rel=preload; as=script
+  Link: </component---src-templates-speaker-page-js-4027b97c79f442561486.js>; rel=preload; as=script
+  Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </page-data/program/speakers/cheuk-ting-ho/page-data.json>; rel=preload; as=fetch; crossorigin
+/program/speakers/chris-volny
+  Link: </webpack-runtime-89c360b76fc281a2035a.js>; rel=preload; as=script
+  Link: </framework-0292a8b80de2284fae46.js>; rel=preload; as=script
+  Link: </252f366e-6a26a063c6c470e62569.js>; rel=preload; as=script
+  Link: </5e2a4920-7aa907ccc6d0eb7ce84f.js>; rel=preload; as=script
+  Link: </1bfc9850-24f8eebf27c7ed5bff0b.js>; rel=preload; as=script
+  Link: </app-cf04cea4824dc12858cb.js>; rel=preload; as=script
+  Link: </component---src-templates-speaker-page-js-4027b97c79f442561486.js>; rel=preload; as=script
+  Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </page-data/program/speakers/chris-volny/page-data.json>; rel=preload; as=fetch; crossorigin
+/program/speakers/alex-zharichenko
+  Link: </webpack-runtime-89c360b76fc281a2035a.js>; rel=preload; as=script
+  Link: </framework-0292a8b80de2284fae46.js>; rel=preload; as=script
+  Link: </252f366e-6a26a063c6c470e62569.js>; rel=preload; as=script
+  Link: </5e2a4920-7aa907ccc6d0eb7ce84f.js>; rel=preload; as=script
+  Link: </1bfc9850-24f8eebf27c7ed5bff0b.js>; rel=preload; as=script
+  Link: </app-cf04cea4824dc12858cb.js>; rel=preload; as=script
+  Link: </component---src-templates-speaker-page-js-4027b97c79f442561486.js>; rel=preload; as=script
+  Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </page-data/program/speakers/alex-zharichenko/page-data.json>; rel=preload; as=fetch; crossorigin
+/program/speakers/daniel-dufour
+  Link: </webpack-runtime-89c360b76fc281a2035a.js>; rel=preload; as=script
+  Link: </framework-0292a8b80de2284fae46.js>; rel=preload; as=script
+  Link: </252f366e-6a26a063c6c470e62569.js>; rel=preload; as=script
+  Link: </5e2a4920-7aa907ccc6d0eb7ce84f.js>; rel=preload; as=script
+  Link: </1bfc9850-24f8eebf27c7ed5bff0b.js>; rel=preload; as=script
+  Link: </app-cf04cea4824dc12858cb.js>; rel=preload; as=script
+  Link: </component---src-templates-speaker-page-js-4027b97c79f442561486.js>; rel=preload; as=script
+  Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </page-data/program/speakers/daniel-dufour/page-data.json>; rel=preload; as=fetch; crossorigin
+/program/speakers/craig-lang
+  Link: </webpack-runtime-89c360b76fc281a2035a.js>; rel=preload; as=script
+  Link: </framework-0292a8b80de2284fae46.js>; rel=preload; as=script
+  Link: </252f366e-6a26a063c6c470e62569.js>; rel=preload; as=script
+  Link: </5e2a4920-7aa907ccc6d0eb7ce84f.js>; rel=preload; as=script
+  Link: </1bfc9850-24f8eebf27c7ed5bff0b.js>; rel=preload; as=script
+  Link: </app-cf04cea4824dc12858cb.js>; rel=preload; as=script
+  Link: </component---src-templates-speaker-page-js-4027b97c79f442561486.js>; rel=preload; as=script
+  Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </page-data/program/speakers/craig-lang/page-data.json>; rel=preload; as=fetch; crossorigin
+/program/speakers/douglas-starnes
+  Link: </webpack-runtime-89c360b76fc281a2035a.js>; rel=preload; as=script
+  Link: </framework-0292a8b80de2284fae46.js>; rel=preload; as=script
+  Link: </252f366e-6a26a063c6c470e62569.js>; rel=preload; as=script
+  Link: </5e2a4920-7aa907ccc6d0eb7ce84f.js>; rel=preload; as=script
+  Link: </1bfc9850-24f8eebf27c7ed5bff0b.js>; rel=preload; as=script
+  Link: </app-cf04cea4824dc12858cb.js>; rel=preload; as=script
+  Link: </component---src-templates-speaker-page-js-4027b97c79f442561486.js>; rel=preload; as=script
+  Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </page-data/program/speakers/douglas-starnes/page-data.json>; rel=preload; as=fetch; crossorigin
+/program/speakers/colin-dean
+  Link: </webpack-runtime-89c360b76fc281a2035a.js>; rel=preload; as=script
+  Link: </framework-0292a8b80de2284fae46.js>; rel=preload; as=script
+  Link: </252f366e-6a26a063c6c470e62569.js>; rel=preload; as=script
+  Link: </5e2a4920-7aa907ccc6d0eb7ce84f.js>; rel=preload; as=script
+  Link: </1bfc9850-24f8eebf27c7ed5bff0b.js>; rel=preload; as=script
+  Link: </app-cf04cea4824dc12858cb.js>; rel=preload; as=script
+  Link: </component---src-templates-speaker-page-js-4027b97c79f442561486.js>; rel=preload; as=script
+  Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </page-data/program/speakers/colin-dean/page-data.json>; rel=preload; as=fetch; crossorigin
+/program/speakers/erik-welch
+  Link: </webpack-runtime-89c360b76fc281a2035a.js>; rel=preload; as=script
+  Link: </framework-0292a8b80de2284fae46.js>; rel=preload; as=script
+  Link: </252f366e-6a26a063c6c470e62569.js>; rel=preload; as=script
+  Link: </5e2a4920-7aa907ccc6d0eb7ce84f.js>; rel=preload; as=script
+  Link: </1bfc9850-24f8eebf27c7ed5bff0b.js>; rel=preload; as=script
+  Link: </app-cf04cea4824dc12858cb.js>; rel=preload; as=script
+  Link: </component---src-templates-speaker-page-js-4027b97c79f442561486.js>; rel=preload; as=script
+  Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </page-data/program/speakers/erik-welch/page-data.json>; rel=preload; as=fetch; crossorigin
+/program/speakers/drake-pocsatko
+  Link: </webpack-runtime-89c360b76fc281a2035a.js>; rel=preload; as=script
+  Link: </framework-0292a8b80de2284fae46.js>; rel=preload; as=script
+  Link: </252f366e-6a26a063c6c470e62569.js>; rel=preload; as=script
+  Link: </5e2a4920-7aa907ccc6d0eb7ce84f.js>; rel=preload; as=script
+  Link: </1bfc9850-24f8eebf27c7ed5bff0b.js>; rel=preload; as=script
+  Link: </app-cf04cea4824dc12858cb.js>; rel=preload; as=script
+  Link: </component---src-templates-speaker-page-js-4027b97c79f442561486.js>; rel=preload; as=script
+  Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </page-data/program/speakers/drake-pocsatko/page-data.json>; rel=preload; as=fetch; crossorigin
+/program/speakers/jay-miller
+  Link: </webpack-runtime-89c360b76fc281a2035a.js>; rel=preload; as=script
+  Link: </framework-0292a8b80de2284fae46.js>; rel=preload; as=script
+  Link: </252f366e-6a26a063c6c470e62569.js>; rel=preload; as=script
+  Link: </5e2a4920-7aa907ccc6d0eb7ce84f.js>; rel=preload; as=script
+  Link: </1bfc9850-24f8eebf27c7ed5bff0b.js>; rel=preload; as=script
+  Link: </app-cf04cea4824dc12858cb.js>; rel=preload; as=script
+  Link: </component---src-templates-speaker-page-js-4027b97c79f442561486.js>; rel=preload; as=script
+  Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </page-data/program/speakers/jay-miller/page-data.json>; rel=preload; as=fetch; crossorigin
+/program/speakers/evelyn-j-boettcher
+  Link: </webpack-runtime-89c360b76fc281a2035a.js>; rel=preload; as=script
+  Link: </framework-0292a8b80de2284fae46.js>; rel=preload; as=script
+  Link: </252f366e-6a26a063c6c470e62569.js>; rel=preload; as=script
+  Link: </5e2a4920-7aa907ccc6d0eb7ce84f.js>; rel=preload; as=script
+  Link: </1bfc9850-24f8eebf27c7ed5bff0b.js>; rel=preload; as=script
+  Link: </app-cf04cea4824dc12858cb.js>; rel=preload; as=script
+  Link: </component---src-templates-speaker-page-js-4027b97c79f442561486.js>; rel=preload; as=script
+  Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </page-data/program/speakers/evelyn-j-boettcher/page-data.json>; rel=preload; as=fetch; crossorigin
+/program/speakers/josh-martin
+  Link: </webpack-runtime-89c360b76fc281a2035a.js>; rel=preload; as=script
+  Link: </framework-0292a8b80de2284fae46.js>; rel=preload; as=script
+  Link: </252f366e-6a26a063c6c470e62569.js>; rel=preload; as=script
+  Link: </5e2a4920-7aa907ccc6d0eb7ce84f.js>; rel=preload; as=script
+  Link: </1bfc9850-24f8eebf27c7ed5bff0b.js>; rel=preload; as=script
+  Link: </app-cf04cea4824dc12858cb.js>; rel=preload; as=script
+  Link: </component---src-templates-speaker-page-js-4027b97c79f442561486.js>; rel=preload; as=script
+  Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </page-data/program/speakers/josh-martin/page-data.json>; rel=preload; as=fetch; crossorigin
+/program/speakers/jason-wattier
+  Link: </webpack-runtime-89c360b76fc281a2035a.js>; rel=preload; as=script
+  Link: </framework-0292a8b80de2284fae46.js>; rel=preload; as=script
+  Link: </252f366e-6a26a063c6c470e62569.js>; rel=preload; as=script
+  Link: </5e2a4920-7aa907ccc6d0eb7ce84f.js>; rel=preload; as=script
+  Link: </1bfc9850-24f8eebf27c7ed5bff0b.js>; rel=preload; as=script
+  Link: </app-cf04cea4824dc12858cb.js>; rel=preload; as=script
+  Link: </component---src-templates-speaker-page-js-4027b97c79f442561486.js>; rel=preload; as=script
+  Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </page-data/program/speakers/jason-wattier/page-data.json>; rel=preload; as=fetch; crossorigin
+/program/speakers/mariatta
+  Link: </webpack-runtime-89c360b76fc281a2035a.js>; rel=preload; as=script
+  Link: </framework-0292a8b80de2284fae46.js>; rel=preload; as=script
+  Link: </252f366e-6a26a063c6c470e62569.js>; rel=preload; as=script
+  Link: </5e2a4920-7aa907ccc6d0eb7ce84f.js>; rel=preload; as=script
+  Link: </1bfc9850-24f8eebf27c7ed5bff0b.js>; rel=preload; as=script
+  Link: </app-cf04cea4824dc12858cb.js>; rel=preload; as=script
+  Link: </component---src-templates-speaker-page-js-4027b97c79f442561486.js>; rel=preload; as=script
+  Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </page-data/program/speakers/mariatta/page-data.json>; rel=preload; as=fetch; crossorigin
+/program/speakers/jurgen-gmach
+  Link: </webpack-runtime-89c360b76fc281a2035a.js>; rel=preload; as=script
+  Link: </framework-0292a8b80de2284fae46.js>; rel=preload; as=script
+  Link: </252f366e-6a26a063c6c470e62569.js>; rel=preload; as=script
+  Link: </5e2a4920-7aa907ccc6d0eb7ce84f.js>; rel=preload; as=script
+  Link: </1bfc9850-24f8eebf27c7ed5bff0b.js>; rel=preload; as=script
+  Link: </app-cf04cea4824dc12858cb.js>; rel=preload; as=script
+  Link: </component---src-templates-speaker-page-js-4027b97c79f442561486.js>; rel=preload; as=script
+  Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </page-data/program/speakers/jurgen-gmach/page-data.json>; rel=preload; as=fetch; crossorigin
+/program/speakers/matt-eland
+  Link: </webpack-runtime-89c360b76fc281a2035a.js>; rel=preload; as=script
+  Link: </framework-0292a8b80de2284fae46.js>; rel=preload; as=script
+  Link: </252f366e-6a26a063c6c470e62569.js>; rel=preload; as=script
+  Link: </5e2a4920-7aa907ccc6d0eb7ce84f.js>; rel=preload; as=script
+  Link: </1bfc9850-24f8eebf27c7ed5bff0b.js>; rel=preload; as=script
+  Link: </app-cf04cea4824dc12858cb.js>; rel=preload; as=script
+  Link: </component---src-templates-speaker-page-js-4027b97c79f442561486.js>; rel=preload; as=script
+  Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </page-data/program/speakers/matt-eland/page-data.json>; rel=preload; as=fetch; crossorigin
+/program/speakers/kattni
+  Link: </webpack-runtime-89c360b76fc281a2035a.js>; rel=preload; as=script
+  Link: </framework-0292a8b80de2284fae46.js>; rel=preload; as=script
+  Link: </252f366e-6a26a063c6c470e62569.js>; rel=preload; as=script
+  Link: </5e2a4920-7aa907ccc6d0eb7ce84f.js>; rel=preload; as=script
+  Link: </1bfc9850-24f8eebf27c7ed5bff0b.js>; rel=preload; as=script
+  Link: </app-cf04cea4824dc12858cb.js>; rel=preload; as=script
+  Link: </component---src-templates-speaker-page-js-4027b97c79f442561486.js>; rel=preload; as=script
+  Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </page-data/program/speakers/kattni/page-data.json>; rel=preload; as=fetch; crossorigin
+/program/speakers/mario-munoz
+  Link: </webpack-runtime-89c360b76fc281a2035a.js>; rel=preload; as=script
+  Link: </framework-0292a8b80de2284fae46.js>; rel=preload; as=script
+  Link: </252f366e-6a26a063c6c470e62569.js>; rel=preload; as=script
+  Link: </5e2a4920-7aa907ccc6d0eb7ce84f.js>; rel=preload; as=script
+  Link: </1bfc9850-24f8eebf27c7ed5bff0b.js>; rel=preload; as=script
+  Link: </app-cf04cea4824dc12858cb.js>; rel=preload; as=script
+  Link: </component---src-templates-speaker-page-js-4027b97c79f442561486.js>; rel=preload; as=script
+  Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </page-data/program/speakers/mario-munoz/page-data.json>; rel=preload; as=fetch; crossorigin
+/program/speakers/matt-land
+  Link: </webpack-runtime-89c360b76fc281a2035a.js>; rel=preload; as=script
+  Link: </framework-0292a8b80de2284fae46.js>; rel=preload; as=script
+  Link: </252f366e-6a26a063c6c470e62569.js>; rel=preload; as=script
+  Link: </5e2a4920-7aa907ccc6d0eb7ce84f.js>; rel=preload; as=script
+  Link: </1bfc9850-24f8eebf27c7ed5bff0b.js>; rel=preload; as=script
+  Link: </app-cf04cea4824dc12858cb.js>; rel=preload; as=script
+  Link: </component---src-templates-speaker-page-js-4027b97c79f442561486.js>; rel=preload; as=script
+  Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </page-data/program/speakers/matt-land/page-data.json>; rel=preload; as=fetch; crossorigin
+/program/speakers/mike-driscoll
+  Link: </webpack-runtime-89c360b76fc281a2035a.js>; rel=preload; as=script
+  Link: </framework-0292a8b80de2284fae46.js>; rel=preload; as=script
+  Link: </252f366e-6a26a063c6c470e62569.js>; rel=preload; as=script
+  Link: </5e2a4920-7aa907ccc6d0eb7ce84f.js>; rel=preload; as=script
+  Link: </1bfc9850-24f8eebf27c7ed5bff0b.js>; rel=preload; as=script
+  Link: </app-cf04cea4824dc12858cb.js>; rel=preload; as=script
+  Link: </component---src-templates-speaker-page-js-4027b97c79f442561486.js>; rel=preload; as=script
+  Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </page-data/program/speakers/mike-driscoll/page-data.json>; rel=preload; as=fetch; crossorigin
+/program/speakers/michael-n
+  Link: </webpack-runtime-89c360b76fc281a2035a.js>; rel=preload; as=script
+  Link: </framework-0292a8b80de2284fae46.js>; rel=preload; as=script
+  Link: </252f366e-6a26a063c6c470e62569.js>; rel=preload; as=script
+  Link: </5e2a4920-7aa907ccc6d0eb7ce84f.js>; rel=preload; as=script
+  Link: </1bfc9850-24f8eebf27c7ed5bff0b.js>; rel=preload; as=script
+  Link: </app-cf04cea4824dc12858cb.js>; rel=preload; as=script
+  Link: </component---src-templates-speaker-page-js-4027b97c79f442561486.js>; rel=preload; as=script
+  Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </page-data/program/speakers/michael-n/page-data.json>; rel=preload; as=fetch; crossorigin
+/program/speakers/olmo-maldonado
+  Link: </webpack-runtime-89c360b76fc281a2035a.js>; rel=preload; as=script
+  Link: </framework-0292a8b80de2284fae46.js>; rel=preload; as=script
+  Link: </252f366e-6a26a063c6c470e62569.js>; rel=preload; as=script
+  Link: </5e2a4920-7aa907ccc6d0eb7ce84f.js>; rel=preload; as=script
+  Link: </1bfc9850-24f8eebf27c7ed5bff0b.js>; rel=preload; as=script
+  Link: </app-cf04cea4824dc12858cb.js>; rel=preload; as=script
+  Link: </component---src-templates-speaker-page-js-4027b97c79f442561486.js>; rel=preload; as=script
+  Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </page-data/program/speakers/olmo-maldonado/page-data.json>; rel=preload; as=fetch; crossorigin
+/program/speakers/mason-egger
+  Link: </webpack-runtime-89c360b76fc281a2035a.js>; rel=preload; as=script
+  Link: </framework-0292a8b80de2284fae46.js>; rel=preload; as=script
+  Link: </252f366e-6a26a063c6c470e62569.js>; rel=preload; as=script
+  Link: </5e2a4920-7aa907ccc6d0eb7ce84f.js>; rel=preload; as=script
+  Link: </1bfc9850-24f8eebf27c7ed5bff0b.js>; rel=preload; as=script
+  Link: </app-cf04cea4824dc12858cb.js>; rel=preload; as=script
+  Link: </component---src-templates-speaker-page-js-4027b97c79f442561486.js>; rel=preload; as=script
+  Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </page-data/program/speakers/mason-egger/page-data.json>; rel=preload; as=fetch; crossorigin
+/program/speakers/moshe-zadka
+  Link: </webpack-runtime-89c360b76fc281a2035a.js>; rel=preload; as=script
+  Link: </framework-0292a8b80de2284fae46.js>; rel=preload; as=script
+  Link: </252f366e-6a26a063c6c470e62569.js>; rel=preload; as=script
+  Link: </5e2a4920-7aa907ccc6d0eb7ce84f.js>; rel=preload; as=script
+  Link: </1bfc9850-24f8eebf27c7ed5bff0b.js>; rel=preload; as=script
+  Link: </app-cf04cea4824dc12858cb.js>; rel=preload; as=script
+  Link: </component---src-templates-speaker-page-js-4027b97c79f442561486.js>; rel=preload; as=script
+  Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </page-data/program/speakers/moshe-zadka/page-data.json>; rel=preload; as=fetch; crossorigin
+/program/speakers/pandy-knight
+  Link: </webpack-runtime-89c360b76fc281a2035a.js>; rel=preload; as=script
+  Link: </framework-0292a8b80de2284fae46.js>; rel=preload; as=script
+  Link: </252f366e-6a26a063c6c470e62569.js>; rel=preload; as=script
+  Link: </5e2a4920-7aa907ccc6d0eb7ce84f.js>; rel=preload; as=script
+  Link: </1bfc9850-24f8eebf27c7ed5bff0b.js>; rel=preload; as=script
+  Link: </app-cf04cea4824dc12858cb.js>; rel=preload; as=script
+  Link: </component---src-templates-speaker-page-js-4027b97c79f442561486.js>; rel=preload; as=script
+  Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </page-data/program/speakers/pandy-knight/page-data.json>; rel=preload; as=fetch; crossorigin
+/program/speakers/peter-bosch
+  Link: </webpack-runtime-89c360b76fc281a2035a.js>; rel=preload; as=script
+  Link: </framework-0292a8b80de2284fae46.js>; rel=preload; as=script
+  Link: </252f366e-6a26a063c6c470e62569.js>; rel=preload; as=script
+  Link: </5e2a4920-7aa907ccc6d0eb7ce84f.js>; rel=preload; as=script
+  Link: </1bfc9850-24f8eebf27c7ed5bff0b.js>; rel=preload; as=script
+  Link: </app-cf04cea4824dc12858cb.js>; rel=preload; as=script
+  Link: </component---src-templates-speaker-page-js-4027b97c79f442561486.js>; rel=preload; as=script
+  Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </page-data/program/speakers/peter-bosch/page-data.json>; rel=preload; as=fetch; crossorigin
+/program/speakers/rainu-ittycheriah
+  Link: </webpack-runtime-89c360b76fc281a2035a.js>; rel=preload; as=script
+  Link: </framework-0292a8b80de2284fae46.js>; rel=preload; as=script
+  Link: </252f366e-6a26a063c6c470e62569.js>; rel=preload; as=script
+  Link: </5e2a4920-7aa907ccc6d0eb7ce84f.js>; rel=preload; as=script
+  Link: </1bfc9850-24f8eebf27c7ed5bff0b.js>; rel=preload; as=script
+  Link: </app-cf04cea4824dc12858cb.js>; rel=preload; as=script
+  Link: </component---src-templates-speaker-page-js-4027b97c79f442561486.js>; rel=preload; as=script
+  Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </page-data/program/speakers/rainu-ittycheriah/page-data.json>; rel=preload; as=fetch; crossorigin
+/program/speakers/reshama-shaikh
+  Link: </webpack-runtime-89c360b76fc281a2035a.js>; rel=preload; as=script
+  Link: </framework-0292a8b80de2284fae46.js>; rel=preload; as=script
+  Link: </252f366e-6a26a063c6c470e62569.js>; rel=preload; as=script
+  Link: </5e2a4920-7aa907ccc6d0eb7ce84f.js>; rel=preload; as=script
+  Link: </1bfc9850-24f8eebf27c7ed5bff0b.js>; rel=preload; as=script
+  Link: </app-cf04cea4824dc12858cb.js>; rel=preload; as=script
+  Link: </component---src-templates-speaker-page-js-4027b97c79f442561486.js>; rel=preload; as=script
+  Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </page-data/program/speakers/reshama-shaikh/page-data.json>; rel=preload; as=fetch; crossorigin
+/program/speakers/sarah-cummings
+  Link: </webpack-runtime-89c360b76fc281a2035a.js>; rel=preload; as=script
+  Link: </framework-0292a8b80de2284fae46.js>; rel=preload; as=script
+  Link: </252f366e-6a26a063c6c470e62569.js>; rel=preload; as=script
+  Link: </5e2a4920-7aa907ccc6d0eb7ce84f.js>; rel=preload; as=script
+  Link: </1bfc9850-24f8eebf27c7ed5bff0b.js>; rel=preload; as=script
+  Link: </app-cf04cea4824dc12858cb.js>; rel=preload; as=script
+  Link: </component---src-templates-speaker-page-js-4027b97c79f442561486.js>; rel=preload; as=script
+  Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </page-data/program/speakers/sarah-cummings/page-data.json>; rel=preload; as=fetch; crossorigin
+/program/speakers/rodrigo-girao-serrao
+  Link: </webpack-runtime-89c360b76fc281a2035a.js>; rel=preload; as=script
+  Link: </framework-0292a8b80de2284fae46.js>; rel=preload; as=script
+  Link: </252f366e-6a26a063c6c470e62569.js>; rel=preload; as=script
+  Link: </5e2a4920-7aa907ccc6d0eb7ce84f.js>; rel=preload; as=script
+  Link: </1bfc9850-24f8eebf27c7ed5bff0b.js>; rel=preload; as=script
+  Link: </app-cf04cea4824dc12858cb.js>; rel=preload; as=script
+  Link: </component---src-templates-speaker-page-js-4027b97c79f442561486.js>; rel=preload; as=script
+  Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </page-data/program/speakers/rodrigo-girao-serrao/page-data.json>; rel=preload; as=fetch; crossorigin
+/program/speakers/shreya-khurana
+  Link: </webpack-runtime-89c360b76fc281a2035a.js>; rel=preload; as=script
+  Link: </framework-0292a8b80de2284fae46.js>; rel=preload; as=script
+  Link: </252f366e-6a26a063c6c470e62569.js>; rel=preload; as=script
+  Link: </5e2a4920-7aa907ccc6d0eb7ce84f.js>; rel=preload; as=script
+  Link: </1bfc9850-24f8eebf27c7ed5bff0b.js>; rel=preload; as=script
+  Link: </app-cf04cea4824dc12858cb.js>; rel=preload; as=script
+  Link: </component---src-templates-speaker-page-js-4027b97c79f442561486.js>; rel=preload; as=script
+  Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </page-data/program/speakers/shreya-khurana/page-data.json>; rel=preload; as=fetch; crossorigin
+/program/speakers/will-angel
+  Link: </webpack-runtime-89c360b76fc281a2035a.js>; rel=preload; as=script
+  Link: </framework-0292a8b80de2284fae46.js>; rel=preload; as=script
+  Link: </252f366e-6a26a063c6c470e62569.js>; rel=preload; as=script
+  Link: </5e2a4920-7aa907ccc6d0eb7ce84f.js>; rel=preload; as=script
+  Link: </1bfc9850-24f8eebf27c7ed5bff0b.js>; rel=preload; as=script
+  Link: </app-cf04cea4824dc12858cb.js>; rel=preload; as=script
+  Link: </component---src-templates-speaker-page-js-4027b97c79f442561486.js>; rel=preload; as=script
+  Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </page-data/program/speakers/will-angel/page-data.json>; rel=preload; as=fetch; crossorigin
+/program/schedule/
+  Link: </webpack-runtime-89c360b76fc281a2035a.js>; rel=preload; as=script
+  Link: </framework-0292a8b80de2284fae46.js>; rel=preload; as=script
+  Link: </252f366e-6a26a063c6c470e62569.js>; rel=preload; as=script
+  Link: </5e2a4920-7aa907ccc6d0eb7ce84f.js>; rel=preload; as=script
+  Link: </1bfc9850-24f8eebf27c7ed5bff0b.js>; rel=preload; as=script
+  Link: </app-cf04cea4824dc12858cb.js>; rel=preload; as=script
+  Link: </0f1ac474-46d92f3cd850c0c4478c.js>; rel=preload; as=script
+  Link: </component---content-pages-program-schedule-js-51d3df458ed7ec382269.js>; rel=preload; as=script
+  Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </page-data/program/schedule/page-data.json>; rel=preload; as=fetch; crossorigin
+/program/speakers/
+  Link: </webpack-runtime-89c360b76fc281a2035a.js>; rel=preload; as=script
+  Link: </framework-0292a8b80de2284fae46.js>; rel=preload; as=script
+  Link: </252f366e-6a26a063c6c470e62569.js>; rel=preload; as=script
+  Link: </5e2a4920-7aa907ccc6d0eb7ce84f.js>; rel=preload; as=script
+  Link: </1bfc9850-24f8eebf27c7ed5bff0b.js>; rel=preload; as=script
+  Link: </app-cf04cea4824dc12858cb.js>; rel=preload; as=script
+  Link: </component---content-pages-program-speakers-js-6aac4242fefdea8a1134.js>; rel=preload; as=script
+  Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </page-data/program/speakers/page-data.json>; rel=preload; as=fetch; crossorigin
+/program/talks/
+  Link: </webpack-runtime-89c360b76fc281a2035a.js>; rel=preload; as=script
+  Link: </framework-0292a8b80de2284fae46.js>; rel=preload; as=script
+  Link: </252f366e-6a26a063c6c470e62569.js>; rel=preload; as=script
+  Link: </5e2a4920-7aa907ccc6d0eb7ce84f.js>; rel=preload; as=script
+  Link: </1bfc9850-24f8eebf27c7ed5bff0b.js>; rel=preload; as=script
+  Link: </app-cf04cea4824dc12858cb.js>; rel=preload; as=script
+  Link: </component---content-pages-program-talks-js-7329fdabafb462695794.js>; rel=preload; as=script
+  Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </page-data/program/talks/page-data.json>; rel=preload; as=fetch; crossorigin
+/404/
+  Link: </webpack-runtime-89c360b76fc281a2035a.js>; rel=preload; as=script
+  Link: </framework-0292a8b80de2284fae46.js>; rel=preload; as=script
+  Link: </252f366e-6a26a063c6c470e62569.js>; rel=preload; as=script
+  Link: </5e2a4920-7aa907ccc6d0eb7ce84f.js>; rel=preload; as=script
+  Link: </1bfc9850-24f8eebf27c7ed5bff0b.js>; rel=preload; as=script
+  Link: </app-cf04cea4824dc12858cb.js>; rel=preload; as=script
+  Link: </component---content-pages-404-mdx-075d08f62f172dd066b7.js>; rel=preload; as=script
+  Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </page-data/404/page-data.json>; rel=preload; as=fetch; crossorigin
+/
+  Link: </webpack-runtime-89c360b76fc281a2035a.js>; rel=preload; as=script
+  Link: </framework-0292a8b80de2284fae46.js>; rel=preload; as=script
+  Link: </252f366e-6a26a063c6c470e62569.js>; rel=preload; as=script
+  Link: </5e2a4920-7aa907ccc6d0eb7ce84f.js>; rel=preload; as=script
+  Link: </1bfc9850-24f8eebf27c7ed5bff0b.js>; rel=preload; as=script
+  Link: </app-cf04cea4824dc12858cb.js>; rel=preload; as=script
+  Link: </component---content-pages-index-mdx-1008fc8cb2c89ab6abf4.js>; rel=preload; as=script
+  Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </page-data/index/page-data.json>; rel=preload; as=fetch; crossorigin
+/example/
+  Link: </webpack-runtime-89c360b76fc281a2035a.js>; rel=preload; as=script
+  Link: </framework-0292a8b80de2284fae46.js>; rel=preload; as=script
+  Link: </252f366e-6a26a063c6c470e62569.js>; rel=preload; as=script
+  Link: </5e2a4920-7aa907ccc6d0eb7ce84f.js>; rel=preload; as=script
+  Link: </1bfc9850-24f8eebf27c7ed5bff0b.js>; rel=preload; as=script
+  Link: </app-cf04cea4824dc12858cb.js>; rel=preload; as=script
+  Link: </component---content-pages-example-mdx-8480d39634054332501f.js>; rel=preload; as=script
+  Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </page-data/example/page-data.json>; rel=preload; as=fetch; crossorigin
+/404.html
+  Link: </webpack-runtime-89c360b76fc281a2035a.js>; rel=preload; as=script
+  Link: </framework-0292a8b80de2284fae46.js>; rel=preload; as=script
+  Link: </252f366e-6a26a063c6c470e62569.js>; rel=preload; as=script
+  Link: </5e2a4920-7aa907ccc6d0eb7ce84f.js>; rel=preload; as=script
+  Link: </1bfc9850-24f8eebf27c7ed5bff0b.js>; rel=preload; as=script
+  Link: </app-cf04cea4824dc12858cb.js>; rel=preload; as=script
+  Link: </component---content-pages-404-mdx-075d08f62f172dd066b7.js>; rel=preload; as=script
+  Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </page-data/404.html/page-data.json>; rel=preload; as=fetch; crossorigin
+/participate/shirts/
+  Link: </webpack-runtime-89c360b76fc281a2035a.js>; rel=preload; as=script
+  Link: </framework-0292a8b80de2284fae46.js>; rel=preload; as=script
+  Link: </252f366e-6a26a063c6c470e62569.js>; rel=preload; as=script
+  Link: </5e2a4920-7aa907ccc6d0eb7ce84f.js>; rel=preload; as=script
+  Link: </1bfc9850-24f8eebf27c7ed5bff0b.js>; rel=preload; as=script
+  Link: </app-cf04cea4824dc12858cb.js>; rel=preload; as=script
+  Link: </component---content-pages-participate-shirts-mdx-affd9a84ac434a4b5303.js>; rel=preload; as=script
+  Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </page-data/participate/shirts/page-data.json>; rel=preload; as=fetch; crossorigin
+/participate/
+  Link: </webpack-runtime-89c360b76fc281a2035a.js>; rel=preload; as=script
+  Link: </framework-0292a8b80de2284fae46.js>; rel=preload; as=script
+  Link: </252f366e-6a26a063c6c470e62569.js>; rel=preload; as=script
+  Link: </5e2a4920-7aa907ccc6d0eb7ce84f.js>; rel=preload; as=script
+  Link: </1bfc9850-24f8eebf27c7ed5bff0b.js>; rel=preload; as=script
+  Link: </app-cf04cea4824dc12858cb.js>; rel=preload; as=script
+  Link: </component---content-pages-participate-index-mdx-e4da3c9be4a95c310872.js>; rel=preload; as=script
+  Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </page-data/participate/page-data.json>; rel=preload; as=fetch; crossorigin
+/about/
+  Link: </webpack-runtime-89c360b76fc281a2035a.js>; rel=preload; as=script
+  Link: </framework-0292a8b80de2284fae46.js>; rel=preload; as=script
+  Link: </252f366e-6a26a063c6c470e62569.js>; rel=preload; as=script
+  Link: </5e2a4920-7aa907ccc6d0eb7ce84f.js>; rel=preload; as=script
+  Link: </1bfc9850-24f8eebf27c7ed5bff0b.js>; rel=preload; as=script
+  Link: </app-cf04cea4824dc12858cb.js>; rel=preload; as=script
+  Link: </component---content-pages-about-index-mdx-1a462bc5356467bda667.js>; rel=preload; as=script
+  Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </page-data/about/page-data.json>; rel=preload; as=fetch; crossorigin
+/participate/register/
+  Link: </webpack-runtime-89c360b76fc281a2035a.js>; rel=preload; as=script
+  Link: </framework-0292a8b80de2284fae46.js>; rel=preload; as=script
+  Link: </252f366e-6a26a063c6c470e62569.js>; rel=preload; as=script
+  Link: </5e2a4920-7aa907ccc6d0eb7ce84f.js>; rel=preload; as=script
+  Link: </1bfc9850-24f8eebf27c7ed5bff0b.js>; rel=preload; as=script
+  Link: </app-cf04cea4824dc12858cb.js>; rel=preload; as=script
+  Link: </component---content-pages-participate-register-mdx-bd1406a1f1d295ccb9be.js>; rel=preload; as=script
+  Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </page-data/participate/register/page-data.json>; rel=preload; as=fetch; crossorigin
+/about/ohpyo/
+  Link: </webpack-runtime-89c360b76fc281a2035a.js>; rel=preload; as=script
+  Link: </framework-0292a8b80de2284fae46.js>; rel=preload; as=script
+  Link: </252f366e-6a26a063c6c470e62569.js>; rel=preload; as=script
+  Link: </5e2a4920-7aa907ccc6d0eb7ce84f.js>; rel=preload; as=script
+  Link: </1bfc9850-24f8eebf27c7ed5bff0b.js>; rel=preload; as=script
+  Link: </app-cf04cea4824dc12858cb.js>; rel=preload; as=script
+  Link: </component---content-pages-about-ohpyo-mdx-80f373f4ac9c452a7b5a.js>; rel=preload; as=script
+  Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </page-data/about/ohpyo/page-data.json>; rel=preload; as=fetch; crossorigin
+/program/
+  Link: </webpack-runtime-89c360b76fc281a2035a.js>; rel=preload; as=script
+  Link: </framework-0292a8b80de2284fae46.js>; rel=preload; as=script
+  Link: </252f366e-6a26a063c6c470e62569.js>; rel=preload; as=script
+  Link: </5e2a4920-7aa907ccc6d0eb7ce84f.js>; rel=preload; as=script
+  Link: </1bfc9850-24f8eebf27c7ed5bff0b.js>; rel=preload; as=script
+  Link: </app-cf04cea4824dc12858cb.js>; rel=preload; as=script
+  Link: </component---content-pages-program-index-mdx-8647905bc195ec89ba4f.js>; rel=preload; as=script
+  Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </page-data/program/page-data.json>; rel=preload; as=fetch; crossorigin
+/speaking/call-for-proposals/
+  Link: </webpack-runtime-89c360b76fc281a2035a.js>; rel=preload; as=script
+  Link: </framework-0292a8b80de2284fae46.js>; rel=preload; as=script
+  Link: </252f366e-6a26a063c6c470e62569.js>; rel=preload; as=script
+  Link: </5e2a4920-7aa907ccc6d0eb7ce84f.js>; rel=preload; as=script
+  Link: </1bfc9850-24f8eebf27c7ed5bff0b.js>; rel=preload; as=script
+  Link: </app-cf04cea4824dc12858cb.js>; rel=preload; as=script
+  Link: </component---content-pages-speaking-call-for-proposals-mdx-1a26c274b401bb4daa8e.js>; rel=preload; as=script
+  Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </page-data/speaking/call-for-proposals/page-data.json>; rel=preload; as=fetch; crossorigin
+/about/newsletter/
+  Link: </webpack-runtime-89c360b76fc281a2035a.js>; rel=preload; as=script
+  Link: </framework-0292a8b80de2284fae46.js>; rel=preload; as=script
+  Link: </252f366e-6a26a063c6c470e62569.js>; rel=preload; as=script
+  Link: </5e2a4920-7aa907ccc6d0eb7ce84f.js>; rel=preload; as=script
+  Link: </1bfc9850-24f8eebf27c7ed5bff0b.js>; rel=preload; as=script
+  Link: </app-cf04cea4824dc12858cb.js>; rel=preload; as=script
+  Link: </component---content-pages-about-newsletter-mdx-671c3df3eb526c4d9a7c.js>; rel=preload; as=script
+  Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </page-data/about/newsletter/page-data.json>; rel=preload; as=fetch; crossorigin
+/about/code-of-conduct/
+  Link: </webpack-runtime-89c360b76fc281a2035a.js>; rel=preload; as=script
+  Link: </framework-0292a8b80de2284fae46.js>; rel=preload; as=script
+  Link: </252f366e-6a26a063c6c470e62569.js>; rel=preload; as=script
+  Link: </5e2a4920-7aa907ccc6d0eb7ce84f.js>; rel=preload; as=script
+  Link: </1bfc9850-24f8eebf27c7ed5bff0b.js>; rel=preload; as=script
+  Link: </app-cf04cea4824dc12858cb.js>; rel=preload; as=script
+  Link: </component---content-pages-about-code-of-conduct-index-mdx-1dac3e9012f7b7397c8b.js>; rel=preload; as=script
+  Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </page-data/about/code-of-conduct/page-data.json>; rel=preload; as=fetch; crossorigin
+/speaking/speaker-info/
+  Link: </webpack-runtime-89c360b76fc281a2035a.js>; rel=preload; as=script
+  Link: </framework-0292a8b80de2284fae46.js>; rel=preload; as=script
+  Link: </252f366e-6a26a063c6c470e62569.js>; rel=preload; as=script
+  Link: </5e2a4920-7aa907ccc6d0eb7ce84f.js>; rel=preload; as=script
+  Link: </1bfc9850-24f8eebf27c7ed5bff0b.js>; rel=preload; as=script
+  Link: </app-cf04cea4824dc12858cb.js>; rel=preload; as=script
+  Link: </component---content-pages-speaking-speaker-info-mdx-d69a963017fcd15370cc.js>; rel=preload; as=script
+  Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </page-data/speaking/speaker-info/page-data.json>; rel=preload; as=fetch; crossorigin
+/about/code-of-conduct/reporting-procedure/
+  Link: </webpack-runtime-89c360b76fc281a2035a.js>; rel=preload; as=script
+  Link: </framework-0292a8b80de2284fae46.js>; rel=preload; as=script
+  Link: </252f366e-6a26a063c6c470e62569.js>; rel=preload; as=script
+  Link: </5e2a4920-7aa907ccc6d0eb7ce84f.js>; rel=preload; as=script
+  Link: </1bfc9850-24f8eebf27c7ed5bff0b.js>; rel=preload; as=script
+  Link: </app-cf04cea4824dc12858cb.js>; rel=preload; as=script
+  Link: </component---content-pages-about-code-of-conduct-reporting-procedure-mdx-02c29939b0f2a81e6e14.js>; rel=preload; as=script
+  Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </page-data/about/code-of-conduct/reporting-procedure/page-data.json>; rel=preload; as=fetch; crossorigin
+/about/code-of-conduct/staff-procedure/
+  Link: </webpack-runtime-89c360b76fc281a2035a.js>; rel=preload; as=script
+  Link: </framework-0292a8b80de2284fae46.js>; rel=preload; as=script
+  Link: </252f366e-6a26a063c6c470e62569.js>; rel=preload; as=script
+  Link: </5e2a4920-7aa907ccc6d0eb7ce84f.js>; rel=preload; as=script
+  Link: </1bfc9850-24f8eebf27c7ed5bff0b.js>; rel=preload; as=script
+  Link: </app-cf04cea4824dc12858cb.js>; rel=preload; as=script
+  Link: </component---content-pages-about-code-of-conduct-staff-procedure-mdx-e99823292be4eec1c38b.js>; rel=preload; as=script
+  Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </page-data/about/code-of-conduct/staff-procedure/page-data.json>; rel=preload; as=fetch; crossorigin
