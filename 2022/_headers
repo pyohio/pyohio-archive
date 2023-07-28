@@ -1,0 +1,1088 @@
+## Created with gatsby-plugin-netlify
+
+/*
+  X-Frame-Options: DENY
+  X-XSS-Protection: 1; mode=block
+  X-Content-Type-Options: nosniff
+  Referrer-Policy: same-origin
+/0f1ac474-46d92f3cd850c0c4478c.js
+  Cache-Control: public, max-age=31536000, immutable
+/component---src-templates-talk-page-js-437b5a831679d9ec1d2a.js
+  Cache-Control: public, max-age=31536000, immutable
+/component---src-templates-speaker-page-js-4027b97c79f442561486.js
+  Cache-Control: public, max-age=31536000, immutable
+/component---content-pages-program-schedule-js-a735ccb2ce1ad77f8b30.js
+  Cache-Control: public, max-age=31536000, immutable
+/component---content-pages-program-speakers-js-6aac4242fefdea8a1134.js
+  Cache-Control: public, max-age=31536000, immutable
+/component---content-pages-program-talks-js-847ab47424887d8c8457.js
+  Cache-Control: public, max-age=31536000, immutable
+/component---content-pages-404-mdx-075d08f62f172dd066b7.js
+  Cache-Control: public, max-age=31536000, immutable
+/component---content-pages-index-mdx-5a8a5cea3d2037249300.js
+  Cache-Control: public, max-age=31536000, immutable
+/component---content-pages-participate-register-mdx-bd1406a1f1d295ccb9be.js
+  Cache-Control: public, max-age=31536000, immutable
+/component---content-pages-participate-shirts-mdx-5186b370e104cb0e365f.js
+  Cache-Control: public, max-age=31536000, immutable
+/component---content-pages-example-mdx-8480d39634054332501f.js
+  Cache-Control: public, max-age=31536000, immutable
+/component---content-pages-participate-index-mdx-da45207316e5b91435a0.js
+  Cache-Control: public, max-age=31536000, immutable
+/component---content-pages-about-index-mdx-e08f33d2d21a49e8b86b.js
+  Cache-Control: public, max-age=31536000, immutable
+/component---content-pages-participate-volunteer-mdx-80e58ef2e161bf9877db.js
+  Cache-Control: public, max-age=31536000, immutable
+/component---content-pages-about-newsletter-mdx-671c3df3eb526c4d9a7c.js
+  Cache-Control: public, max-age=31536000, immutable
+/component---content-pages-about-ohpyo-mdx-80f373f4ac9c452a7b5a.js
+  Cache-Control: public, max-age=31536000, immutable
+/component---content-pages-speaking-speaker-info-mdx-71d84aeaa2e3fdcf2d6f.js
+  Cache-Control: public, max-age=31536000, immutable
+/component---content-pages-speaking-call-for-proposals-mdx-77c1b462e7af1f0e62e1.js
+  Cache-Control: public, max-age=31536000, immutable
+/component---content-pages-about-code-of-conduct-index-mdx-e0a8315da730466d8147.js
+  Cache-Control: public, max-age=31536000, immutable
+/component---content-pages-about-code-of-conduct-staff-procedure-mdx-9449fa5fd8ff4b3d5d51.js
+  Cache-Control: public, max-age=31536000, immutable
+/component---content-pages-about-code-of-conduct-reporting-procedure-mdx-d15939b6f7ec390130b3.js
+  Cache-Control: public, max-age=31536000, immutable
+/component---content-pages-program-index-mdx-8647905bc195ec89ba4f.js
+  Cache-Control: public, max-age=31536000, immutable
+/webpack-runtime-f0b91b3733b1d48bd6d7.js
+  Cache-Control: public, max-age=31536000, immutable
+/framework-0292a8b80de2284fae46.js
+  Cache-Control: public, max-age=31536000, immutable
+/252f366e-6a26a063c6c470e62569.js
+  Cache-Control: public, max-age=31536000, immutable
+/5e2a4920-7aa907ccc6d0eb7ce84f.js
+  Cache-Control: public, max-age=31536000, immutable
+/1bfc9850-24f8eebf27c7ed5bff0b.js
+  Cache-Control: public, max-age=31536000, immutable
+/app-1504aa3c679aee6f273f.js
+  Cache-Control: public, max-age=31536000, immutable
+/static/*
+  Cache-Control: public, max-age=31536000, immutable
+/sw.js
+  Cache-Control: no-cache
+/2022/program/talks/add-rss-to-my-website-with-python-yes
+  Link: </2022/webpack-runtime-f0b91b3733b1d48bd6d7.js>; rel=preload; as=script
+  Link: </2022/framework-0292a8b80de2284fae46.js>; rel=preload; as=script
+  Link: </2022/252f366e-6a26a063c6c470e62569.js>; rel=preload; as=script
+  Link: </2022/5e2a4920-7aa907ccc6d0eb7ce84f.js>; rel=preload; as=script
+  Link: </2022/1bfc9850-24f8eebf27c7ed5bff0b.js>; rel=preload; as=script
+  Link: </2022/app-1504aa3c679aee6f273f.js>; rel=preload; as=script
+  Link: </2022/0f1ac474-46d92f3cd850c0c4478c.js>; rel=preload; as=script
+  Link: </2022/component---src-templates-talk-page-js-437b5a831679d9ec1d2a.js>; rel=preload; as=script
+  Link: </2022/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </2022/page-data/program/talks/add-rss-to-my-website-with-python-yes/page-data.json>; rel=preload; as=fetch; crossorigin
+/2022/program/talks/another-look-at-python-types
+  Link: </2022/webpack-runtime-f0b91b3733b1d48bd6d7.js>; rel=preload; as=script
+  Link: </2022/framework-0292a8b80de2284fae46.js>; rel=preload; as=script
+  Link: </2022/252f366e-6a26a063c6c470e62569.js>; rel=preload; as=script
+  Link: </2022/5e2a4920-7aa907ccc6d0eb7ce84f.js>; rel=preload; as=script
+  Link: </2022/1bfc9850-24f8eebf27c7ed5bff0b.js>; rel=preload; as=script
+  Link: </2022/app-1504aa3c679aee6f273f.js>; rel=preload; as=script
+  Link: </2022/0f1ac474-46d92f3cd850c0c4478c.js>; rel=preload; as=script
+  Link: </2022/component---src-templates-talk-page-js-437b5a831679d9ec1d2a.js>; rel=preload; as=script
+  Link: </2022/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </2022/page-data/program/talks/another-look-at-python-types/page-data.json>; rel=preload; as=fetch; crossorigin
+/2022/program/talks/automating-excel-with-python
+  Link: </2022/webpack-runtime-f0b91b3733b1d48bd6d7.js>; rel=preload; as=script
+  Link: </2022/framework-0292a8b80de2284fae46.js>; rel=preload; as=script
+  Link: </2022/252f366e-6a26a063c6c470e62569.js>; rel=preload; as=script
+  Link: </2022/5e2a4920-7aa907ccc6d0eb7ce84f.js>; rel=preload; as=script
+  Link: </2022/1bfc9850-24f8eebf27c7ed5bff0b.js>; rel=preload; as=script
+  Link: </2022/app-1504aa3c679aee6f273f.js>; rel=preload; as=script
+  Link: </2022/0f1ac474-46d92f3cd850c0c4478c.js>; rel=preload; as=script
+  Link: </2022/component---src-templates-talk-page-js-437b5a831679d9ec1d2a.js>; rel=preload; as=script
+  Link: </2022/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </2022/page-data/program/talks/automating-excel-with-python/page-data.json>; rel=preload; as=fetch; crossorigin
+/2022/program/talks/a-quickstart-to-web-testing-with-playwright
+  Link: </2022/webpack-runtime-f0b91b3733b1d48bd6d7.js>; rel=preload; as=script
+  Link: </2022/framework-0292a8b80de2284fae46.js>; rel=preload; as=script
+  Link: </2022/252f366e-6a26a063c6c470e62569.js>; rel=preload; as=script
+  Link: </2022/5e2a4920-7aa907ccc6d0eb7ce84f.js>; rel=preload; as=script
+  Link: </2022/1bfc9850-24f8eebf27c7ed5bff0b.js>; rel=preload; as=script
+  Link: </2022/app-1504aa3c679aee6f273f.js>; rel=preload; as=script
+  Link: </2022/0f1ac474-46d92f3cd850c0c4478c.js>; rel=preload; as=script
+  Link: </2022/component---src-templates-talk-page-js-437b5a831679d9ec1d2a.js>; rel=preload; as=script
+  Link: </2022/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </2022/page-data/program/talks/a-quickstart-to-web-testing-with-playwright/page-data.json>; rel=preload; as=fetch; crossorigin
+/2022/program/talks/bootstrapping-your-local-python-environment
+  Link: </2022/webpack-runtime-f0b91b3733b1d48bd6d7.js>; rel=preload; as=script
+  Link: </2022/framework-0292a8b80de2284fae46.js>; rel=preload; as=script
+  Link: </2022/252f366e-6a26a063c6c470e62569.js>; rel=preload; as=script
+  Link: </2022/5e2a4920-7aa907ccc6d0eb7ce84f.js>; rel=preload; as=script
+  Link: </2022/1bfc9850-24f8eebf27c7ed5bff0b.js>; rel=preload; as=script
+  Link: </2022/app-1504aa3c679aee6f273f.js>; rel=preload; as=script
+  Link: </2022/0f1ac474-46d92f3cd850c0c4478c.js>; rel=preload; as=script
+  Link: </2022/component---src-templates-talk-page-js-437b5a831679d9ec1d2a.js>; rel=preload; as=script
+  Link: </2022/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </2022/page-data/program/talks/bootstrapping-your-local-python-environment/page-data.json>; rel=preload; as=fetch; crossorigin
+/2022/program/talks/beyond-velocity-3-metrics-for-engineering-team-success
+  Link: </2022/webpack-runtime-f0b91b3733b1d48bd6d7.js>; rel=preload; as=script
+  Link: </2022/framework-0292a8b80de2284fae46.js>; rel=preload; as=script
+  Link: </2022/252f366e-6a26a063c6c470e62569.js>; rel=preload; as=script
+  Link: </2022/5e2a4920-7aa907ccc6d0eb7ce84f.js>; rel=preload; as=script
+  Link: </2022/1bfc9850-24f8eebf27c7ed5bff0b.js>; rel=preload; as=script
+  Link: </2022/app-1504aa3c679aee6f273f.js>; rel=preload; as=script
+  Link: </2022/0f1ac474-46d92f3cd850c0c4478c.js>; rel=preload; as=script
+  Link: </2022/component---src-templates-talk-page-js-437b5a831679d9ec1d2a.js>; rel=preload; as=script
+  Link: </2022/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </2022/page-data/program/talks/beyond-velocity-3-metrics-for-engineering-team-success/page-data.json>; rel=preload; as=fetch; crossorigin
+/2022/program/talks/baby-steps-towards-your-first-fastapi-app
+  Link: </2022/webpack-runtime-f0b91b3733b1d48bd6d7.js>; rel=preload; as=script
+  Link: </2022/framework-0292a8b80de2284fae46.js>; rel=preload; as=script
+  Link: </2022/252f366e-6a26a063c6c470e62569.js>; rel=preload; as=script
+  Link: </2022/5e2a4920-7aa907ccc6d0eb7ce84f.js>; rel=preload; as=script
+  Link: </2022/1bfc9850-24f8eebf27c7ed5bff0b.js>; rel=preload; as=script
+  Link: </2022/app-1504aa3c679aee6f273f.js>; rel=preload; as=script
+  Link: </2022/0f1ac474-46d92f3cd850c0c4478c.js>; rel=preload; as=script
+  Link: </2022/component---src-templates-talk-page-js-437b5a831679d9ec1d2a.js>; rel=preload; as=script
+  Link: </2022/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </2022/page-data/program/talks/baby-steps-towards-your-first-fastapi-app/page-data.json>; rel=preload; as=fetch; crossorigin
+/2022/program/talks/break
+  Link: </2022/webpack-runtime-f0b91b3733b1d48bd6d7.js>; rel=preload; as=script
+  Link: </2022/framework-0292a8b80de2284fae46.js>; rel=preload; as=script
+  Link: </2022/252f366e-6a26a063c6c470e62569.js>; rel=preload; as=script
+  Link: </2022/5e2a4920-7aa907ccc6d0eb7ce84f.js>; rel=preload; as=script
+  Link: </2022/1bfc9850-24f8eebf27c7ed5bff0b.js>; rel=preload; as=script
+  Link: </2022/app-1504aa3c679aee6f273f.js>; rel=preload; as=script
+  Link: </2022/0f1ac474-46d92f3cd850c0c4478c.js>; rel=preload; as=script
+  Link: </2022/component---src-templates-talk-page-js-437b5a831679d9ec1d2a.js>; rel=preload; as=script
+  Link: </2022/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </2022/page-data/program/talks/break/page-data.json>; rel=preload; as=fetch; crossorigin
+/2022/program/talks/build-your-first-anomaly-detector-in-power-bi-using-pycaret
+  Link: </2022/webpack-runtime-f0b91b3733b1d48bd6d7.js>; rel=preload; as=script
+  Link: </2022/framework-0292a8b80de2284fae46.js>; rel=preload; as=script
+  Link: </2022/252f366e-6a26a063c6c470e62569.js>; rel=preload; as=script
+  Link: </2022/5e2a4920-7aa907ccc6d0eb7ce84f.js>; rel=preload; as=script
+  Link: </2022/1bfc9850-24f8eebf27c7ed5bff0b.js>; rel=preload; as=script
+  Link: </2022/app-1504aa3c679aee6f273f.js>; rel=preload; as=script
+  Link: </2022/0f1ac474-46d92f3cd850c0c4478c.js>; rel=preload; as=script
+  Link: </2022/component---src-templates-talk-page-js-437b5a831679d9ec1d2a.js>; rel=preload; as=script
+  Link: </2022/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </2022/page-data/program/talks/build-your-first-anomaly-detector-in-power-bi-using-pycaret/page-data.json>; rel=preload; as=fetch; crossorigin
+/2022/program/talks/building-a-faster-networkx-like-library-using-graphblas
+  Link: </2022/webpack-runtime-f0b91b3733b1d48bd6d7.js>; rel=preload; as=script
+  Link: </2022/framework-0292a8b80de2284fae46.js>; rel=preload; as=script
+  Link: </2022/252f366e-6a26a063c6c470e62569.js>; rel=preload; as=script
+  Link: </2022/5e2a4920-7aa907ccc6d0eb7ce84f.js>; rel=preload; as=script
+  Link: </2022/1bfc9850-24f8eebf27c7ed5bff0b.js>; rel=preload; as=script
+  Link: </2022/app-1504aa3c679aee6f273f.js>; rel=preload; as=script
+  Link: </2022/0f1ac474-46d92f3cd850c0c4478c.js>; rel=preload; as=script
+  Link: </2022/component---src-templates-talk-page-js-437b5a831679d9ec1d2a.js>; rel=preload; as=script
+  Link: </2022/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </2022/page-data/program/talks/building-a-faster-networkx-like-library-using-graphblas/page-data.json>; rel=preload; as=fetch; crossorigin
+/2022/program/talks/advanced-typing-typevars-generics-and-protocols
+  Link: </2022/webpack-runtime-f0b91b3733b1d48bd6d7.js>; rel=preload; as=script
+  Link: </2022/framework-0292a8b80de2284fae46.js>; rel=preload; as=script
+  Link: </2022/252f366e-6a26a063c6c470e62569.js>; rel=preload; as=script
+  Link: </2022/5e2a4920-7aa907ccc6d0eb7ce84f.js>; rel=preload; as=script
+  Link: </2022/1bfc9850-24f8eebf27c7ed5bff0b.js>; rel=preload; as=script
+  Link: </2022/app-1504aa3c679aee6f273f.js>; rel=preload; as=script
+  Link: </2022/0f1ac474-46d92f3cd850c0c4478c.js>; rel=preload; as=script
+  Link: </2022/component---src-templates-talk-page-js-437b5a831679d9ec1d2a.js>; rel=preload; as=script
+  Link: </2022/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </2022/page-data/program/talks/advanced-typing-typevars-generics-and-protocols/page-data.json>; rel=preload; as=fetch; crossorigin
+/2022/program/talks/colors-and-chords
+  Link: </2022/webpack-runtime-f0b91b3733b1d48bd6d7.js>; rel=preload; as=script
+  Link: </2022/framework-0292a8b80de2284fae46.js>; rel=preload; as=script
+  Link: </2022/252f366e-6a26a063c6c470e62569.js>; rel=preload; as=script
+  Link: </2022/5e2a4920-7aa907ccc6d0eb7ce84f.js>; rel=preload; as=script
+  Link: </2022/1bfc9850-24f8eebf27c7ed5bff0b.js>; rel=preload; as=script
+  Link: </2022/app-1504aa3c679aee6f273f.js>; rel=preload; as=script
+  Link: </2022/0f1ac474-46d92f3cd850c0c4478c.js>; rel=preload; as=script
+  Link: </2022/component---src-templates-talk-page-js-437b5a831679d9ec1d2a.js>; rel=preload; as=script
+  Link: </2022/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </2022/page-data/program/talks/colors-and-chords/page-data.json>; rel=preload; as=fetch; crossorigin
+/2022/program/talks/comprehending-comprehensions
+  Link: </2022/webpack-runtime-f0b91b3733b1d48bd6d7.js>; rel=preload; as=script
+  Link: </2022/framework-0292a8b80de2284fae46.js>; rel=preload; as=script
+  Link: </2022/252f366e-6a26a063c6c470e62569.js>; rel=preload; as=script
+  Link: </2022/5e2a4920-7aa907ccc6d0eb7ce84f.js>; rel=preload; as=script
+  Link: </2022/1bfc9850-24f8eebf27c7ed5bff0b.js>; rel=preload; as=script
+  Link: </2022/app-1504aa3c679aee6f273f.js>; rel=preload; as=script
+  Link: </2022/0f1ac474-46d92f3cd850c0c4478c.js>; rel=preload; as=script
+  Link: </2022/component---src-templates-talk-page-js-437b5a831679d9ec1d2a.js>; rel=preload; as=script
+  Link: </2022/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </2022/page-data/program/talks/comprehending-comprehensions/page-data.json>; rel=preload; as=fetch; crossorigin
+/2022/program/talks/container-security-and-their-apis
+  Link: </2022/webpack-runtime-f0b91b3733b1d48bd6d7.js>; rel=preload; as=script
+  Link: </2022/framework-0292a8b80de2284fae46.js>; rel=preload; as=script
+  Link: </2022/252f366e-6a26a063c6c470e62569.js>; rel=preload; as=script
+  Link: </2022/5e2a4920-7aa907ccc6d0eb7ce84f.js>; rel=preload; as=script
+  Link: </2022/1bfc9850-24f8eebf27c7ed5bff0b.js>; rel=preload; as=script
+  Link: </2022/app-1504aa3c679aee6f273f.js>; rel=preload; as=script
+  Link: </2022/0f1ac474-46d92f3cd850c0c4478c.js>; rel=preload; as=script
+  Link: </2022/component---src-templates-talk-page-js-437b5a831679d9ec1d2a.js>; rel=preload; as=script
+  Link: </2022/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </2022/page-data/program/talks/container-security-and-their-apis/page-data.json>; rel=preload; as=fetch; crossorigin
+/2022/program/talks/exploring-open-source-sprint-data-via-a-python-plotly-dashboard
+  Link: </2022/webpack-runtime-f0b91b3733b1d48bd6d7.js>; rel=preload; as=script
+  Link: </2022/framework-0292a8b80de2284fae46.js>; rel=preload; as=script
+  Link: </2022/252f366e-6a26a063c6c470e62569.js>; rel=preload; as=script
+  Link: </2022/5e2a4920-7aa907ccc6d0eb7ce84f.js>; rel=preload; as=script
+  Link: </2022/1bfc9850-24f8eebf27c7ed5bff0b.js>; rel=preload; as=script
+  Link: </2022/app-1504aa3c679aee6f273f.js>; rel=preload; as=script
+  Link: </2022/0f1ac474-46d92f3cd850c0c4478c.js>; rel=preload; as=script
+  Link: </2022/component---src-templates-talk-page-js-437b5a831679d9ec1d2a.js>; rel=preload; as=script
+  Link: </2022/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </2022/page-data/program/talks/exploring-open-source-sprint-data-via-a-python-plotly-dashboard/page-data.json>; rel=preload; as=fetch; crossorigin
+/2022/program/talks/deploy-a-python-api-to-the-cloud-fast
+  Link: </2022/webpack-runtime-f0b91b3733b1d48bd6d7.js>; rel=preload; as=script
+  Link: </2022/framework-0292a8b80de2284fae46.js>; rel=preload; as=script
+  Link: </2022/252f366e-6a26a063c6c470e62569.js>; rel=preload; as=script
+  Link: </2022/5e2a4920-7aa907ccc6d0eb7ce84f.js>; rel=preload; as=script
+  Link: </2022/1bfc9850-24f8eebf27c7ed5bff0b.js>; rel=preload; as=script
+  Link: </2022/app-1504aa3c679aee6f273f.js>; rel=preload; as=script
+  Link: </2022/0f1ac474-46d92f3cd850c0c4478c.js>; rel=preload; as=script
+  Link: </2022/component---src-templates-talk-page-js-437b5a831679d9ec1d2a.js>; rel=preload; as=script
+  Link: </2022/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </2022/page-data/program/talks/deploy-a-python-api-to-the-cloud-fast/page-data.json>; rel=preload; as=fetch; crossorigin
+/2022/program/talks/doing-everything-data-without-leaving-the-notebook-programmatic-jupyter-notebooks
+  Link: </2022/webpack-runtime-f0b91b3733b1d48bd6d7.js>; rel=preload; as=script
+  Link: </2022/framework-0292a8b80de2284fae46.js>; rel=preload; as=script
+  Link: </2022/252f366e-6a26a063c6c470e62569.js>; rel=preload; as=script
+  Link: </2022/5e2a4920-7aa907ccc6d0eb7ce84f.js>; rel=preload; as=script
+  Link: </2022/1bfc9850-24f8eebf27c7ed5bff0b.js>; rel=preload; as=script
+  Link: </2022/app-1504aa3c679aee6f273f.js>; rel=preload; as=script
+  Link: </2022/0f1ac474-46d92f3cd850c0c4478c.js>; rel=preload; as=script
+  Link: </2022/component---src-templates-talk-page-js-437b5a831679d9ec1d2a.js>; rel=preload; as=script
+  Link: </2022/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </2022/page-data/program/talks/doing-everything-data-without-leaving-the-notebook-programmatic-jupyter-notebooks/page-data.json>; rel=preload; as=fetch; crossorigin
+/2022/program/talks/flappy-bird-ai
+  Link: </2022/webpack-runtime-f0b91b3733b1d48bd6d7.js>; rel=preload; as=script
+  Link: </2022/framework-0292a8b80de2284fae46.js>; rel=preload; as=script
+  Link: </2022/252f366e-6a26a063c6c470e62569.js>; rel=preload; as=script
+  Link: </2022/5e2a4920-7aa907ccc6d0eb7ce84f.js>; rel=preload; as=script
+  Link: </2022/1bfc9850-24f8eebf27c7ed5bff0b.js>; rel=preload; as=script
+  Link: </2022/app-1504aa3c679aee6f273f.js>; rel=preload; as=script
+  Link: </2022/0f1ac474-46d92f3cd850c0c4478c.js>; rel=preload; as=script
+  Link: </2022/component---src-templates-talk-page-js-437b5a831679d9ec1d2a.js>; rel=preload; as=script
+  Link: </2022/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </2022/page-data/program/talks/flappy-bird-ai/page-data.json>; rel=preload; as=fetch; crossorigin
+/2022/program/talks/go-3d-with-plotly
+  Link: </2022/webpack-runtime-f0b91b3733b1d48bd6d7.js>; rel=preload; as=script
+  Link: </2022/framework-0292a8b80de2284fae46.js>; rel=preload; as=script
+  Link: </2022/252f366e-6a26a063c6c470e62569.js>; rel=preload; as=script
+  Link: </2022/5e2a4920-7aa907ccc6d0eb7ce84f.js>; rel=preload; as=script
+  Link: </2022/1bfc9850-24f8eebf27c7ed5bff0b.js>; rel=preload; as=script
+  Link: </2022/app-1504aa3c679aee6f273f.js>; rel=preload; as=script
+  Link: </2022/0f1ac474-46d92f3cd850c0c4478c.js>; rel=preload; as=script
+  Link: </2022/component---src-templates-talk-page-js-437b5a831679d9ec1d2a.js>; rel=preload; as=script
+  Link: </2022/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </2022/page-data/program/talks/go-3d-with-plotly/page-data.json>; rel=preload; as=fetch; crossorigin
+/2022/program/talks/i-can-t-believe-it-s-not-real-data-an-introduction-into-synthetic-data
+  Link: </2022/webpack-runtime-f0b91b3733b1d48bd6d7.js>; rel=preload; as=script
+  Link: </2022/framework-0292a8b80de2284fae46.js>; rel=preload; as=script
+  Link: </2022/252f366e-6a26a063c6c470e62569.js>; rel=preload; as=script
+  Link: </2022/5e2a4920-7aa907ccc6d0eb7ce84f.js>; rel=preload; as=script
+  Link: </2022/1bfc9850-24f8eebf27c7ed5bff0b.js>; rel=preload; as=script
+  Link: </2022/app-1504aa3c679aee6f273f.js>; rel=preload; as=script
+  Link: </2022/0f1ac474-46d92f3cd850c0c4478c.js>; rel=preload; as=script
+  Link: </2022/component---src-templates-talk-page-js-437b5a831679d9ec1d2a.js>; rel=preload; as=script
+  Link: </2022/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </2022/page-data/program/talks/i-can-t-believe-it-s-not-real-data-an-introduction-into-synthetic-data/page-data.json>; rel=preload; as=fetch; crossorigin
+/2022/program/talks/i-have-to-confess-i-still-love-pandas
+  Link: </2022/webpack-runtime-f0b91b3733b1d48bd6d7.js>; rel=preload; as=script
+  Link: </2022/framework-0292a8b80de2284fae46.js>; rel=preload; as=script
+  Link: </2022/252f366e-6a26a063c6c470e62569.js>; rel=preload; as=script
+  Link: </2022/5e2a4920-7aa907ccc6d0eb7ce84f.js>; rel=preload; as=script
+  Link: </2022/1bfc9850-24f8eebf27c7ed5bff0b.js>; rel=preload; as=script
+  Link: </2022/app-1504aa3c679aee6f273f.js>; rel=preload; as=script
+  Link: </2022/0f1ac474-46d92f3cd850c0c4478c.js>; rel=preload; as=script
+  Link: </2022/component---src-templates-talk-page-js-437b5a831679d9ec1d2a.js>; rel=preload; as=script
+  Link: </2022/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </2022/page-data/program/talks/i-have-to-confess-i-still-love-pandas/page-data.json>; rel=preload; as=fetch; crossorigin
+/2022/program/talks/intro-to-unit-testing-and-continuous-integration
+  Link: </2022/webpack-runtime-f0b91b3733b1d48bd6d7.js>; rel=preload; as=script
+  Link: </2022/framework-0292a8b80de2284fae46.js>; rel=preload; as=script
+  Link: </2022/252f366e-6a26a063c6c470e62569.js>; rel=preload; as=script
+  Link: </2022/5e2a4920-7aa907ccc6d0eb7ce84f.js>; rel=preload; as=script
+  Link: </2022/1bfc9850-24f8eebf27c7ed5bff0b.js>; rel=preload; as=script
+  Link: </2022/app-1504aa3c679aee6f273f.js>; rel=preload; as=script
+  Link: </2022/0f1ac474-46d92f3cd850c0c4478c.js>; rel=preload; as=script
+  Link: </2022/component---src-templates-talk-page-js-437b5a831679d9ec1d2a.js>; rel=preload; as=script
+  Link: </2022/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </2022/page-data/program/talks/intro-to-unit-testing-and-continuous-integration/page-data.json>; rel=preload; as=fetch; crossorigin
+/2022/program/talks/introducing-automated-machine-learning-with-python-and-azure
+  Link: </2022/webpack-runtime-f0b91b3733b1d48bd6d7.js>; rel=preload; as=script
+  Link: </2022/framework-0292a8b80de2284fae46.js>; rel=preload; as=script
+  Link: </2022/252f366e-6a26a063c6c470e62569.js>; rel=preload; as=script
+  Link: </2022/5e2a4920-7aa907ccc6d0eb7ce84f.js>; rel=preload; as=script
+  Link: </2022/1bfc9850-24f8eebf27c7ed5bff0b.js>; rel=preload; as=script
+  Link: </2022/app-1504aa3c679aee6f273f.js>; rel=preload; as=script
+  Link: </2022/0f1ac474-46d92f3cd850c0c4478c.js>; rel=preload; as=script
+  Link: </2022/component---src-templates-talk-page-js-437b5a831679d9ec1d2a.js>; rel=preload; as=script
+  Link: </2022/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </2022/page-data/program/talks/introducing-automated-machine-learning-with-python-and-azure/page-data.json>; rel=preload; as=fetch; crossorigin
+/2022/program/talks/jupyter-for-devops
+  Link: </2022/webpack-runtime-f0b91b3733b1d48bd6d7.js>; rel=preload; as=script
+  Link: </2022/framework-0292a8b80de2284fae46.js>; rel=preload; as=script
+  Link: </2022/252f366e-6a26a063c6c470e62569.js>; rel=preload; as=script
+  Link: </2022/5e2a4920-7aa907ccc6d0eb7ce84f.js>; rel=preload; as=script
+  Link: </2022/1bfc9850-24f8eebf27c7ed5bff0b.js>; rel=preload; as=script
+  Link: </2022/app-1504aa3c679aee6f273f.js>; rel=preload; as=script
+  Link: </2022/0f1ac474-46d92f3cd850c0c4478c.js>; rel=preload; as=script
+  Link: </2022/component---src-templates-talk-page-js-437b5a831679d9ec1d2a.js>; rel=preload; as=script
+  Link: </2022/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </2022/page-data/program/talks/jupyter-for-devops/page-data.json>; rel=preload; as=fetch; crossorigin
+/2022/program/talks/more-orm-than-good-stop-not-writing-sql
+  Link: </2022/webpack-runtime-f0b91b3733b1d48bd6d7.js>; rel=preload; as=script
+  Link: </2022/framework-0292a8b80de2284fae46.js>; rel=preload; as=script
+  Link: </2022/252f366e-6a26a063c6c470e62569.js>; rel=preload; as=script
+  Link: </2022/5e2a4920-7aa907ccc6d0eb7ce84f.js>; rel=preload; as=script
+  Link: </2022/1bfc9850-24f8eebf27c7ed5bff0b.js>; rel=preload; as=script
+  Link: </2022/app-1504aa3c679aee6f273f.js>; rel=preload; as=script
+  Link: </2022/0f1ac474-46d92f3cd850c0c4478c.js>; rel=preload; as=script
+  Link: </2022/component---src-templates-talk-page-js-437b5a831679d9ec1d2a.js>; rel=preload; as=script
+  Link: </2022/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </2022/page-data/program/talks/more-orm-than-good-stop-not-writing-sql/page-data.json>; rel=preload; as=fetch; crossorigin
+/2022/program/talks/openapi-driven-development
+  Link: </2022/webpack-runtime-f0b91b3733b1d48bd6d7.js>; rel=preload; as=script
+  Link: </2022/framework-0292a8b80de2284fae46.js>; rel=preload; as=script
+  Link: </2022/252f366e-6a26a063c6c470e62569.js>; rel=preload; as=script
+  Link: </2022/5e2a4920-7aa907ccc6d0eb7ce84f.js>; rel=preload; as=script
+  Link: </2022/1bfc9850-24f8eebf27c7ed5bff0b.js>; rel=preload; as=script
+  Link: </2022/app-1504aa3c679aee6f273f.js>; rel=preload; as=script
+  Link: </2022/0f1ac474-46d92f3cd850c0c4478c.js>; rel=preload; as=script
+  Link: </2022/component---src-templates-talk-page-js-437b5a831679d9ec1d2a.js>; rel=preload; as=script
+  Link: </2022/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </2022/page-data/program/talks/openapi-driven-development/page-data.json>; rel=preload; as=fetch; crossorigin
+/2022/program/talks/make-python-devex-towards-clone-to-red-green-refactor-in-one-command-with-a-45-year-old-tool
+  Link: </2022/webpack-runtime-f0b91b3733b1d48bd6d7.js>; rel=preload; as=script
+  Link: </2022/framework-0292a8b80de2284fae46.js>; rel=preload; as=script
+  Link: </2022/252f366e-6a26a063c6c470e62569.js>; rel=preload; as=script
+  Link: </2022/5e2a4920-7aa907ccc6d0eb7ce84f.js>; rel=preload; as=script
+  Link: </2022/1bfc9850-24f8eebf27c7ed5bff0b.js>; rel=preload; as=script
+  Link: </2022/app-1504aa3c679aee6f273f.js>; rel=preload; as=script
+  Link: </2022/0f1ac474-46d92f3cd850c0c4478c.js>; rel=preload; as=script
+  Link: </2022/component---src-templates-talk-page-js-437b5a831679d9ec1d2a.js>; rel=preload; as=script
+  Link: </2022/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </2022/page-data/program/talks/make-python-devex-towards-clone-to-red-green-refactor-in-one-command-with-a-45-year-old-tool/page-data.json>; rel=preload; as=fetch; crossorigin
+/2022/program/talks/paginated-apis-x-python
+  Link: </2022/webpack-runtime-f0b91b3733b1d48bd6d7.js>; rel=preload; as=script
+  Link: </2022/framework-0292a8b80de2284fae46.js>; rel=preload; as=script
+  Link: </2022/252f366e-6a26a063c6c470e62569.js>; rel=preload; as=script
+  Link: </2022/5e2a4920-7aa907ccc6d0eb7ce84f.js>; rel=preload; as=script
+  Link: </2022/1bfc9850-24f8eebf27c7ed5bff0b.js>; rel=preload; as=script
+  Link: </2022/app-1504aa3c679aee6f273f.js>; rel=preload; as=script
+  Link: </2022/0f1ac474-46d92f3cd850c0c4478c.js>; rel=preload; as=script
+  Link: </2022/component---src-templates-talk-page-js-437b5a831679d9ec1d2a.js>; rel=preload; as=script
+  Link: </2022/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </2022/page-data/program/talks/paginated-apis-x-python/page-data.json>; rel=preload; as=fetch; crossorigin
+/2022/program/talks/processing-large-data-with-pandas
+  Link: </2022/webpack-runtime-f0b91b3733b1d48bd6d7.js>; rel=preload; as=script
+  Link: </2022/framework-0292a8b80de2284fae46.js>; rel=preload; as=script
+  Link: </2022/252f366e-6a26a063c6c470e62569.js>; rel=preload; as=script
+  Link: </2022/5e2a4920-7aa907ccc6d0eb7ce84f.js>; rel=preload; as=script
+  Link: </2022/1bfc9850-24f8eebf27c7ed5bff0b.js>; rel=preload; as=script
+  Link: </2022/app-1504aa3c679aee6f273f.js>; rel=preload; as=script
+  Link: </2022/0f1ac474-46d92f3cd850c0c4478c.js>; rel=preload; as=script
+  Link: </2022/component---src-templates-talk-page-js-437b5a831679d9ec1d2a.js>; rel=preload; as=script
+  Link: </2022/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </2022/page-data/program/talks/processing-large-data-with-pandas/page-data.json>; rel=preload; as=fetch; crossorigin
+/2022/program/talks/pyohio-2022-closing-remarks
+  Link: </2022/webpack-runtime-f0b91b3733b1d48bd6d7.js>; rel=preload; as=script
+  Link: </2022/framework-0292a8b80de2284fae46.js>; rel=preload; as=script
+  Link: </2022/252f366e-6a26a063c6c470e62569.js>; rel=preload; as=script
+  Link: </2022/5e2a4920-7aa907ccc6d0eb7ce84f.js>; rel=preload; as=script
+  Link: </2022/1bfc9850-24f8eebf27c7ed5bff0b.js>; rel=preload; as=script
+  Link: </2022/app-1504aa3c679aee6f273f.js>; rel=preload; as=script
+  Link: </2022/0f1ac474-46d92f3cd850c0c4478c.js>; rel=preload; as=script
+  Link: </2022/component---src-templates-talk-page-js-437b5a831679d9ec1d2a.js>; rel=preload; as=script
+  Link: </2022/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </2022/page-data/program/talks/pyohio-2022-closing-remarks/page-data.json>; rel=preload; as=fetch; crossorigin
+/2022/program/talks/paving-an-easier-path-to-your-next-tech-job
+  Link: </2022/webpack-runtime-f0b91b3733b1d48bd6d7.js>; rel=preload; as=script
+  Link: </2022/framework-0292a8b80de2284fae46.js>; rel=preload; as=script
+  Link: </2022/252f366e-6a26a063c6c470e62569.js>; rel=preload; as=script
+  Link: </2022/5e2a4920-7aa907ccc6d0eb7ce84f.js>; rel=preload; as=script
+  Link: </2022/1bfc9850-24f8eebf27c7ed5bff0b.js>; rel=preload; as=script
+  Link: </2022/app-1504aa3c679aee6f273f.js>; rel=preload; as=script
+  Link: </2022/0f1ac474-46d92f3cd850c0c4478c.js>; rel=preload; as=script
+  Link: </2022/component---src-templates-talk-page-js-437b5a831679d9ec1d2a.js>; rel=preload; as=script
+  Link: </2022/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </2022/page-data/program/talks/paving-an-easier-path-to-your-next-tech-job/page-data.json>; rel=preload; as=fetch; crossorigin
+/2022/program/talks/pyohio-2022-opening-remarks
+  Link: </2022/webpack-runtime-f0b91b3733b1d48bd6d7.js>; rel=preload; as=script
+  Link: </2022/framework-0292a8b80de2284fae46.js>; rel=preload; as=script
+  Link: </2022/252f366e-6a26a063c6c470e62569.js>; rel=preload; as=script
+  Link: </2022/5e2a4920-7aa907ccc6d0eb7ce84f.js>; rel=preload; as=script
+  Link: </2022/1bfc9850-24f8eebf27c7ed5bff0b.js>; rel=preload; as=script
+  Link: </2022/app-1504aa3c679aee6f273f.js>; rel=preload; as=script
+  Link: </2022/0f1ac474-46d92f3cd850c0c4478c.js>; rel=preload; as=script
+  Link: </2022/component---src-templates-talk-page-js-437b5a831679d9ec1d2a.js>; rel=preload; as=script
+  Link: </2022/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </2022/page-data/program/talks/pyohio-2022-opening-remarks/page-data.json>; rel=preload; as=fetch; crossorigin
+/2022/program/talks/run-js-a-new-library-for-running-javascript-modules-in-python
+  Link: </2022/webpack-runtime-f0b91b3733b1d48bd6d7.js>; rel=preload; as=script
+  Link: </2022/framework-0292a8b80de2284fae46.js>; rel=preload; as=script
+  Link: </2022/252f366e-6a26a063c6c470e62569.js>; rel=preload; as=script
+  Link: </2022/5e2a4920-7aa907ccc6d0eb7ce84f.js>; rel=preload; as=script
+  Link: </2022/1bfc9850-24f8eebf27c7ed5bff0b.js>; rel=preload; as=script
+  Link: </2022/app-1504aa3c679aee6f273f.js>; rel=preload; as=script
+  Link: </2022/0f1ac474-46d92f3cd850c0c4478c.js>; rel=preload; as=script
+  Link: </2022/component---src-templates-talk-page-js-437b5a831679d9ec1d2a.js>; rel=preload; as=script
+  Link: </2022/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </2022/page-data/program/talks/run-js-a-new-library-for-running-javascript-modules-in-python/page-data.json>; rel=preload; as=fetch; crossorigin
+/2022/program/talks/remote-collaboration-how-to-build-human-connection-across-pixels
+  Link: </2022/webpack-runtime-f0b91b3733b1d48bd6d7.js>; rel=preload; as=script
+  Link: </2022/framework-0292a8b80de2284fae46.js>; rel=preload; as=script
+  Link: </2022/252f366e-6a26a063c6c470e62569.js>; rel=preload; as=script
+  Link: </2022/5e2a4920-7aa907ccc6d0eb7ce84f.js>; rel=preload; as=script
+  Link: </2022/1bfc9850-24f8eebf27c7ed5bff0b.js>; rel=preload; as=script
+  Link: </2022/app-1504aa3c679aee6f273f.js>; rel=preload; as=script
+  Link: </2022/0f1ac474-46d92f3cd850c0c4478c.js>; rel=preload; as=script
+  Link: </2022/component---src-templates-talk-page-js-437b5a831679d9ec1d2a.js>; rel=preload; as=script
+  Link: </2022/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </2022/page-data/program/talks/remote-collaboration-how-to-build-human-connection-across-pixels/page-data.json>; rel=preload; as=fetch; crossorigin
+/2022/program/talks/that-belongs-in-a-table-migrating-data-from-json-to-sql
+  Link: </2022/webpack-runtime-f0b91b3733b1d48bd6d7.js>; rel=preload; as=script
+  Link: </2022/framework-0292a8b80de2284fae46.js>; rel=preload; as=script
+  Link: </2022/252f366e-6a26a063c6c470e62569.js>; rel=preload; as=script
+  Link: </2022/5e2a4920-7aa907ccc6d0eb7ce84f.js>; rel=preload; as=script
+  Link: </2022/1bfc9850-24f8eebf27c7ed5bff0b.js>; rel=preload; as=script
+  Link: </2022/app-1504aa3c679aee6f273f.js>; rel=preload; as=script
+  Link: </2022/0f1ac474-46d92f3cd850c0c4478c.js>; rel=preload; as=script
+  Link: </2022/component---src-templates-talk-page-js-437b5a831679d9ec1d2a.js>; rel=preload; as=script
+  Link: </2022/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </2022/page-data/program/talks/that-belongs-in-a-table-migrating-data-from-json-to-sql/page-data.json>; rel=preload; as=fetch; crossorigin
+/2022/program/talks/simplicity-and-fun-learning-with-circuitpython
+  Link: </2022/webpack-runtime-f0b91b3733b1d48bd6d7.js>; rel=preload; as=script
+  Link: </2022/framework-0292a8b80de2284fae46.js>; rel=preload; as=script
+  Link: </2022/252f366e-6a26a063c6c470e62569.js>; rel=preload; as=script
+  Link: </2022/5e2a4920-7aa907ccc6d0eb7ce84f.js>; rel=preload; as=script
+  Link: </2022/1bfc9850-24f8eebf27c7ed5bff0b.js>; rel=preload; as=script
+  Link: </2022/app-1504aa3c679aee6f273f.js>; rel=preload; as=script
+  Link: </2022/0f1ac474-46d92f3cd850c0c4478c.js>; rel=preload; as=script
+  Link: </2022/component---src-templates-talk-page-js-437b5a831679d9ec1d2a.js>; rel=preload; as=script
+  Link: </2022/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </2022/page-data/program/talks/simplicity-and-fun-learning-with-circuitpython/page-data.json>; rel=preload; as=fetch; crossorigin
+/2022/program/talks/the-pyohio-2022-mix-tape
+  Link: </2022/webpack-runtime-f0b91b3733b1d48bd6d7.js>; rel=preload; as=script
+  Link: </2022/framework-0292a8b80de2284fae46.js>; rel=preload; as=script
+  Link: </2022/252f366e-6a26a063c6c470e62569.js>; rel=preload; as=script
+  Link: </2022/5e2a4920-7aa907ccc6d0eb7ce84f.js>; rel=preload; as=script
+  Link: </2022/1bfc9850-24f8eebf27c7ed5bff0b.js>; rel=preload; as=script
+  Link: </2022/app-1504aa3c679aee6f273f.js>; rel=preload; as=script
+  Link: </2022/0f1ac474-46d92f3cd850c0c4478c.js>; rel=preload; as=script
+  Link: </2022/component---src-templates-talk-page-js-437b5a831679d9ec1d2a.js>; rel=preload; as=script
+  Link: </2022/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </2022/page-data/program/talks/the-pyohio-2022-mix-tape/page-data.json>; rel=preload; as=fetch; crossorigin
+/2022/program/talks/visual-studio-code-the-ultimate-python-developer-environment
+  Link: </2022/webpack-runtime-f0b91b3733b1d48bd6d7.js>; rel=preload; as=script
+  Link: </2022/framework-0292a8b80de2284fae46.js>; rel=preload; as=script
+  Link: </2022/252f366e-6a26a063c6c470e62569.js>; rel=preload; as=script
+  Link: </2022/5e2a4920-7aa907ccc6d0eb7ce84f.js>; rel=preload; as=script
+  Link: </2022/1bfc9850-24f8eebf27c7ed5bff0b.js>; rel=preload; as=script
+  Link: </2022/app-1504aa3c679aee6f273f.js>; rel=preload; as=script
+  Link: </2022/0f1ac474-46d92f3cd850c0c4478c.js>; rel=preload; as=script
+  Link: </2022/component---src-templates-talk-page-js-437b5a831679d9ec1d2a.js>; rel=preload; as=script
+  Link: </2022/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </2022/page-data/program/talks/visual-studio-code-the-ultimate-python-developer-environment/page-data.json>; rel=preload; as=fetch; crossorigin
+/2022/program/talks/what-is-a-reasonable-percentage-for-code-coverage-and-why-is-it-100
+  Link: </2022/webpack-runtime-f0b91b3733b1d48bd6d7.js>; rel=preload; as=script
+  Link: </2022/framework-0292a8b80de2284fae46.js>; rel=preload; as=script
+  Link: </2022/252f366e-6a26a063c6c470e62569.js>; rel=preload; as=script
+  Link: </2022/5e2a4920-7aa907ccc6d0eb7ce84f.js>; rel=preload; as=script
+  Link: </2022/1bfc9850-24f8eebf27c7ed5bff0b.js>; rel=preload; as=script
+  Link: </2022/app-1504aa3c679aee6f273f.js>; rel=preload; as=script
+  Link: </2022/0f1ac474-46d92f3cd850c0c4478c.js>; rel=preload; as=script
+  Link: </2022/component---src-templates-talk-page-js-437b5a831679d9ec1d2a.js>; rel=preload; as=script
+  Link: </2022/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </2022/page-data/program/talks/what-is-a-reasonable-percentage-for-code-coverage-and-why-is-it-100/page-data.json>; rel=preload; as=fetch; crossorigin
+/2022/program/talks/your-python-multi-tool-four-built-ins-and-a-module
+  Link: </2022/webpack-runtime-f0b91b3733b1d48bd6d7.js>; rel=preload; as=script
+  Link: </2022/framework-0292a8b80de2284fae46.js>; rel=preload; as=script
+  Link: </2022/252f366e-6a26a063c6c470e62569.js>; rel=preload; as=script
+  Link: </2022/5e2a4920-7aa907ccc6d0eb7ce84f.js>; rel=preload; as=script
+  Link: </2022/1bfc9850-24f8eebf27c7ed5bff0b.js>; rel=preload; as=script
+  Link: </2022/app-1504aa3c679aee6f273f.js>; rel=preload; as=script
+  Link: </2022/0f1ac474-46d92f3cd850c0c4478c.js>; rel=preload; as=script
+  Link: </2022/component---src-templates-talk-page-js-437b5a831679d9ec1d2a.js>; rel=preload; as=script
+  Link: </2022/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </2022/page-data/program/talks/your-python-multi-tool-four-built-ins-and-a-module/page-data.json>; rel=preload; as=fetch; crossorigin
+/2022/program/speakers/alex-zharichenko
+  Link: </2022/webpack-runtime-f0b91b3733b1d48bd6d7.js>; rel=preload; as=script
+  Link: </2022/framework-0292a8b80de2284fae46.js>; rel=preload; as=script
+  Link: </2022/252f366e-6a26a063c6c470e62569.js>; rel=preload; as=script
+  Link: </2022/5e2a4920-7aa907ccc6d0eb7ce84f.js>; rel=preload; as=script
+  Link: </2022/1bfc9850-24f8eebf27c7ed5bff0b.js>; rel=preload; as=script
+  Link: </2022/app-1504aa3c679aee6f273f.js>; rel=preload; as=script
+  Link: </2022/component---src-templates-speaker-page-js-4027b97c79f442561486.js>; rel=preload; as=script
+  Link: </2022/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </2022/page-data/program/speakers/alex-zharichenko/page-data.json>; rel=preload; as=fetch; crossorigin
+/2022/program/speakers/azan-bin-zahid
+  Link: </2022/webpack-runtime-f0b91b3733b1d48bd6d7.js>; rel=preload; as=script
+  Link: </2022/framework-0292a8b80de2284fae46.js>; rel=preload; as=script
+  Link: </2022/252f366e-6a26a063c6c470e62569.js>; rel=preload; as=script
+  Link: </2022/5e2a4920-7aa907ccc6d0eb7ce84f.js>; rel=preload; as=script
+  Link: </2022/1bfc9850-24f8eebf27c7ed5bff0b.js>; rel=preload; as=script
+  Link: </2022/app-1504aa3c679aee6f273f.js>; rel=preload; as=script
+  Link: </2022/component---src-templates-speaker-page-js-4027b97c79f442561486.js>; rel=preload; as=script
+  Link: </2022/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </2022/page-data/program/speakers/azan-bin-zahid/page-data.json>; rel=preload; as=fetch; crossorigin
+/2022/program/speakers/anay-pant
+  Link: </2022/webpack-runtime-f0b91b3733b1d48bd6d7.js>; rel=preload; as=script
+  Link: </2022/framework-0292a8b80de2284fae46.js>; rel=preload; as=script
+  Link: </2022/252f366e-6a26a063c6c470e62569.js>; rel=preload; as=script
+  Link: </2022/5e2a4920-7aa907ccc6d0eb7ce84f.js>; rel=preload; as=script
+  Link: </2022/1bfc9850-24f8eebf27c7ed5bff0b.js>; rel=preload; as=script
+  Link: </2022/app-1504aa3c679aee6f273f.js>; rel=preload; as=script
+  Link: </2022/component---src-templates-speaker-page-js-4027b97c79f442561486.js>; rel=preload; as=script
+  Link: </2022/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </2022/page-data/program/speakers/anay-pant/page-data.json>; rel=preload; as=fetch; crossorigin
+/2022/program/speakers/amanda-quint
+  Link: </2022/webpack-runtime-f0b91b3733b1d48bd6d7.js>; rel=preload; as=script
+  Link: </2022/framework-0292a8b80de2284fae46.js>; rel=preload; as=script
+  Link: </2022/252f366e-6a26a063c6c470e62569.js>; rel=preload; as=script
+  Link: </2022/5e2a4920-7aa907ccc6d0eb7ce84f.js>; rel=preload; as=script
+  Link: </2022/1bfc9850-24f8eebf27c7ed5bff0b.js>; rel=preload; as=script
+  Link: </2022/app-1504aa3c679aee6f273f.js>; rel=preload; as=script
+  Link: </2022/component---src-templates-speaker-page-js-4027b97c79f442561486.js>; rel=preload; as=script
+  Link: </2022/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </2022/page-data/program/speakers/amanda-quint/page-data.json>; rel=preload; as=fetch; crossorigin
+/2022/program/speakers/calvin-hendryx-parker
+  Link: </2022/webpack-runtime-f0b91b3733b1d48bd6d7.js>; rel=preload; as=script
+  Link: </2022/framework-0292a8b80de2284fae46.js>; rel=preload; as=script
+  Link: </2022/252f366e-6a26a063c6c470e62569.js>; rel=preload; as=script
+  Link: </2022/5e2a4920-7aa907ccc6d0eb7ce84f.js>; rel=preload; as=script
+  Link: </2022/1bfc9850-24f8eebf27c7ed5bff0b.js>; rel=preload; as=script
+  Link: </2022/app-1504aa3c679aee6f273f.js>; rel=preload; as=script
+  Link: </2022/component---src-templates-speaker-page-js-4027b97c79f442561486.js>; rel=preload; as=script
+  Link: </2022/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </2022/page-data/program/speakers/calvin-hendryx-parker/page-data.json>; rel=preload; as=fetch; crossorigin
+/2022/program/speakers/cadey-moore
+  Link: </2022/webpack-runtime-f0b91b3733b1d48bd6d7.js>; rel=preload; as=script
+  Link: </2022/framework-0292a8b80de2284fae46.js>; rel=preload; as=script
+  Link: </2022/252f366e-6a26a063c6c470e62569.js>; rel=preload; as=script
+  Link: </2022/5e2a4920-7aa907ccc6d0eb7ce84f.js>; rel=preload; as=script
+  Link: </2022/1bfc9850-24f8eebf27c7ed5bff0b.js>; rel=preload; as=script
+  Link: </2022/app-1504aa3c679aee6f273f.js>; rel=preload; as=script
+  Link: </2022/component---src-templates-speaker-page-js-4027b97c79f442561486.js>; rel=preload; as=script
+  Link: </2022/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </2022/page-data/program/speakers/cadey-moore/page-data.json>; rel=preload; as=fetch; crossorigin
+/2022/program/speakers/cheuk-ting-ho
+  Link: </2022/webpack-runtime-f0b91b3733b1d48bd6d7.js>; rel=preload; as=script
+  Link: </2022/framework-0292a8b80de2284fae46.js>; rel=preload; as=script
+  Link: </2022/252f366e-6a26a063c6c470e62569.js>; rel=preload; as=script
+  Link: </2022/5e2a4920-7aa907ccc6d0eb7ce84f.js>; rel=preload; as=script
+  Link: </2022/1bfc9850-24f8eebf27c7ed5bff0b.js>; rel=preload; as=script
+  Link: </2022/app-1504aa3c679aee6f273f.js>; rel=preload; as=script
+  Link: </2022/component---src-templates-speaker-page-js-4027b97c79f442561486.js>; rel=preload; as=script
+  Link: </2022/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </2022/page-data/program/speakers/cheuk-ting-ho/page-data.json>; rel=preload; as=fetch; crossorigin
+/2022/program/speakers/craig-lang
+  Link: </2022/webpack-runtime-f0b91b3733b1d48bd6d7.js>; rel=preload; as=script
+  Link: </2022/framework-0292a8b80de2284fae46.js>; rel=preload; as=script
+  Link: </2022/252f366e-6a26a063c6c470e62569.js>; rel=preload; as=script
+  Link: </2022/5e2a4920-7aa907ccc6d0eb7ce84f.js>; rel=preload; as=script
+  Link: </2022/1bfc9850-24f8eebf27c7ed5bff0b.js>; rel=preload; as=script
+  Link: </2022/app-1504aa3c679aee6f273f.js>; rel=preload; as=script
+  Link: </2022/component---src-templates-speaker-page-js-4027b97c79f442561486.js>; rel=preload; as=script
+  Link: </2022/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </2022/page-data/program/speakers/craig-lang/page-data.json>; rel=preload; as=fetch; crossorigin
+/2022/program/speakers/colin-dean
+  Link: </2022/webpack-runtime-f0b91b3733b1d48bd6d7.js>; rel=preload; as=script
+  Link: </2022/framework-0292a8b80de2284fae46.js>; rel=preload; as=script
+  Link: </2022/252f366e-6a26a063c6c470e62569.js>; rel=preload; as=script
+  Link: </2022/5e2a4920-7aa907ccc6d0eb7ce84f.js>; rel=preload; as=script
+  Link: </2022/1bfc9850-24f8eebf27c7ed5bff0b.js>; rel=preload; as=script
+  Link: </2022/app-1504aa3c679aee6f273f.js>; rel=preload; as=script
+  Link: </2022/component---src-templates-speaker-page-js-4027b97c79f442561486.js>; rel=preload; as=script
+  Link: </2022/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </2022/page-data/program/speakers/colin-dean/page-data.json>; rel=preload; as=fetch; crossorigin
+/2022/program/speakers/douglas-starnes
+  Link: </2022/webpack-runtime-f0b91b3733b1d48bd6d7.js>; rel=preload; as=script
+  Link: </2022/framework-0292a8b80de2284fae46.js>; rel=preload; as=script
+  Link: </2022/252f366e-6a26a063c6c470e62569.js>; rel=preload; as=script
+  Link: </2022/5e2a4920-7aa907ccc6d0eb7ce84f.js>; rel=preload; as=script
+  Link: </2022/1bfc9850-24f8eebf27c7ed5bff0b.js>; rel=preload; as=script
+  Link: </2022/app-1504aa3c679aee6f273f.js>; rel=preload; as=script
+  Link: </2022/component---src-templates-speaker-page-js-4027b97c79f442561486.js>; rel=preload; as=script
+  Link: </2022/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </2022/page-data/program/speakers/douglas-starnes/page-data.json>; rel=preload; as=fetch; crossorigin
+/2022/program/speakers/daniel-dufour
+  Link: </2022/webpack-runtime-f0b91b3733b1d48bd6d7.js>; rel=preload; as=script
+  Link: </2022/framework-0292a8b80de2284fae46.js>; rel=preload; as=script
+  Link: </2022/252f366e-6a26a063c6c470e62569.js>; rel=preload; as=script
+  Link: </2022/5e2a4920-7aa907ccc6d0eb7ce84f.js>; rel=preload; as=script
+  Link: </2022/1bfc9850-24f8eebf27c7ed5bff0b.js>; rel=preload; as=script
+  Link: </2022/app-1504aa3c679aee6f273f.js>; rel=preload; as=script
+  Link: </2022/component---src-templates-speaker-page-js-4027b97c79f442561486.js>; rel=preload; as=script
+  Link: </2022/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </2022/page-data/program/speakers/daniel-dufour/page-data.json>; rel=preload; as=fetch; crossorigin
+/2022/program/speakers/dave-forgac
+  Link: </2022/webpack-runtime-f0b91b3733b1d48bd6d7.js>; rel=preload; as=script
+  Link: </2022/framework-0292a8b80de2284fae46.js>; rel=preload; as=script
+  Link: </2022/252f366e-6a26a063c6c470e62569.js>; rel=preload; as=script
+  Link: </2022/5e2a4920-7aa907ccc6d0eb7ce84f.js>; rel=preload; as=script
+  Link: </2022/1bfc9850-24f8eebf27c7ed5bff0b.js>; rel=preload; as=script
+  Link: </2022/app-1504aa3c679aee6f273f.js>; rel=preload; as=script
+  Link: </2022/component---src-templates-speaker-page-js-4027b97c79f442561486.js>; rel=preload; as=script
+  Link: </2022/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </2022/page-data/program/speakers/dave-forgac/page-data.json>; rel=preload; as=fetch; crossorigin
+/2022/program/speakers/chris-volny
+  Link: </2022/webpack-runtime-f0b91b3733b1d48bd6d7.js>; rel=preload; as=script
+  Link: </2022/framework-0292a8b80de2284fae46.js>; rel=preload; as=script
+  Link: </2022/252f366e-6a26a063c6c470e62569.js>; rel=preload; as=script
+  Link: </2022/5e2a4920-7aa907ccc6d0eb7ce84f.js>; rel=preload; as=script
+  Link: </2022/1bfc9850-24f8eebf27c7ed5bff0b.js>; rel=preload; as=script
+  Link: </2022/app-1504aa3c679aee6f273f.js>; rel=preload; as=script
+  Link: </2022/component---src-templates-speaker-page-js-4027b97c79f442561486.js>; rel=preload; as=script
+  Link: </2022/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </2022/page-data/program/speakers/chris-volny/page-data.json>; rel=preload; as=fetch; crossorigin
+/2022/program/speakers/catherine-devlin
+  Link: </2022/webpack-runtime-f0b91b3733b1d48bd6d7.js>; rel=preload; as=script
+  Link: </2022/framework-0292a8b80de2284fae46.js>; rel=preload; as=script
+  Link: </2022/252f366e-6a26a063c6c470e62569.js>; rel=preload; as=script
+  Link: </2022/5e2a4920-7aa907ccc6d0eb7ce84f.js>; rel=preload; as=script
+  Link: </2022/1bfc9850-24f8eebf27c7ed5bff0b.js>; rel=preload; as=script
+  Link: </2022/app-1504aa3c679aee6f273f.js>; rel=preload; as=script
+  Link: </2022/component---src-templates-speaker-page-js-4027b97c79f442561486.js>; rel=preload; as=script
+  Link: </2022/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </2022/page-data/program/speakers/catherine-devlin/page-data.json>; rel=preload; as=fetch; crossorigin
+/2022/program/speakers/drake-pocsatko
+  Link: </2022/webpack-runtime-f0b91b3733b1d48bd6d7.js>; rel=preload; as=script
+  Link: </2022/framework-0292a8b80de2284fae46.js>; rel=preload; as=script
+  Link: </2022/252f366e-6a26a063c6c470e62569.js>; rel=preload; as=script
+  Link: </2022/5e2a4920-7aa907ccc6d0eb7ce84f.js>; rel=preload; as=script
+  Link: </2022/1bfc9850-24f8eebf27c7ed5bff0b.js>; rel=preload; as=script
+  Link: </2022/app-1504aa3c679aee6f273f.js>; rel=preload; as=script
+  Link: </2022/component---src-templates-speaker-page-js-4027b97c79f442561486.js>; rel=preload; as=script
+  Link: </2022/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </2022/page-data/program/speakers/drake-pocsatko/page-data.json>; rel=preload; as=fetch; crossorigin
+/2022/program/speakers/erik-welch
+  Link: </2022/webpack-runtime-f0b91b3733b1d48bd6d7.js>; rel=preload; as=script
+  Link: </2022/framework-0292a8b80de2284fae46.js>; rel=preload; as=script
+  Link: </2022/252f366e-6a26a063c6c470e62569.js>; rel=preload; as=script
+  Link: </2022/5e2a4920-7aa907ccc6d0eb7ce84f.js>; rel=preload; as=script
+  Link: </2022/1bfc9850-24f8eebf27c7ed5bff0b.js>; rel=preload; as=script
+  Link: </2022/app-1504aa3c679aee6f273f.js>; rel=preload; as=script
+  Link: </2022/component---src-templates-speaker-page-js-4027b97c79f442561486.js>; rel=preload; as=script
+  Link: </2022/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </2022/page-data/program/speakers/erik-welch/page-data.json>; rel=preload; as=fetch; crossorigin
+/2022/program/speakers/jason-wattier
+  Link: </2022/webpack-runtime-f0b91b3733b1d48bd6d7.js>; rel=preload; as=script
+  Link: </2022/framework-0292a8b80de2284fae46.js>; rel=preload; as=script
+  Link: </2022/252f366e-6a26a063c6c470e62569.js>; rel=preload; as=script
+  Link: </2022/5e2a4920-7aa907ccc6d0eb7ce84f.js>; rel=preload; as=script
+  Link: </2022/1bfc9850-24f8eebf27c7ed5bff0b.js>; rel=preload; as=script
+  Link: </2022/app-1504aa3c679aee6f273f.js>; rel=preload; as=script
+  Link: </2022/component---src-templates-speaker-page-js-4027b97c79f442561486.js>; rel=preload; as=script
+  Link: </2022/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </2022/page-data/program/speakers/jason-wattier/page-data.json>; rel=preload; as=fetch; crossorigin
+/2022/program/speakers/jay-miller
+  Link: </2022/webpack-runtime-f0b91b3733b1d48bd6d7.js>; rel=preload; as=script
+  Link: </2022/framework-0292a8b80de2284fae46.js>; rel=preload; as=script
+  Link: </2022/252f366e-6a26a063c6c470e62569.js>; rel=preload; as=script
+  Link: </2022/5e2a4920-7aa907ccc6d0eb7ce84f.js>; rel=preload; as=script
+  Link: </2022/1bfc9850-24f8eebf27c7ed5bff0b.js>; rel=preload; as=script
+  Link: </2022/app-1504aa3c679aee6f273f.js>; rel=preload; as=script
+  Link: </2022/component---src-templates-speaker-page-js-4027b97c79f442561486.js>; rel=preload; as=script
+  Link: </2022/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </2022/page-data/program/speakers/jay-miller/page-data.json>; rel=preload; as=fetch; crossorigin
+/2022/program/speakers/jurgen-gmach
+  Link: </2022/webpack-runtime-f0b91b3733b1d48bd6d7.js>; rel=preload; as=script
+  Link: </2022/framework-0292a8b80de2284fae46.js>; rel=preload; as=script
+  Link: </2022/252f366e-6a26a063c6c470e62569.js>; rel=preload; as=script
+  Link: </2022/5e2a4920-7aa907ccc6d0eb7ce84f.js>; rel=preload; as=script
+  Link: </2022/1bfc9850-24f8eebf27c7ed5bff0b.js>; rel=preload; as=script
+  Link: </2022/app-1504aa3c679aee6f273f.js>; rel=preload; as=script
+  Link: </2022/component---src-templates-speaker-page-js-4027b97c79f442561486.js>; rel=preload; as=script
+  Link: </2022/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </2022/page-data/program/speakers/jurgen-gmach/page-data.json>; rel=preload; as=fetch; crossorigin
+/2022/program/speakers/evelyn-j-boettcher
+  Link: </2022/webpack-runtime-f0b91b3733b1d48bd6d7.js>; rel=preload; as=script
+  Link: </2022/framework-0292a8b80de2284fae46.js>; rel=preload; as=script
+  Link: </2022/252f366e-6a26a063c6c470e62569.js>; rel=preload; as=script
+  Link: </2022/5e2a4920-7aa907ccc6d0eb7ce84f.js>; rel=preload; as=script
+  Link: </2022/1bfc9850-24f8eebf27c7ed5bff0b.js>; rel=preload; as=script
+  Link: </2022/app-1504aa3c679aee6f273f.js>; rel=preload; as=script
+  Link: </2022/component---src-templates-speaker-page-js-4027b97c79f442561486.js>; rel=preload; as=script
+  Link: </2022/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </2022/page-data/program/speakers/evelyn-j-boettcher/page-data.json>; rel=preload; as=fetch; crossorigin
+/2022/program/speakers/kattni-rembor
+  Link: </2022/webpack-runtime-f0b91b3733b1d48bd6d7.js>; rel=preload; as=script
+  Link: </2022/framework-0292a8b80de2284fae46.js>; rel=preload; as=script
+  Link: </2022/252f366e-6a26a063c6c470e62569.js>; rel=preload; as=script
+  Link: </2022/5e2a4920-7aa907ccc6d0eb7ce84f.js>; rel=preload; as=script
+  Link: </2022/1bfc9850-24f8eebf27c7ed5bff0b.js>; rel=preload; as=script
+  Link: </2022/app-1504aa3c679aee6f273f.js>; rel=preload; as=script
+  Link: </2022/component---src-templates-speaker-page-js-4027b97c79f442561486.js>; rel=preload; as=script
+  Link: </2022/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </2022/page-data/program/speakers/kattni-rembor/page-data.json>; rel=preload; as=fetch; crossorigin
+/2022/program/speakers/mario-munoz
+  Link: </2022/webpack-runtime-f0b91b3733b1d48bd6d7.js>; rel=preload; as=script
+  Link: </2022/framework-0292a8b80de2284fae46.js>; rel=preload; as=script
+  Link: </2022/252f366e-6a26a063c6c470e62569.js>; rel=preload; as=script
+  Link: </2022/5e2a4920-7aa907ccc6d0eb7ce84f.js>; rel=preload; as=script
+  Link: </2022/1bfc9850-24f8eebf27c7ed5bff0b.js>; rel=preload; as=script
+  Link: </2022/app-1504aa3c679aee6f273f.js>; rel=preload; as=script
+  Link: </2022/component---src-templates-speaker-page-js-4027b97c79f442561486.js>; rel=preload; as=script
+  Link: </2022/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </2022/page-data/program/speakers/mario-munoz/page-data.json>; rel=preload; as=fetch; crossorigin
+/2022/program/speakers/mariatta
+  Link: </2022/webpack-runtime-f0b91b3733b1d48bd6d7.js>; rel=preload; as=script
+  Link: </2022/framework-0292a8b80de2284fae46.js>; rel=preload; as=script
+  Link: </2022/252f366e-6a26a063c6c470e62569.js>; rel=preload; as=script
+  Link: </2022/5e2a4920-7aa907ccc6d0eb7ce84f.js>; rel=preload; as=script
+  Link: </2022/1bfc9850-24f8eebf27c7ed5bff0b.js>; rel=preload; as=script
+  Link: </2022/app-1504aa3c679aee6f273f.js>; rel=preload; as=script
+  Link: </2022/component---src-templates-speaker-page-js-4027b97c79f442561486.js>; rel=preload; as=script
+  Link: </2022/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </2022/page-data/program/speakers/mariatta/page-data.json>; rel=preload; as=fetch; crossorigin
+/2022/program/speakers/matt-land
+  Link: </2022/webpack-runtime-f0b91b3733b1d48bd6d7.js>; rel=preload; as=script
+  Link: </2022/framework-0292a8b80de2284fae46.js>; rel=preload; as=script
+  Link: </2022/252f366e-6a26a063c6c470e62569.js>; rel=preload; as=script
+  Link: </2022/5e2a4920-7aa907ccc6d0eb7ce84f.js>; rel=preload; as=script
+  Link: </2022/1bfc9850-24f8eebf27c7ed5bff0b.js>; rel=preload; as=script
+  Link: </2022/app-1504aa3c679aee6f273f.js>; rel=preload; as=script
+  Link: </2022/component---src-templates-speaker-page-js-4027b97c79f442561486.js>; rel=preload; as=script
+  Link: </2022/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </2022/page-data/program/speakers/matt-land/page-data.json>; rel=preload; as=fetch; crossorigin
+/2022/program/speakers/matt-eland
+  Link: </2022/webpack-runtime-f0b91b3733b1d48bd6d7.js>; rel=preload; as=script
+  Link: </2022/framework-0292a8b80de2284fae46.js>; rel=preload; as=script
+  Link: </2022/252f366e-6a26a063c6c470e62569.js>; rel=preload; as=script
+  Link: </2022/5e2a4920-7aa907ccc6d0eb7ce84f.js>; rel=preload; as=script
+  Link: </2022/1bfc9850-24f8eebf27c7ed5bff0b.js>; rel=preload; as=script
+  Link: </2022/app-1504aa3c679aee6f273f.js>; rel=preload; as=script
+  Link: </2022/component---src-templates-speaker-page-js-4027b97c79f442561486.js>; rel=preload; as=script
+  Link: </2022/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </2022/page-data/program/speakers/matt-eland/page-data.json>; rel=preload; as=fetch; crossorigin
+/2022/program/speakers/mason-egger
+  Link: </2022/webpack-runtime-f0b91b3733b1d48bd6d7.js>; rel=preload; as=script
+  Link: </2022/framework-0292a8b80de2284fae46.js>; rel=preload; as=script
+  Link: </2022/252f366e-6a26a063c6c470e62569.js>; rel=preload; as=script
+  Link: </2022/5e2a4920-7aa907ccc6d0eb7ce84f.js>; rel=preload; as=script
+  Link: </2022/1bfc9850-24f8eebf27c7ed5bff0b.js>; rel=preload; as=script
+  Link: </2022/app-1504aa3c679aee6f273f.js>; rel=preload; as=script
+  Link: </2022/component---src-templates-speaker-page-js-4027b97c79f442561486.js>; rel=preload; as=script
+  Link: </2022/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </2022/page-data/program/speakers/mason-egger/page-data.json>; rel=preload; as=fetch; crossorigin
+/2022/program/speakers/michael-n
+  Link: </2022/webpack-runtime-f0b91b3733b1d48bd6d7.js>; rel=preload; as=script
+  Link: </2022/framework-0292a8b80de2284fae46.js>; rel=preload; as=script
+  Link: </2022/252f366e-6a26a063c6c470e62569.js>; rel=preload; as=script
+  Link: </2022/5e2a4920-7aa907ccc6d0eb7ce84f.js>; rel=preload; as=script
+  Link: </2022/1bfc9850-24f8eebf27c7ed5bff0b.js>; rel=preload; as=script
+  Link: </2022/app-1504aa3c679aee6f273f.js>; rel=preload; as=script
+  Link: </2022/component---src-templates-speaker-page-js-4027b97c79f442561486.js>; rel=preload; as=script
+  Link: </2022/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </2022/page-data/program/speakers/michael-n/page-data.json>; rel=preload; as=fetch; crossorigin
+/2022/program/speakers/mike-driscoll
+  Link: </2022/webpack-runtime-f0b91b3733b1d48bd6d7.js>; rel=preload; as=script
+  Link: </2022/framework-0292a8b80de2284fae46.js>; rel=preload; as=script
+  Link: </2022/252f366e-6a26a063c6c470e62569.js>; rel=preload; as=script
+  Link: </2022/5e2a4920-7aa907ccc6d0eb7ce84f.js>; rel=preload; as=script
+  Link: </2022/1bfc9850-24f8eebf27c7ed5bff0b.js>; rel=preload; as=script
+  Link: </2022/app-1504aa3c679aee6f273f.js>; rel=preload; as=script
+  Link: </2022/component---src-templates-speaker-page-js-4027b97c79f442561486.js>; rel=preload; as=script
+  Link: </2022/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </2022/page-data/program/speakers/mike-driscoll/page-data.json>; rel=preload; as=fetch; crossorigin
+/2022/program/speakers/olmo-maldonado
+  Link: </2022/webpack-runtime-f0b91b3733b1d48bd6d7.js>; rel=preload; as=script
+  Link: </2022/framework-0292a8b80de2284fae46.js>; rel=preload; as=script
+  Link: </2022/252f366e-6a26a063c6c470e62569.js>; rel=preload; as=script
+  Link: </2022/5e2a4920-7aa907ccc6d0eb7ce84f.js>; rel=preload; as=script
+  Link: </2022/1bfc9850-24f8eebf27c7ed5bff0b.js>; rel=preload; as=script
+  Link: </2022/app-1504aa3c679aee6f273f.js>; rel=preload; as=script
+  Link: </2022/component---src-templates-speaker-page-js-4027b97c79f442561486.js>; rel=preload; as=script
+  Link: </2022/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </2022/page-data/program/speakers/olmo-maldonado/page-data.json>; rel=preload; as=fetch; crossorigin
+/2022/program/speakers/mike-pirnat
+  Link: </2022/webpack-runtime-f0b91b3733b1d48bd6d7.js>; rel=preload; as=script
+  Link: </2022/framework-0292a8b80de2284fae46.js>; rel=preload; as=script
+  Link: </2022/252f366e-6a26a063c6c470e62569.js>; rel=preload; as=script
+  Link: </2022/5e2a4920-7aa907ccc6d0eb7ce84f.js>; rel=preload; as=script
+  Link: </2022/1bfc9850-24f8eebf27c7ed5bff0b.js>; rel=preload; as=script
+  Link: </2022/app-1504aa3c679aee6f273f.js>; rel=preload; as=script
+  Link: </2022/component---src-templates-speaker-page-js-4027b97c79f442561486.js>; rel=preload; as=script
+  Link: </2022/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </2022/page-data/program/speakers/mike-pirnat/page-data.json>; rel=preload; as=fetch; crossorigin
+/2022/program/speakers/moshe-zadka
+  Link: </2022/webpack-runtime-f0b91b3733b1d48bd6d7.js>; rel=preload; as=script
+  Link: </2022/framework-0292a8b80de2284fae46.js>; rel=preload; as=script
+  Link: </2022/252f366e-6a26a063c6c470e62569.js>; rel=preload; as=script
+  Link: </2022/5e2a4920-7aa907ccc6d0eb7ce84f.js>; rel=preload; as=script
+  Link: </2022/1bfc9850-24f8eebf27c7ed5bff0b.js>; rel=preload; as=script
+  Link: </2022/app-1504aa3c679aee6f273f.js>; rel=preload; as=script
+  Link: </2022/component---src-templates-speaker-page-js-4027b97c79f442561486.js>; rel=preload; as=script
+  Link: </2022/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </2022/page-data/program/speakers/moshe-zadka/page-data.json>; rel=preload; as=fetch; crossorigin
+/2022/program/speakers/rainu-ittycheriah
+  Link: </2022/webpack-runtime-f0b91b3733b1d48bd6d7.js>; rel=preload; as=script
+  Link: </2022/framework-0292a8b80de2284fae46.js>; rel=preload; as=script
+  Link: </2022/252f366e-6a26a063c6c470e62569.js>; rel=preload; as=script
+  Link: </2022/5e2a4920-7aa907ccc6d0eb7ce84f.js>; rel=preload; as=script
+  Link: </2022/1bfc9850-24f8eebf27c7ed5bff0b.js>; rel=preload; as=script
+  Link: </2022/app-1504aa3c679aee6f273f.js>; rel=preload; as=script
+  Link: </2022/component---src-templates-speaker-page-js-4027b97c79f442561486.js>; rel=preload; as=script
+  Link: </2022/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </2022/page-data/program/speakers/rainu-ittycheriah/page-data.json>; rel=preload; as=fetch; crossorigin
+/2022/program/speakers/pandy-knight
+  Link: </2022/webpack-runtime-f0b91b3733b1d48bd6d7.js>; rel=preload; as=script
+  Link: </2022/framework-0292a8b80de2284fae46.js>; rel=preload; as=script
+  Link: </2022/252f366e-6a26a063c6c470e62569.js>; rel=preload; as=script
+  Link: </2022/5e2a4920-7aa907ccc6d0eb7ce84f.js>; rel=preload; as=script
+  Link: </2022/1bfc9850-24f8eebf27c7ed5bff0b.js>; rel=preload; as=script
+  Link: </2022/app-1504aa3c679aee6f273f.js>; rel=preload; as=script
+  Link: </2022/component---src-templates-speaker-page-js-4027b97c79f442561486.js>; rel=preload; as=script
+  Link: </2022/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </2022/page-data/program/speakers/pandy-knight/page-data.json>; rel=preload; as=fetch; crossorigin
+/2022/program/speakers/peter-bosch
+  Link: </2022/webpack-runtime-f0b91b3733b1d48bd6d7.js>; rel=preload; as=script
+  Link: </2022/framework-0292a8b80de2284fae46.js>; rel=preload; as=script
+  Link: </2022/252f366e-6a26a063c6c470e62569.js>; rel=preload; as=script
+  Link: </2022/5e2a4920-7aa907ccc6d0eb7ce84f.js>; rel=preload; as=script
+  Link: </2022/1bfc9850-24f8eebf27c7ed5bff0b.js>; rel=preload; as=script
+  Link: </2022/app-1504aa3c679aee6f273f.js>; rel=preload; as=script
+  Link: </2022/component---src-templates-speaker-page-js-4027b97c79f442561486.js>; rel=preload; as=script
+  Link: </2022/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </2022/page-data/program/speakers/peter-bosch/page-data.json>; rel=preload; as=fetch; crossorigin
+/2022/program/speakers/sarah-cummings
+  Link: </2022/webpack-runtime-f0b91b3733b1d48bd6d7.js>; rel=preload; as=script
+  Link: </2022/framework-0292a8b80de2284fae46.js>; rel=preload; as=script
+  Link: </2022/252f366e-6a26a063c6c470e62569.js>; rel=preload; as=script
+  Link: </2022/5e2a4920-7aa907ccc6d0eb7ce84f.js>; rel=preload; as=script
+  Link: </2022/1bfc9850-24f8eebf27c7ed5bff0b.js>; rel=preload; as=script
+  Link: </2022/app-1504aa3c679aee6f273f.js>; rel=preload; as=script
+  Link: </2022/component---src-templates-speaker-page-js-4027b97c79f442561486.js>; rel=preload; as=script
+  Link: </2022/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </2022/page-data/program/speakers/sarah-cummings/page-data.json>; rel=preload; as=fetch; crossorigin
+/2022/program/speakers/rodrigo-girao-serrao
+  Link: </2022/webpack-runtime-f0b91b3733b1d48bd6d7.js>; rel=preload; as=script
+  Link: </2022/framework-0292a8b80de2284fae46.js>; rel=preload; as=script
+  Link: </2022/252f366e-6a26a063c6c470e62569.js>; rel=preload; as=script
+  Link: </2022/5e2a4920-7aa907ccc6d0eb7ce84f.js>; rel=preload; as=script
+  Link: </2022/1bfc9850-24f8eebf27c7ed5bff0b.js>; rel=preload; as=script
+  Link: </2022/app-1504aa3c679aee6f273f.js>; rel=preload; as=script
+  Link: </2022/component---src-templates-speaker-page-js-4027b97c79f442561486.js>; rel=preload; as=script
+  Link: </2022/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </2022/page-data/program/speakers/rodrigo-girao-serrao/page-data.json>; rel=preload; as=fetch; crossorigin
+/2022/program/speakers/shreya-khurana
+  Link: </2022/webpack-runtime-f0b91b3733b1d48bd6d7.js>; rel=preload; as=script
+  Link: </2022/framework-0292a8b80de2284fae46.js>; rel=preload; as=script
+  Link: </2022/252f366e-6a26a063c6c470e62569.js>; rel=preload; as=script
+  Link: </2022/5e2a4920-7aa907ccc6d0eb7ce84f.js>; rel=preload; as=script
+  Link: </2022/1bfc9850-24f8eebf27c7ed5bff0b.js>; rel=preload; as=script
+  Link: </2022/app-1504aa3c679aee6f273f.js>; rel=preload; as=script
+  Link: </2022/component---src-templates-speaker-page-js-4027b97c79f442561486.js>; rel=preload; as=script
+  Link: </2022/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </2022/page-data/program/speakers/shreya-khurana/page-data.json>; rel=preload; as=fetch; crossorigin
+/2022/program/speakers/reshama-shaikh
+  Link: </2022/webpack-runtime-f0b91b3733b1d48bd6d7.js>; rel=preload; as=script
+  Link: </2022/framework-0292a8b80de2284fae46.js>; rel=preload; as=script
+  Link: </2022/252f366e-6a26a063c6c470e62569.js>; rel=preload; as=script
+  Link: </2022/5e2a4920-7aa907ccc6d0eb7ce84f.js>; rel=preload; as=script
+  Link: </2022/1bfc9850-24f8eebf27c7ed5bff0b.js>; rel=preload; as=script
+  Link: </2022/app-1504aa3c679aee6f273f.js>; rel=preload; as=script
+  Link: </2022/component---src-templates-speaker-page-js-4027b97c79f442561486.js>; rel=preload; as=script
+  Link: </2022/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </2022/page-data/program/speakers/reshama-shaikh/page-data.json>; rel=preload; as=fetch; crossorigin
+/2022/program/schedule/
+  Link: </2022/webpack-runtime-f0b91b3733b1d48bd6d7.js>; rel=preload; as=script
+  Link: </2022/framework-0292a8b80de2284fae46.js>; rel=preload; as=script
+  Link: </2022/252f366e-6a26a063c6c470e62569.js>; rel=preload; as=script
+  Link: </2022/5e2a4920-7aa907ccc6d0eb7ce84f.js>; rel=preload; as=script
+  Link: </2022/1bfc9850-24f8eebf27c7ed5bff0b.js>; rel=preload; as=script
+  Link: </2022/app-1504aa3c679aee6f273f.js>; rel=preload; as=script
+  Link: </2022/0f1ac474-46d92f3cd850c0c4478c.js>; rel=preload; as=script
+  Link: </2022/component---content-pages-program-schedule-js-a735ccb2ce1ad77f8b30.js>; rel=preload; as=script
+  Link: </2022/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </2022/page-data/program/schedule/page-data.json>; rel=preload; as=fetch; crossorigin
+/2022/program/speakers/
+  Link: </2022/webpack-runtime-f0b91b3733b1d48bd6d7.js>; rel=preload; as=script
+  Link: </2022/framework-0292a8b80de2284fae46.js>; rel=preload; as=script
+  Link: </2022/252f366e-6a26a063c6c470e62569.js>; rel=preload; as=script
+  Link: </2022/5e2a4920-7aa907ccc6d0eb7ce84f.js>; rel=preload; as=script
+  Link: </2022/1bfc9850-24f8eebf27c7ed5bff0b.js>; rel=preload; as=script
+  Link: </2022/app-1504aa3c679aee6f273f.js>; rel=preload; as=script
+  Link: </2022/component---content-pages-program-speakers-js-6aac4242fefdea8a1134.js>; rel=preload; as=script
+  Link: </2022/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </2022/page-data/program/speakers/page-data.json>; rel=preload; as=fetch; crossorigin
+/2022/program/talks/
+  Link: </2022/webpack-runtime-f0b91b3733b1d48bd6d7.js>; rel=preload; as=script
+  Link: </2022/framework-0292a8b80de2284fae46.js>; rel=preload; as=script
+  Link: </2022/252f366e-6a26a063c6c470e62569.js>; rel=preload; as=script
+  Link: </2022/5e2a4920-7aa907ccc6d0eb7ce84f.js>; rel=preload; as=script
+  Link: </2022/1bfc9850-24f8eebf27c7ed5bff0b.js>; rel=preload; as=script
+  Link: </2022/app-1504aa3c679aee6f273f.js>; rel=preload; as=script
+  Link: </2022/component---content-pages-program-talks-js-847ab47424887d8c8457.js>; rel=preload; as=script
+  Link: </2022/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </2022/page-data/program/talks/page-data.json>; rel=preload; as=fetch; crossorigin
+/2022/404/
+  Link: </2022/webpack-runtime-f0b91b3733b1d48bd6d7.js>; rel=preload; as=script
+  Link: </2022/framework-0292a8b80de2284fae46.js>; rel=preload; as=script
+  Link: </2022/252f366e-6a26a063c6c470e62569.js>; rel=preload; as=script
+  Link: </2022/5e2a4920-7aa907ccc6d0eb7ce84f.js>; rel=preload; as=script
+  Link: </2022/1bfc9850-24f8eebf27c7ed5bff0b.js>; rel=preload; as=script
+  Link: </2022/app-1504aa3c679aee6f273f.js>; rel=preload; as=script
+  Link: </2022/component---content-pages-404-mdx-075d08f62f172dd066b7.js>; rel=preload; as=script
+  Link: </2022/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </2022/page-data/404/page-data.json>; rel=preload; as=fetch; crossorigin
+/2022/404.html
+  Link: </2022/webpack-runtime-f0b91b3733b1d48bd6d7.js>; rel=preload; as=script
+  Link: </2022/framework-0292a8b80de2284fae46.js>; rel=preload; as=script
+  Link: </2022/252f366e-6a26a063c6c470e62569.js>; rel=preload; as=script
+  Link: </2022/5e2a4920-7aa907ccc6d0eb7ce84f.js>; rel=preload; as=script
+  Link: </2022/1bfc9850-24f8eebf27c7ed5bff0b.js>; rel=preload; as=script
+  Link: </2022/app-1504aa3c679aee6f273f.js>; rel=preload; as=script
+  Link: </2022/component---content-pages-404-mdx-075d08f62f172dd066b7.js>; rel=preload; as=script
+  Link: </2022/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </2022/page-data/404.html/page-data.json>; rel=preload; as=fetch; crossorigin
+/2022/
+  Link: </2022/webpack-runtime-f0b91b3733b1d48bd6d7.js>; rel=preload; as=script
+  Link: </2022/framework-0292a8b80de2284fae46.js>; rel=preload; as=script
+  Link: </2022/252f366e-6a26a063c6c470e62569.js>; rel=preload; as=script
+  Link: </2022/5e2a4920-7aa907ccc6d0eb7ce84f.js>; rel=preload; as=script
+  Link: </2022/1bfc9850-24f8eebf27c7ed5bff0b.js>; rel=preload; as=script
+  Link: </2022/app-1504aa3c679aee6f273f.js>; rel=preload; as=script
+  Link: </2022/component---content-pages-index-mdx-5a8a5cea3d2037249300.js>; rel=preload; as=script
+  Link: </2022/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </2022/page-data/index/page-data.json>; rel=preload; as=fetch; crossorigin
+/2022/participate/register/
+  Link: </2022/webpack-runtime-f0b91b3733b1d48bd6d7.js>; rel=preload; as=script
+  Link: </2022/framework-0292a8b80de2284fae46.js>; rel=preload; as=script
+  Link: </2022/252f366e-6a26a063c6c470e62569.js>; rel=preload; as=script
+  Link: </2022/5e2a4920-7aa907ccc6d0eb7ce84f.js>; rel=preload; as=script
+  Link: </2022/1bfc9850-24f8eebf27c7ed5bff0b.js>; rel=preload; as=script
+  Link: </2022/app-1504aa3c679aee6f273f.js>; rel=preload; as=script
+  Link: </2022/component---content-pages-participate-register-mdx-bd1406a1f1d295ccb9be.js>; rel=preload; as=script
+  Link: </2022/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </2022/page-data/participate/register/page-data.json>; rel=preload; as=fetch; crossorigin
+/2022/participate/shirts/
+  Link: </2022/webpack-runtime-f0b91b3733b1d48bd6d7.js>; rel=preload; as=script
+  Link: </2022/framework-0292a8b80de2284fae46.js>; rel=preload; as=script
+  Link: </2022/252f366e-6a26a063c6c470e62569.js>; rel=preload; as=script
+  Link: </2022/5e2a4920-7aa907ccc6d0eb7ce84f.js>; rel=preload; as=script
+  Link: </2022/1bfc9850-24f8eebf27c7ed5bff0b.js>; rel=preload; as=script
+  Link: </2022/app-1504aa3c679aee6f273f.js>; rel=preload; as=script
+  Link: </2022/component---content-pages-participate-shirts-mdx-5186b370e104cb0e365f.js>; rel=preload; as=script
+  Link: </2022/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </2022/page-data/participate/shirts/page-data.json>; rel=preload; as=fetch; crossorigin
+/2022/example/
+  Link: </2022/webpack-runtime-f0b91b3733b1d48bd6d7.js>; rel=preload; as=script
+  Link: </2022/framework-0292a8b80de2284fae46.js>; rel=preload; as=script
+  Link: </2022/252f366e-6a26a063c6c470e62569.js>; rel=preload; as=script
+  Link: </2022/5e2a4920-7aa907ccc6d0eb7ce84f.js>; rel=preload; as=script
+  Link: </2022/1bfc9850-24f8eebf27c7ed5bff0b.js>; rel=preload; as=script
+  Link: </2022/app-1504aa3c679aee6f273f.js>; rel=preload; as=script
+  Link: </2022/component---content-pages-example-mdx-8480d39634054332501f.js>; rel=preload; as=script
+  Link: </2022/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </2022/page-data/example/page-data.json>; rel=preload; as=fetch; crossorigin
+/2022/participate/
+  Link: </2022/webpack-runtime-f0b91b3733b1d48bd6d7.js>; rel=preload; as=script
+  Link: </2022/framework-0292a8b80de2284fae46.js>; rel=preload; as=script
+  Link: </2022/252f366e-6a26a063c6c470e62569.js>; rel=preload; as=script
+  Link: </2022/5e2a4920-7aa907ccc6d0eb7ce84f.js>; rel=preload; as=script
+  Link: </2022/1bfc9850-24f8eebf27c7ed5bff0b.js>; rel=preload; as=script
+  Link: </2022/app-1504aa3c679aee6f273f.js>; rel=preload; as=script
+  Link: </2022/component---content-pages-participate-index-mdx-da45207316e5b91435a0.js>; rel=preload; as=script
+  Link: </2022/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </2022/page-data/participate/page-data.json>; rel=preload; as=fetch; crossorigin
+/2022/about/
+  Link: </2022/webpack-runtime-f0b91b3733b1d48bd6d7.js>; rel=preload; as=script
+  Link: </2022/framework-0292a8b80de2284fae46.js>; rel=preload; as=script
+  Link: </2022/252f366e-6a26a063c6c470e62569.js>; rel=preload; as=script
+  Link: </2022/5e2a4920-7aa907ccc6d0eb7ce84f.js>; rel=preload; as=script
+  Link: </2022/1bfc9850-24f8eebf27c7ed5bff0b.js>; rel=preload; as=script
+  Link: </2022/app-1504aa3c679aee6f273f.js>; rel=preload; as=script
+  Link: </2022/component---content-pages-about-index-mdx-e08f33d2d21a49e8b86b.js>; rel=preload; as=script
+  Link: </2022/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </2022/page-data/about/page-data.json>; rel=preload; as=fetch; crossorigin
+/2022/participate/volunteer/
+  Link: </2022/webpack-runtime-f0b91b3733b1d48bd6d7.js>; rel=preload; as=script
+  Link: </2022/framework-0292a8b80de2284fae46.js>; rel=preload; as=script
+  Link: </2022/252f366e-6a26a063c6c470e62569.js>; rel=preload; as=script
+  Link: </2022/5e2a4920-7aa907ccc6d0eb7ce84f.js>; rel=preload; as=script
+  Link: </2022/1bfc9850-24f8eebf27c7ed5bff0b.js>; rel=preload; as=script
+  Link: </2022/app-1504aa3c679aee6f273f.js>; rel=preload; as=script
+  Link: </2022/component---content-pages-participate-volunteer-mdx-80e58ef2e161bf9877db.js>; rel=preload; as=script
+  Link: </2022/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </2022/page-data/participate/volunteer/page-data.json>; rel=preload; as=fetch; crossorigin
+/2022/about/newsletter/
+  Link: </2022/webpack-runtime-f0b91b3733b1d48bd6d7.js>; rel=preload; as=script
+  Link: </2022/framework-0292a8b80de2284fae46.js>; rel=preload; as=script
+  Link: </2022/252f366e-6a26a063c6c470e62569.js>; rel=preload; as=script
+  Link: </2022/5e2a4920-7aa907ccc6d0eb7ce84f.js>; rel=preload; as=script
+  Link: </2022/1bfc9850-24f8eebf27c7ed5bff0b.js>; rel=preload; as=script
+  Link: </2022/app-1504aa3c679aee6f273f.js>; rel=preload; as=script
+  Link: </2022/component---content-pages-about-newsletter-mdx-671c3df3eb526c4d9a7c.js>; rel=preload; as=script
+  Link: </2022/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </2022/page-data/about/newsletter/page-data.json>; rel=preload; as=fetch; crossorigin
+/2022/about/ohpyo/
+  Link: </2022/webpack-runtime-f0b91b3733b1d48bd6d7.js>; rel=preload; as=script
+  Link: </2022/framework-0292a8b80de2284fae46.js>; rel=preload; as=script
+  Link: </2022/252f366e-6a26a063c6c470e62569.js>; rel=preload; as=script
+  Link: </2022/5e2a4920-7aa907ccc6d0eb7ce84f.js>; rel=preload; as=script
+  Link: </2022/1bfc9850-24f8eebf27c7ed5bff0b.js>; rel=preload; as=script
+  Link: </2022/app-1504aa3c679aee6f273f.js>; rel=preload; as=script
+  Link: </2022/component---content-pages-about-ohpyo-mdx-80f373f4ac9c452a7b5a.js>; rel=preload; as=script
+  Link: </2022/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </2022/page-data/about/ohpyo/page-data.json>; rel=preload; as=fetch; crossorigin
+/2022/speaking/speaker-info/
+  Link: </2022/webpack-runtime-f0b91b3733b1d48bd6d7.js>; rel=preload; as=script
+  Link: </2022/framework-0292a8b80de2284fae46.js>; rel=preload; as=script
+  Link: </2022/252f366e-6a26a063c6c470e62569.js>; rel=preload; as=script
+  Link: </2022/5e2a4920-7aa907ccc6d0eb7ce84f.js>; rel=preload; as=script
+  Link: </2022/1bfc9850-24f8eebf27c7ed5bff0b.js>; rel=preload; as=script
+  Link: </2022/app-1504aa3c679aee6f273f.js>; rel=preload; as=script
+  Link: </2022/component---content-pages-speaking-speaker-info-mdx-71d84aeaa2e3fdcf2d6f.js>; rel=preload; as=script
+  Link: </2022/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </2022/page-data/speaking/speaker-info/page-data.json>; rel=preload; as=fetch; crossorigin
+/2022/speaking/call-for-proposals/
+  Link: </2022/webpack-runtime-f0b91b3733b1d48bd6d7.js>; rel=preload; as=script
+  Link: </2022/framework-0292a8b80de2284fae46.js>; rel=preload; as=script
+  Link: </2022/252f366e-6a26a063c6c470e62569.js>; rel=preload; as=script
+  Link: </2022/5e2a4920-7aa907ccc6d0eb7ce84f.js>; rel=preload; as=script
+  Link: </2022/1bfc9850-24f8eebf27c7ed5bff0b.js>; rel=preload; as=script
+  Link: </2022/app-1504aa3c679aee6f273f.js>; rel=preload; as=script
+  Link: </2022/component---content-pages-speaking-call-for-proposals-mdx-77c1b462e7af1f0e62e1.js>; rel=preload; as=script
+  Link: </2022/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </2022/page-data/speaking/call-for-proposals/page-data.json>; rel=preload; as=fetch; crossorigin
+/2022/about/code-of-conduct/
+  Link: </2022/webpack-runtime-f0b91b3733b1d48bd6d7.js>; rel=preload; as=script
+  Link: </2022/framework-0292a8b80de2284fae46.js>; rel=preload; as=script
+  Link: </2022/252f366e-6a26a063c6c470e62569.js>; rel=preload; as=script
+  Link: </2022/5e2a4920-7aa907ccc6d0eb7ce84f.js>; rel=preload; as=script
+  Link: </2022/1bfc9850-24f8eebf27c7ed5bff0b.js>; rel=preload; as=script
+  Link: </2022/app-1504aa3c679aee6f273f.js>; rel=preload; as=script
+  Link: </2022/component---content-pages-about-code-of-conduct-index-mdx-e0a8315da730466d8147.js>; rel=preload; as=script
+  Link: </2022/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </2022/page-data/about/code-of-conduct/page-data.json>; rel=preload; as=fetch; crossorigin
+/2022/about/code-of-conduct/staff-procedure/
+  Link: </2022/webpack-runtime-f0b91b3733b1d48bd6d7.js>; rel=preload; as=script
+  Link: </2022/framework-0292a8b80de2284fae46.js>; rel=preload; as=script
+  Link: </2022/252f366e-6a26a063c6c470e62569.js>; rel=preload; as=script
+  Link: </2022/5e2a4920-7aa907ccc6d0eb7ce84f.js>; rel=preload; as=script
+  Link: </2022/1bfc9850-24f8eebf27c7ed5bff0b.js>; rel=preload; as=script
+  Link: </2022/app-1504aa3c679aee6f273f.js>; rel=preload; as=script
+  Link: </2022/component---content-pages-about-code-of-conduct-staff-procedure-mdx-9449fa5fd8ff4b3d5d51.js>; rel=preload; as=script
+  Link: </2022/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </2022/page-data/about/code-of-conduct/staff-procedure/page-data.json>; rel=preload; as=fetch; crossorigin
+/2022/about/code-of-conduct/reporting-procedure/
+  Link: </2022/webpack-runtime-f0b91b3733b1d48bd6d7.js>; rel=preload; as=script
+  Link: </2022/framework-0292a8b80de2284fae46.js>; rel=preload; as=script
+  Link: </2022/252f366e-6a26a063c6c470e62569.js>; rel=preload; as=script
+  Link: </2022/5e2a4920-7aa907ccc6d0eb7ce84f.js>; rel=preload; as=script
+  Link: </2022/1bfc9850-24f8eebf27c7ed5bff0b.js>; rel=preload; as=script
+  Link: </2022/app-1504aa3c679aee6f273f.js>; rel=preload; as=script
+  Link: </2022/component---content-pages-about-code-of-conduct-reporting-procedure-mdx-d15939b6f7ec390130b3.js>; rel=preload; as=script
+  Link: </2022/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </2022/page-data/about/code-of-conduct/reporting-procedure/page-data.json>; rel=preload; as=fetch; crossorigin
+/2022/program/
+  Link: </2022/webpack-runtime-f0b91b3733b1d48bd6d7.js>; rel=preload; as=script
+  Link: </2022/framework-0292a8b80de2284fae46.js>; rel=preload; as=script
+  Link: </2022/252f366e-6a26a063c6c470e62569.js>; rel=preload; as=script
+  Link: </2022/5e2a4920-7aa907ccc6d0eb7ce84f.js>; rel=preload; as=script
+  Link: </2022/1bfc9850-24f8eebf27c7ed5bff0b.js>; rel=preload; as=script
+  Link: </2022/app-1504aa3c679aee6f273f.js>; rel=preload; as=script
+  Link: </2022/component---content-pages-program-index-mdx-8647905bc195ec89ba4f.js>; rel=preload; as=script
+  Link: </2022/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </2022/page-data/program/page-data.json>; rel=preload; as=fetch; crossorigin
