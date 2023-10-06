@@ -1,8 +1,10 @@
-PyOhio Logos
-============
+# PyOhio Logos
 
-Conference Logos
-----------------
+## Conference Logos
+
+### 2022
+
+![PyOhio 2022 Logo](./2022/pyohio-2022-logo.png)
 
 ### 2021
 
@@ -44,10 +46,8 @@ Conference Logos
 
 ![PyOhio 2013 Logo](./2013/pyohio-2013-logo.png)
 
-PyOhio Standard Logos
----------------------
+## PyOhio Standard Logos
 
 ![PyOhio Logo](pyohio-logo.png)
 
 ![PyOhio Square Logo](pyohio-logo-square.png)
-
