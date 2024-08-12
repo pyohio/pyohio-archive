@@ -12,7 +12,9 @@ Design by [Brian Emling](https://brianemling.com/)
 
 ### 2023
 
-`#463667` <img valign='middle' src='https://readme-swatches.vercel.app/463667?style=circle'/>
+![PyOhio 2023 Logo](./2023/pyohio-2023-logo.png)
+
+`#dd582a` <img valign='middle' src='https://readme-swatches.vercel.app/dd582a?style=circle'/>
 
 ### 2022
 
