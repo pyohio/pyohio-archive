@@ -2,6 +2,16 @@
 
 ## Conference Logos
 
+### 2025
+
+![PyOhio 2025 Logo](./2025/pyohio-2025-logo.png)
+
+<img valign='middle' src='https://readme-swatches.vercel.app/94719b?style=circle'/> `#94719b`,
+<img valign='middle' src='https://readme-swatches.vercel.app/36ace2?style=circle'/> `#36ace2`,
+<img valign='middle' src='https://readme-swatches.vercel.app/2c5131?style=circle'/> `#2c5131`
+
+Design by [Justin Michael Will](https://www.justinmichaelwill.com/)
+
 ### 2024
 
 ![PyOhio 2024 Logo](./2024/pyohio-2024-logo.png)
